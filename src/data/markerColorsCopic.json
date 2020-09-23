@@ -1,0 +1,4300 @@
+{
+    "copic": [
+        {
+            "brand": "Copic",
+            "code": "BV0000",
+            "name": "Pale Thistle",
+            "nameRu": "",
+            "hex": "#eeecf5",
+            "rgb": [
+                238,
+                236,
+                245
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV000",
+            "name": "Iridescent Mauve",
+            "nameRu": "",
+            "hex": "#eee7f1",
+            "rgb": [
+                238,
+                231,
+                241
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV00",
+            "name": "Mauve Shadow",
+            "nameRu": "",
+            "hex": "#e9e3f0",
+            "rgb": [
+                233,
+                227,
+                240
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV01",
+            "name": "Viola",
+            "nameRu": "",
+            "hex": "#c8c4df",
+            "rgb": [
+                200,
+                196,
+                223
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV02",
+            "name": "Prune",
+            "nameRu": "",
+            "hex": "#bec4df",
+            "rgb": [
+                190,
+                196,
+                223
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV04",
+            "name": "Blue Berry",
+            "nameRu": "",
+            "hex": "#92a4ce",
+            "rgb": [
+                146,
+                164,
+                206
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV08",
+            "name": "Blue Violet",
+            "nameRu": "",
+            "hex": "#b08cb9",
+            "rgb": [
+                176,
+                140,
+                185
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV11",
+            "name": "Soft Violet",
+            "nameRu": "",
+            "hex": "#e0dcec",
+            "rgb": [
+                224,
+                220,
+                236
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV13",
+            "name": "Hydrangea Blue",
+            "nameRu": "",
+            "hex": "#989ec9",
+            "rgb": [
+                152,
+                158,
+                201
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV17",
+            "name": "Deep Reddish Blue",
+            "nameRu": "",
+            "hex": "#7e90bd",
+            "rgb": [
+                126,
+                144,
+                189
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV20",
+            "name": "Dull Lavender",
+            "nameRu": "",
+            "hex": "#dce3f2",
+            "rgb": [
+                220,
+                227,
+                242
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV23",
+            "name": "Grayish Lavender",
+            "nameRu": "",
+            "hex": "#c4cde1",
+            "rgb": [
+                196,
+                205,
+                225
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV25",
+            "name": "Grayish Violet",
+            "nameRu": "",
+            "hex": "#908fac",
+            "rgb": [
+                144,
+                143,
+                172
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV29",
+            "name": "Slate",
+            "nameRu": "",
+            "hex": "#2e4256",
+            "rgb": [
+                46,
+                66,
+                86
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV31",
+            "name": "Pale Lavender",
+            "nameRu": "",
+            "hex": "#e6e8f4",
+            "rgb": [
+                230,
+                232,
+                244
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BV34",
+            "name": "Bluebell",
+            "nameRu": "",
+            "hex": "#7f92bd",
+            "rgb": [
+                127,
+                146,
+                189
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V0000",
+            "name": "Rose Quartz",
+            "nameRu": "",
+            "hex": "#f3f1f8",
+            "rgb": [
+                243,
+                241,
+                248
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V000",
+            "name": "Pale Heath",
+            "nameRu": "",
+            "hex": "#f7f2f7",
+            "rgb": [
+                247,
+                242,
+                247
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V01",
+            "name": "Heath",
+            "nameRu": "",
+            "hex": "#edccde",
+            "rgb": [
+                237,
+                204,
+                222
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V04",
+            "name": "Lilac",
+            "nameRu": "",
+            "hex": "#edb9d1",
+            "rgb": [
+                237,
+                185,
+                209
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V05",
+            "name": "Azalea",
+            "nameRu": "",
+            "hex": "#ecb4ce",
+            "rgb": [
+                236,
+                180,
+                206
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V06",
+            "name": "Lavender",
+            "nameRu": "",
+            "hex": "#dba5c6",
+            "rgb": [
+                219,
+                165,
+                198
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V09",
+            "name": "Violet",
+            "nameRu": "",
+            "hex": "#97599a",
+            "rgb": [
+                151,
+                89,
+                154
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V12",
+            "name": "Pale Lilac",
+            "nameRu": "",
+            "hex": "#f2dfeb",
+            "rgb": [
+                242,
+                223,
+                235
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V15",
+            "name": "Mallow",
+            "nameRu": "",
+            "hex": "#e0b6d1",
+            "rgb": [
+                224,
+                182,
+                209
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V17",
+            "name": "Amethyst",
+            "nameRu": "",
+            "hex": "#b3a1c7",
+            "rgb": [
+                179,
+                161,
+                199
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V20",
+            "name": "Wisteria",
+            "nameRu": "",
+            "hex": "#d5ccd6",
+            "rgb": [
+                213,
+                204,
+                214
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V22",
+            "name": "Ash Lavender",
+            "nameRu": "",
+            "hex": "#7b6f90",
+            "rgb": [
+                123,
+                111,
+                144
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V25",
+            "name": "Pale Blackberry",
+            "nameRu": "",
+            "hex": "#b6aec6",
+            "rgb": [
+                182,
+                174,
+                198
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V28",
+            "name": "Eggplant",
+            "nameRu": "",
+            "hex": "#787aa0",
+            "rgb": [
+                120,
+                122,
+                160
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V91",
+            "name": "Pale Grape",
+            "nameRu": "",
+            "hex": "#efd0d8",
+            "rgb": [
+                239,
+                208,
+                216
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V93",
+            "name": "Early Grape",
+            "nameRu": "",
+            "hex": "#edcddf",
+            "rgb": [
+                237,
+                205,
+                223
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V95",
+            "name": "Light Grape",
+            "nameRu": "",
+            "hex": "#c589aa",
+            "rgb": [
+                197,
+                137,
+                170
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "V99",
+            "name": "Aubergine",
+            "nameRu": "",
+            "hex": "#4f334d",
+            "rgb": [
+                79,
+                51,
+                77
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV0000",
+            "name": "Evening Primrose",
+            "nameRu": "",
+            "hex": "#f7e9f1",
+            "rgb": [
+                247,
+                233,
+                241
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV000",
+            "name": "Pale Purple",
+            "nameRu": "",
+            "hex": "#f7e9f1",
+            "rgb": [
+                247,
+                233,
+                241
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV00",
+            "name": "Water Lily",
+            "nameRu": "",
+            "hex": "#f3d3e9",
+            "rgb": [
+                243,
+                211,
+                233
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV02",
+            "name": "Sugared Almond Pink",
+            "nameRu": "",
+            "hex": "#fcdee9",
+            "rgb": [
+                252,
+                222,
+                233
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV04",
+            "name": "Shock Pink",
+            "nameRu": "",
+            "hex": "#f9b0c5",
+            "rgb": [
+                249,
+                176,
+                197
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV06",
+            "name": "Cerise",
+            "nameRu": "",
+            "hex": "#f692b3",
+            "rgb": [
+                246,
+                146,
+                179
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV09",
+            "name": "Fuchsia",
+            "nameRu": "",
+            "hex": "#e87cac",
+            "rgb": [
+                232,
+                124,
+                172
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV10",
+            "name": "Pale Pink",
+            "nameRu": "",
+            "hex": "#fef1f5",
+            "rgb": [
+                254,
+                241,
+                245
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV11",
+            "name": "Pink",
+            "nameRu": "",
+            "hex": "#fcdfe3",
+            "rgb": [
+                252,
+                223,
+                227
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV13",
+            "name": "Tender Pink",
+            "nameRu": "",
+            "hex": "#fcd3de",
+            "rgb": [
+                252,
+                211,
+                222
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV14",
+            "name": "Begonia Pink",
+            "nameRu": "",
+            "hex": "#f8a0bc",
+            "rgb": [
+                248,
+                160,
+                188
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV17",
+            "name": "Deep Magenta",
+            "nameRu": "",
+            "hex": "#e58bb5",
+            "rgb": [
+                229,
+                139,
+                181
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV19",
+            "name": "Red Violet",
+            "nameRu": "",
+            "hex": "#de73a7",
+            "rgb": [
+                222,
+                115,
+                167
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV21",
+            "name": "Light Pink",
+            "nameRu": "",
+            "hex": "#feeeed",
+            "rgb": [
+                254,
+                238,
+                237
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV23",
+            "name": "Pure Pink",
+            "nameRu": "",
+            "hex": "#fbc6cf",
+            "rgb": [
+                251,
+                198,
+                207
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV25",
+            "name": "Dog Rose Flower",
+            "nameRu": "",
+            "hex": "#f8a1c1",
+            "rgb": [
+                248,
+                161,
+                193
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV29",
+            "name": "Crimson",
+            "nameRu": "",
+            "hex": "#f14a81",
+            "rgb": [
+                241,
+                74,
+                129
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV32",
+            "name": "Shadow Pink",
+            "nameRu": "",
+            "hex": "#fddcd7",
+            "rgb": [
+                253,
+                220,
+                215
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV34",
+            "name": "Dark Pink",
+            "nameRu": "",
+            "hex": "#fbbcb8",
+            "rgb": [
+                251,
+                188,
+                184
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV42",
+            "name": "Salmon Pink",
+            "nameRu": "",
+            "hex": "#fbc7bf",
+            "rgb": [
+                251,
+                199,
+                191
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV52",
+            "name": "Cotton Candy",
+            "nameRu": "",
+            "hex": "#dc9cb6",
+            "rgb": [
+                220,
+                156,
+                182
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV55",
+            "name": "Hollyhock",
+            "nameRu": "",
+            "hex": "#d96196",
+            "rgb": [
+                217,
+                97,
+                150
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV63",
+            "name": "Begonia",
+            "nameRu": "",
+            "hex": "#db8ab5",
+            "rgb": [
+                219,
+                138,
+                181
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV66",
+            "name": "Raspberry",
+            "nameRu": "",
+            "hex": "#8d3765",
+            "rgb": [
+                141,
+                55,
+                101
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV69",
+            "name": "Peony",
+            "nameRu": "",
+            "hex": "#9c6276",
+            "rgb": [
+                156,
+                98,
+                118
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV91",
+            "name": "Grayish Cherry",
+            "nameRu": "",
+            "hex": "#eddee8",
+            "rgb": [
+                237,
+                222,
+                232
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV93",
+            "name": "Smoky Purple",
+            "nameRu": "",
+            "hex": "#eec3d2",
+            "rgb": [
+                238,
+                195,
+                210
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV95",
+            "name": "Baby Blossoms",
+            "nameRu": "",
+            "hex": "#c694aa",
+            "rgb": [
+                198,
+                148,
+                170
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "RV99",
+            "name": "Argyle Purple",
+            "nameRu": "",
+            "hex": "#6e5764",
+            "rgb": [
+                110,
+                87,
+                100
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R0000",
+            "name": "Pink Beryl",
+            "nameRu": "",
+            "hex": "#fcf6f2",
+            "rgb": [
+                252,
+                246,
+                242
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R000",
+            "name": "Cherry White",
+            "nameRu": "",
+            "hex": "#fff6f2",
+            "rgb": [
+                255,
+                246,
+                242
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R00",
+            "name": "Pinkish White",
+            "nameRu": "",
+            "hex": "#fff5ef",
+            "rgb": [
+                255,
+                245,
+                239
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R01",
+            "name": "Pinkish Vanilla",
+            "nameRu": "",
+            "hex": "#fde0da",
+            "rgb": [
+                253,
+                224,
+                218
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R02",
+            "name": "Rose Salmon",
+            "nameRu": "",
+            "hex": "#fedcd0",
+            "rgb": [
+                254,
+                220,
+                208
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R05",
+            "name": "Salmon Red",
+            "nameRu": "",
+            "hex": "#f89d85",
+            "rgb": [
+                248,
+                157,
+                133
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R08",
+            "name": "Vermilion",
+            "nameRu": "",
+            "hex": "#f46d56",
+            "rgb": [
+                244,
+                109,
+                86
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R11",
+            "name": "Pale Cherry Pink",
+            "nameRu": "",
+            "hex": "#ffe8dd",
+            "rgb": [
+                255,
+                232,
+                221
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R12",
+            "name": "Light Tea Rose",
+            "nameRu": "",
+            "hex": "#fedccb",
+            "rgb": [
+                254,
+                220,
+                203
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R14",
+            "name": "Light Rouge",
+            "nameRu": "",
+            "hex": "#f9a89d",
+            "rgb": [
+                249,
+                168,
+                157
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R17",
+            "name": "Lipstick Orange",
+            "nameRu": "",
+            "hex": "#f78f72",
+            "rgb": [
+                247,
+                143,
+                114
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R20",
+            "name": "Blush",
+            "nameRu": "",
+            "hex": "#fee0d9",
+            "rgb": [
+                254,
+                224,
+                217
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R21",
+            "name": "Sardonyx",
+            "nameRu": "",
+            "hex": "#fcb6ac",
+            "rgb": [
+                252,
+                182,
+                172
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R22",
+            "name": "Light Prawn",
+            "nameRu": "",
+            "hex": "#ff9999",
+            "rgb": [
+                255,
+                153,
+                153
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R24",
+            "name": "Prawn",
+            "nameRu": "",
+            "hex": "#f57f82",
+            "rgb": [
+                245,
+                127,
+                130
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R27",
+            "name": "Cadmium Red",
+            "nameRu": "",
+            "hex": "#f25364",
+            "rgb": [
+                242,
+                83,
+                100
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R29",
+            "name": "Lipstick Red",
+            "nameRu": "",
+            "hex": "#ef0047",
+            "rgb": [
+                239,
+                0,
+                71
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R30",
+            "name": "Pale Yellowish Pink",
+            "nameRu": "",
+            "hex": "#feeae5",
+            "rgb": [
+                254,
+                234,
+                229
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R32",
+            "name": "Peach",
+            "nameRu": "",
+            "hex": "#fcccc4",
+            "rgb": [
+                252,
+                204,
+                196
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R35",
+            "name": "Coral",
+            "nameRu": "",
+            "hex": "#f57a8a",
+            "rgb": [
+                245,
+                122,
+                138
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R37",
+            "name": "Carmine",
+            "nameRu": "",
+            "hex": "#ed787d",
+            "rgb": [
+                237,
+                120,
+                125
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R39",
+            "name": "Garnet",
+            "nameRu": "",
+            "hex": "#d65382",
+            "rgb": [
+                214,
+                83,
+                130
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R43",
+            "name": "Bougainvillaea",
+            "nameRu": "",
+            "hex": "#f18f96",
+            "rgb": [
+                241,
+                143,
+                150
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R46",
+            "name": "Strong Red",
+            "nameRu": "",
+            "hex": "#e6506d",
+            "rgb": [
+                230,
+                80,
+                109
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R56",
+            "name": "Currant",
+            "nameRu": "",
+            "hex": "#c36679",
+            "rgb": [
+                195,
+                102,
+                121
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R59",
+            "name": "Cardinal",
+            "nameRu": "",
+            "hex": "#c55f7c",
+            "rgb": [
+                197,
+                95,
+                124
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R81",
+            "name": "Rose Pink",
+            "nameRu": "",
+            "hex": "#f6d4dc",
+            "rgb": [
+                246,
+                212,
+                220
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R83",
+            "name": "Rose Mist",
+            "nameRu": "",
+            "hex": "#f5aabf",
+            "rgb": [
+                245,
+                170,
+                191
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R85",
+            "name": "Rose Red",
+            "nameRu": "",
+            "hex": "#de769a",
+            "rgb": [
+                222,
+                118,
+                154
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "R89",
+            "name": "Dark Red",
+            "nameRu": "",
+            "hex": "#91354d",
+            "rgb": [
+                145,
+                53,
+                77
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR0000",
+            "name": "Pale Chiffon",
+            "nameRu": "",
+            "hex": "#fcf6eb",
+            "rgb": [
+                252,
+                246,
+                235
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR000",
+            "name": "Silk",
+            "nameRu": "",
+            "hex": "#fff1e1",
+            "rgb": [
+                255,
+                241,
+                225
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR00",
+            "name": "Powder Pink",
+            "nameRu": "",
+            "hex": "#fedfc7",
+            "rgb": [
+                254,
+                223,
+                199
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR01",
+            "name": "Peach Puff",
+            "nameRu": "",
+            "hex": "#fdd6b7",
+            "rgb": [
+                253,
+                214,
+                183
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR02",
+            "name": "Light Orange",
+            "nameRu": "",
+            "hex": "#ffe4cf",
+            "rgb": [
+                255,
+                228,
+                207
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR04",
+            "name": "Chrome Orange",
+            "nameRu": "",
+            "hex": "#ffcf6d",
+            "rgb": [
+                255,
+                207,
+                109
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR07",
+            "name": "Cadmium Orange",
+            "nameRu": "",
+            "hex": "#f67833",
+            "rgb": [
+                246,
+                120,
+                51
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR09",
+            "name": "Chinese Orange",
+            "nameRu": "",
+            "hex": "#f35700",
+            "rgb": [
+                243,
+                87,
+                0
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR12",
+            "name": "Loquat",
+            "nameRu": "",
+            "hex": "#fee391",
+            "rgb": [
+                254,
+                227,
+                145
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR14",
+            "name": "Caramel",
+            "nameRu": "",
+            "hex": "#ffd34c",
+            "rgb": [
+                255,
+                211,
+                76
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR15",
+            "name": "Pumpkin Yellow",
+            "nameRu": "",
+            "hex": "#ffd198",
+            "rgb": [
+                255,
+                209,
+                152
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR16",
+            "name": "Apricot",
+            "nameRu": "",
+            "hex": "#ffc417",
+            "rgb": [
+                255,
+                196,
+                23
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR18",
+            "name": "Sanguine",
+            "nameRu": "",
+            "hex": "#f57335",
+            "rgb": [
+                245,
+                115,
+                53
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR20",
+            "name": "Yellowish Shade",
+            "nameRu": "",
+            "hex": "#ffe9c9",
+            "rgb": [
+                255,
+                233,
+                201
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR21",
+            "name": "Cream",
+            "nameRu": "",
+            "hex": "#f8e5bb",
+            "rgb": [
+                248,
+                229,
+                187
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR23",
+            "name": "Yellow Ochre",
+            "nameRu": "",
+            "hex": "#f2db98",
+            "rgb": [
+                242,
+                219,
+                152
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR24",
+            "name": "Pale Sepia",
+            "nameRu": "",
+            "hex": "#f6dc6b",
+            "rgb": [
+                246,
+                220,
+                107
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR27",
+            "name": "Tuscan Orange",
+            "nameRu": "",
+            "hex": "#d86745",
+            "rgb": [
+                216,
+                103,
+                69
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR30",
+            "name": "Macadamia nut",
+            "nameRu": "",
+            "hex": "#f7edc9",
+            "rgb": [
+                247,
+                237,
+                201
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR31",
+            "name": "Light Reddish Yellow",
+            "nameRu": "",
+            "hex": "#ffe6b2",
+            "rgb": [
+                255,
+                230,
+                178
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR61",
+            "name": "Spring Orange",
+            "nameRu": "",
+            "hex": "#fee2cc",
+            "rgb": [
+                254,
+                226,
+                204
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR65",
+            "name": "Atoll",
+            "nameRu": "",
+            "hex": "#febb65",
+            "rgb": [
+                254,
+                187,
+                101
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR68",
+            "name": "Orange",
+            "nameRu": "",
+            "hex": "#f67700",
+            "rgb": [
+                246,
+                119,
+                0
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YR82",
+            "name": "Mellow Peach",
+            "nameRu": "",
+            "hex": "#ffd198",
+            "rgb": [
+                255,
+                209,
+                152
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y0000",
+            "name": "Yellow Fluorite",
+            "nameRu": "",
+            "hex": "#fffef7",
+            "rgb": [
+                255,
+                254,
+                247
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y000",
+            "name": "Pale Lemon",
+            "nameRu": "",
+            "hex": "#fffff6",
+            "rgb": [
+                255,
+                255,
+                246
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y00",
+            "name": "Barium Yellow",
+            "nameRu": "",
+            "hex": "#fffee5",
+            "rgb": [
+                255,
+                254,
+                229
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y02",
+            "name": "Canary Yellow",
+            "nameRu": "",
+            "hex": "#f9f5a0",
+            "rgb": [
+                249,
+                245,
+                160
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y04",
+            "name": "Acacia",
+            "nameRu": "",
+            "hex": "#f3e953",
+            "rgb": [
+                243,
+                233,
+                83
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y06",
+            "name": "Yellow",
+            "nameRu": "",
+            "hex": "#fff772",
+            "rgb": [
+                255,
+                247,
+                114
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y08",
+            "name": "Acid Yellow",
+            "nameRu": "",
+            "hex": "#fff500",
+            "rgb": [
+                255,
+                245,
+                0
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y11",
+            "name": "Pale Yellow",
+            "nameRu": "",
+            "hex": "#fffcd3",
+            "rgb": [
+                255,
+                252,
+                211
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y13",
+            "name": "Lemon Yellow",
+            "nameRu": "",
+            "hex": "#fcf9b7",
+            "rgb": [
+                252,
+                249,
+                183
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y15",
+            "name": "Cadmium Yellow",
+            "nameRu": "",
+            "hex": "#ffee72",
+            "rgb": [
+                255,
+                238,
+                114
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y17",
+            "name": "Golden Yellow",
+            "nameRu": "",
+            "hex": "#ffea55",
+            "rgb": [
+                255,
+                234,
+                85
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y18",
+            "name": "Lightning Yellow",
+            "nameRu": "",
+            "hex": "#fff257",
+            "rgb": [
+                255,
+                242,
+                87
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y19",
+            "name": "Napoli Yellow",
+            "nameRu": "",
+            "hex": "#ffee39",
+            "rgb": [
+                255,
+                238,
+                57
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y21",
+            "name": "Buttercup Yellow",
+            "nameRu": "",
+            "hex": "#fff2c9",
+            "rgb": [
+                255,
+                242,
+                201
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y23",
+            "name": "Yellowish Beige",
+            "nameRu": "",
+            "hex": "#fdeabe",
+            "rgb": [
+                253,
+                234,
+                190
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y26",
+            "name": "Mustard",
+            "nameRu": "",
+            "hex": "#f6e56f",
+            "rgb": [
+                246,
+                229,
+                111
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y28",
+            "name": "Lionet Gold",
+            "nameRu": "",
+            "hex": "#d5b56e",
+            "rgb": [
+                213,
+                181,
+                110
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y32",
+            "name": "Cashmere",
+            "nameRu": "",
+            "hex": "#fbe6ca",
+            "rgb": [
+                251,
+                230,
+                202
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y35",
+            "name": "Maize",
+            "nameRu": "",
+            "hex": "#ffe081",
+            "rgb": [
+                255,
+                224,
+                129
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "Y38",
+            "name": "Honey",
+            "nameRu": "",
+            "hex": "#ffff99",
+            "rgb": [
+                255,
+                255,
+                153
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG0000",
+            "name": "Lily White",
+            "nameRu": "",
+            "hex": "#f7f9e4",
+            "rgb": [
+                247,
+                249,
+                228
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG00",
+            "name": "Mimosa Yellow",
+            "nameRu": "",
+            "hex": "#eeeba6",
+            "rgb": [
+                238,
+                235,
+                166
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG01",
+            "name": "Green Bice",
+            "nameRu": "",
+            "hex": "#eef2c8",
+            "rgb": [
+                238,
+                242,
+                200
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG03",
+            "name": "Yellow Green",
+            "nameRu": "",
+            "hex": "#eaeeb2",
+            "rgb": [
+                234,
+                238,
+                178
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG05",
+            "name": "Salad",
+            "nameRu": "",
+            "hex": "#e2e999",
+            "rgb": [
+                226,
+                233,
+                153
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG06",
+            "name": "Yellowish Green",
+            "nameRu": "",
+            "hex": "#d3e398",
+            "rgb": [
+                211,
+                227,
+                152
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG07",
+            "name": "Acid Green",
+            "nameRu": "",
+            "hex": "#b6d135",
+            "rgb": [
+                182,
+                209,
+                53
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG09",
+            "name": "Lettuce Green",
+            "nameRu": "",
+            "hex": "#93c560",
+            "rgb": [
+                147,
+                197,
+                96
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG11",
+            "name": "Mignonette",
+            "nameRu": "",
+            "hex": "#ecf3d5",
+            "rgb": [
+                236,
+                243,
+                213
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG13",
+            "name": "Chartreuse",
+            "nameRu": "",
+            "hex": "#dfe9a6",
+            "rgb": [
+                223,
+                233,
+                166
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG17",
+            "name": "Grass Green",
+            "nameRu": "",
+            "hex": "#85bf4a",
+            "rgb": [
+                133,
+                191,
+                74
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG21",
+            "name": "Anise",
+            "nameRu": "",
+            "hex": "#f9f8c6",
+            "rgb": [
+                249,
+                248,
+                198
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG23",
+            "name": "New Leaf",
+            "nameRu": "",
+            "hex": "#efef98",
+            "rgb": [
+                239,
+                239,
+                152
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG25",
+            "name": "Celadon Green",
+            "nameRu": "",
+            "hex": "#dce47f",
+            "rgb": [
+                220,
+                228,
+                127
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG41",
+            "name": "Pale Cobalt  Green",
+            "nameRu": "",
+            "hex": "#e1eed9",
+            "rgb": [
+                225,
+                238,
+                217
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG45",
+            "name": "Cobalt Green",
+            "nameRu": "",
+            "hex": "#c5e0be",
+            "rgb": [
+                197,
+                224,
+                190
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG61",
+            "name": "Pale Moss",
+            "nameRu": "",
+            "hex": "#b7ca90",
+            "rgb": [
+                183,
+                202,
+                144
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG63",
+            "name": "Pea Green",
+            "nameRu": "",
+            "hex": "#b5d2ab",
+            "rgb": [
+                181,
+                210,
+                171
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG67",
+            "name": "Moss",
+            "nameRu": "",
+            "hex": "#97c592",
+            "rgb": [
+                151,
+                197,
+                146
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG91",
+            "name": "Putty",
+            "nameRu": "",
+            "hex": "#e4dfb8",
+            "rgb": [
+                228,
+                223,
+                184
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG93",
+            "name": "Grayish Yellow",
+            "nameRu": "",
+            "hex": "#dedba6",
+            "rgb": [
+                222,
+                219,
+                166
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG95",
+            "name": "Pale Olive",
+            "nameRu": "",
+            "hex": "#dbd267",
+            "rgb": [
+                219,
+                210,
+                103
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG97",
+            "name": "Spanish Olive",
+            "nameRu": "",
+            "hex": "#aaa000",
+            "rgb": [
+                170,
+                160,
+                0
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "YG99",
+            "name": "Marine Green",
+            "nameRu": "",
+            "hex": "#6a7800",
+            "rgb": [
+                106,
+                120,
+                0
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G0000",
+            "name": "Crystal Opal",
+            "nameRu": "",
+            "hex": "#f6faf6",
+            "rgb": [
+                246,
+                250,
+                246
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G000",
+            "name": "Pale Green",
+            "nameRu": "",
+            "hex": "#f7fbf7",
+            "rgb": [
+                247,
+                251,
+                247
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G00",
+            "name": "Jade Green",
+            "nameRu": "",
+            "hex": "#eaf5f6",
+            "rgb": [
+                234,
+                245,
+                246
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G02",
+            "name": "Spectrum Green",
+            "nameRu": "",
+            "hex": "#dbecd9",
+            "rgb": [
+                219,
+                236,
+                217
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G03",
+            "name": "Meadow Green",
+            "nameRu": "",
+            "hex": "#b0de7f",
+            "rgb": [
+                176,
+                222,
+                127
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G05",
+            "name": "Emerald Green",
+            "nameRu": "",
+            "hex": "#7dc079",
+            "rgb": [
+                125,
+                192,
+                121
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G07",
+            "name": "Nile Green",
+            "nameRu": "",
+            "hex": "#8fc676",
+            "rgb": [
+                143,
+                198,
+                118
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G09",
+            "name": "Veronese Green",
+            "nameRu": "",
+            "hex": "#8fc460",
+            "rgb": [
+                143,
+                196,
+                96
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G12",
+            "name": "Sea Green",
+            "nameRu": "",
+            "hex": "#deeccb",
+            "rgb": [
+                222,
+                236,
+                203
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G14",
+            "name": "Apple Green",
+            "nameRu": "",
+            "hex": "#aad294",
+            "rgb": [
+                170,
+                210,
+                148
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G16",
+            "name": "Malachite",
+            "nameRu": "",
+            "hex": "#76c19c",
+            "rgb": [
+                118,
+                193,
+                156
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G17",
+            "name": "Forest Green",
+            "nameRu": "",
+            "hex": "#27ae7d",
+            "rgb": [
+                39,
+                174,
+                125
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G19",
+            "name": "Bright Parrot Green",
+            "nameRu": "",
+            "hex": "#49b68a",
+            "rgb": [
+                73,
+                182,
+                138
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G20",
+            "name": "Wax White",
+            "nameRu": "",
+            "hex": "#f2f7e0",
+            "rgb": [
+                242,
+                247,
+                224
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G21",
+            "name": "Lime Green",
+            "nameRu": "",
+            "hex": "#d3e8d3",
+            "rgb": [
+                211,
+                232,
+                211
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G24",
+            "name": "Willow",
+            "nameRu": "",
+            "hex": "#d1e4bb",
+            "rgb": [
+                209,
+                228,
+                187
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G28",
+            "name": "Ocean Green",
+            "nameRu": "",
+            "hex": "#239665",
+            "rgb": [
+                35,
+                150,
+                101
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G29",
+            "name": "Pine Tree Green",
+            "nameRu": "",
+            "hex": "#3e8667",
+            "rgb": [
+                62,
+                134,
+                103
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G40",
+            "name": "Dim Green",
+            "nameRu": "",
+            "hex": "#ecf4e3",
+            "rgb": [
+                236,
+                244,
+                227
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G43",
+            "name": "Pistachio",
+            "nameRu": "",
+            "hex": "#92b35c",
+            "rgb": [
+                146,
+                179,
+                92
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G46",
+            "name": "Mistletoe",
+            "nameRu": "",
+            "hex": "#54895d",
+            "rgb": [
+                84,
+                137,
+                93
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G82",
+            "name": "Spring Dim Green",
+            "nameRu": "",
+            "hex": "#dbe2c4",
+            "rgb": [
+                219,
+                226,
+                196
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G85",
+            "name": "Verdigris",
+            "nameRu": "",
+            "hex": "#b3cdb5",
+            "rgb": [
+                179,
+                205,
+                181
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G94",
+            "name": "Grayish Olive",
+            "nameRu": "",
+            "hex": "#aab38e",
+            "rgb": [
+                170,
+                179,
+                142
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "G99",
+            "name": "Olive",
+            "nameRu": "",
+            "hex": "#7b8e3f",
+            "rgb": [
+                123,
+                142,
+                63
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG0000",
+            "name": "Snow Green",
+            "nameRu": "",
+            "hex": "#f5f9f6",
+            "rgb": [
+                245,
+                249,
+                246
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG000",
+            "name": "Pale Aqua",
+            "nameRu": "",
+            "hex": "#f7fbf9",
+            "rgb": [
+                247,
+                251,
+                249
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG01",
+            "name": "Aqua Blue",
+            "nameRu": "",
+            "hex": "#d6ebf8",
+            "rgb": [
+                214,
+                235,
+                248
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG02",
+            "name": "New Blue",
+            "nameRu": "",
+            "hex": "#d4ebed",
+            "rgb": [
+                212,
+                235,
+                237
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG05",
+            "name": "Holiday Blue",
+            "nameRu": "",
+            "hex": "#9cd5e6",
+            "rgb": [
+                156,
+                213,
+                230
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG07",
+            "name": "Petroleum Blue",
+            "nameRu": "",
+            "hex": "#33b8d2",
+            "rgb": [
+                51,
+                184,
+                210
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG09",
+            "name": "Blue Green",
+            "nameRu": "",
+            "hex": "#09b1cd",
+            "rgb": [
+                9,
+                177,
+                205
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG10",
+            "name": "Cool Shadow",
+            "nameRu": "",
+            "hex": "#e7f3f2",
+            "rgb": [
+                231,
+                243,
+                242
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG11",
+            "name": "Moon White",
+            "nameRu": "",
+            "hex": "#daeef2",
+            "rgb": [
+                218,
+                238,
+                242
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG13",
+            "name": "Mint Green",
+            "nameRu": "",
+            "hex": "#d3eaeb",
+            "rgb": [
+                211,
+                234,
+                235
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG15",
+            "name": "Aqua",
+            "nameRu": "",
+            "hex": "#b5ddd6",
+            "rgb": [
+                181,
+                221,
+                214
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG18",
+            "name": "Teal Blue",
+            "nameRu": "",
+            "hex": "#56beb3",
+            "rgb": [
+                86,
+                190,
+                179
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG23",
+            "name": "Coral Sea",
+            "nameRu": "",
+            "hex": "#cde7e0",
+            "rgb": [
+                205,
+                231,
+                224
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG32",
+            "name": "Aqua Mint",
+            "nameRu": "",
+            "hex": "#cce6db",
+            "rgb": [
+                204,
+                230,
+                219
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG34",
+            "name": "Horizon Green",
+            "nameRu": "",
+            "hex": "#b8dedb",
+            "rgb": [
+                184,
+                222,
+                219
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG45",
+            "name": "Nile Blue",
+            "nameRu": "",
+            "hex": "#c1e2e3",
+            "rgb": [
+                193,
+                226,
+                227
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG49",
+            "name": "Duck Blue",
+            "nameRu": "",
+            "hex": "#15b2bc",
+            "rgb": [
+                21,
+                178,
+                188
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG53",
+            "name": "Ice Mint",
+            "nameRu": "",
+            "hex": "#5cb6bd",
+            "rgb": [
+                92,
+                182,
+                189
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG57",
+            "name": "Jasper",
+            "nameRu": "",
+            "hex": "#04a2ad",
+            "rgb": [
+                4,
+                162,
+                173
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG70",
+            "name": "Ocean Mist",
+            "nameRu": "",
+            "hex": "#e5eee3",
+            "rgb": [
+                229,
+                238,
+                227
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG72",
+            "name": "Ice Ocean",
+            "nameRu": "",
+            "hex": "#88bec1",
+            "rgb": [
+                136,
+                190,
+                193
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG75",
+            "name": "Abyss Green",
+            "nameRu": "",
+            "hex": "#b5ddd6",
+            "rgb": [
+                181,
+                221,
+                214
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG78",
+            "name": "Bronze",
+            "nameRu": "",
+            "hex": "#48756b",
+            "rgb": [
+                72,
+                117,
+                107
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG90",
+            "name": "Gray Sky",
+            "nameRu": "",
+            "hex": "#d1ccb8",
+            "rgb": [
+                209,
+                204,
+                184
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG93",
+            "name": "Green Gray",
+            "nameRu": "",
+            "hex": "#cbcec4",
+            "rgb": [
+                203,
+                206,
+                196
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG96",
+            "name": "Bush",
+            "nameRu": "",
+            "hex": "#9ab09e",
+            "rgb": [
+                154,
+                176,
+                158
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "BG99",
+            "name": "Flagstone Blue",
+            "nameRu": "",
+            "hex": "#89a996",
+            "rgb": [
+                137,
+                169,
+                150
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B0000",
+            "name": "Pale Celestine",
+            "nameRu": "",
+            "hex": "#f6fbfe",
+            "rgb": [
+                246,
+                251,
+                254
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B000",
+            "name": "Pale Porcelain Blue",
+            "nameRu": "",
+            "hex": "#edf6f6",
+            "rgb": [
+                237,
+                246,
+                246
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B00",
+            "name": "Frost Blue",
+            "nameRu": "",
+            "hex": "#eaf6f9",
+            "rgb": [
+                234,
+                246,
+                249
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B01",
+            "name": "Mint Blue",
+            "nameRu": "",
+            "hex": "#e1f1f3",
+            "rgb": [
+                225,
+                241,
+                243
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B02",
+            "name": "Robin’s Egg Blue",
+            "nameRu": "",
+            "hex": "#c5e6f0",
+            "rgb": [
+                197,
+                230,
+                240
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B04",
+            "name": "Tahitian Blue",
+            "nameRu": "",
+            "hex": "#8dd1e7",
+            "rgb": [
+                141,
+                209,
+                231
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B05",
+            "name": "Process Blue",
+            "nameRu": "",
+            "hex": "#64c5e5",
+            "rgb": [
+                100,
+                197,
+                229
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B06",
+            "name": "Peacock Blue",
+            "nameRu": "",
+            "hex": "#00ace2",
+            "rgb": [
+                0,
+                172,
+                226
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B12",
+            "name": "Ice Blue",
+            "nameRu": "",
+            "hex": "#d6eaf0",
+            "rgb": [
+                214,
+                234,
+                240
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B14",
+            "name": "Light Blue",
+            "nameRu": "",
+            "hex": "#8dd1eb",
+            "rgb": [
+                141,
+                209,
+                235
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B16",
+            "name": "Cyanine Blue",
+            "nameRu": "",
+            "hex": "#01bae7",
+            "rgb": [
+                1,
+                186,
+                231
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B18",
+            "name": "Lapis Lazuli",
+            "nameRu": "",
+            "hex": "#2991c9",
+            "rgb": [
+                41,
+                145,
+                201
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B21",
+            "name": "Baby Blue",
+            "nameRu": "",
+            "hex": "#e6f1fa",
+            "rgb": [
+                230,
+                241,
+                250
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B23",
+            "name": "Phthalo Blue",
+            "nameRu": "",
+            "hex": "#abcbe9",
+            "rgb": [
+                171,
+                203,
+                233
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B24",
+            "name": "Sky",
+            "nameRu": "",
+            "hex": "#a3d5f1",
+            "rgb": [
+                163,
+                213,
+                241
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B26",
+            "name": "Cobalt Blue",
+            "nameRu": "",
+            "hex": "#7fbbe3",
+            "rgb": [
+                127,
+                187,
+                227
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B28",
+            "name": "Royal Blue",
+            "nameRu": "",
+            "hex": "#1571b0",
+            "rgb": [
+                21,
+                113,
+                176
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B29",
+            "name": "Ultramarine",
+            "nameRu": "",
+            "hex": "#0077ba",
+            "rgb": [
+                0,
+                119,
+                186
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B32",
+            "name": "Pale Blue",
+            "nameRu": "",
+            "hex": "#eaf3f7",
+            "rgb": [
+                234,
+                243,
+                247
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B34",
+            "name": "Manganese Blue",
+            "nameRu": "",
+            "hex": "#9bcbeb",
+            "rgb": [
+                155,
+                203,
+                235
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B37",
+            "name": "Antwerp Blue",
+            "nameRu": "",
+            "hex": "#0472a3",
+            "rgb": [
+                4,
+                114,
+                163
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B39",
+            "name": "Prussian Blue",
+            "nameRu": "",
+            "hex": "#286aa7",
+            "rgb": [
+                40,
+                106,
+                167
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B41",
+            "name": "Powder Blue",
+            "nameRu": "",
+            "hex": "#eaf3fb",
+            "rgb": [
+                234,
+                243,
+                251
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B45",
+            "name": "Smoky Blue",
+            "nameRu": "",
+            "hex": "#8fc7ea",
+            "rgb": [
+                143,
+                199,
+                234
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B52",
+            "name": "Soft Greenish Blue",
+            "nameRu": "",
+            "hex": "#c1d6e1",
+            "rgb": [
+                193,
+                214,
+                225
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B60",
+            "name": "Pale Blue Gray",
+            "nameRu": "",
+            "hex": "#e4e8f4",
+            "rgb": [
+                228,
+                232,
+                244
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B63",
+            "name": "Light Hydrangea",
+            "nameRu": "",
+            "hex": "#bcc6e2",
+            "rgb": [
+                188,
+                198,
+                226
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B66",
+            "name": "Clematis",
+            "nameRu": "",
+            "hex": "#6473b4",
+            "rgb": [
+                100,
+                115,
+                180
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B69",
+            "name": "Stratospheric Blue",
+            "nameRu": "",
+            "hex": "#1967a7",
+            "rgb": [
+                25,
+                103,
+                167
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B79",
+            "name": "Iris",
+            "nameRu": "",
+            "hex": "#31418f",
+            "rgb": [
+                49,
+                65,
+                143
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B91",
+            "name": "Pale Grayish Blue",
+            "nameRu": "",
+            "hex": "#e1e9ed",
+            "rgb": [
+                225,
+                233,
+                237
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B93",
+            "name": "Light Crockery Blue",
+            "nameRu": "",
+            "hex": "#abcbdf",
+            "rgb": [
+                171,
+                203,
+                223
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B95",
+            "name": "Light Grayish Cobalt",
+            "nameRu": "",
+            "hex": "#88b0ca",
+            "rgb": [
+                136,
+                176,
+                202
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B97",
+            "name": "Night Blue",
+            "nameRu": "",
+            "hex": "#45809d",
+            "rgb": [
+                69,
+                128,
+                157
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "B99",
+            "name": "Agate",
+            "nameRu": "",
+            "hex": "#004d7a",
+            "rgb": [
+                0,
+                77,
+                122
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E0000",
+            "name": "Floral White",
+            "nameRu": "",
+            "hex": "#fffaf3",
+            "rgb": [
+                255,
+                250,
+                243
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E000",
+            "name": "Pale Fruit Pink",
+            "nameRu": "",
+            "hex": "#fff8f1",
+            "rgb": [
+                255,
+                248,
+                241
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E00",
+            "name": "Cotton Pearl",
+            "nameRu": "",
+            "hex": "#fff6ee",
+            "rgb": [
+                255,
+                246,
+                238
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E01",
+            "name": "Pink Flamingo",
+            "nameRu": "",
+            "hex": "#fff2e9",
+            "rgb": [
+                255,
+                242,
+                233
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E02",
+            "name": "Fruit Pink",
+            "nameRu": "",
+            "hex": "#fff1e6",
+            "rgb": [
+                255,
+                241,
+                230
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E04",
+            "name": "Lipstick Natural",
+            "nameRu": "",
+            "hex": "#eccace",
+            "rgb": [
+                236,
+                202,
+                206
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E07",
+            "name": "Light Mahogany",
+            "nameRu": "",
+            "hex": "#d99278",
+            "rgb": [
+                217,
+                146,
+                120
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E08",
+            "name": "Brown",
+            "nameRu": "",
+            "hex": "#d5745c",
+            "rgb": [
+                213,
+                116,
+                92
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E09",
+            "name": "Burnt Sienna",
+            "nameRu": "",
+            "hex": "#e27453",
+            "rgb": [
+                226,
+                116,
+                83
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E11",
+            "name": "Barley Beige",
+            "nameRu": "",
+            "hex": "#ffefde",
+            "rgb": [
+                255,
+                239,
+                222
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E13",
+            "name": "Light Suntan",
+            "nameRu": "",
+            "hex": "#efd2bb",
+            "rgb": [
+                239,
+                210,
+                187
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E15",
+            "name": "Dark Suntan",
+            "nameRu": "",
+            "hex": "#fdc797",
+            "rgb": [
+                253,
+                199,
+                151
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E17",
+            "name": "Reddish Brass",
+            "nameRu": "",
+            "hex": "#c46755",
+            "rgb": [
+                196,
+                103,
+                85
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E18",
+            "name": "Copper",
+            "nameRu": "",
+            "hex": "#97564a",
+            "rgb": [
+                151,
+                86,
+                74
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E19",
+            "name": "Redwood",
+            "nameRu": "",
+            "hex": "#ce5425",
+            "rgb": [
+                206,
+                84,
+                37
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E21",
+            "name": "Soft Sun",
+            "nameRu": "",
+            "hex": "#ffe9d2",
+            "rgb": [
+                255,
+                233,
+                210
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E23",
+            "name": "Hazelnut",
+            "nameRu": "",
+            "hex": "#aa6a4b",
+            "rgb": [
+                170,
+                106,
+                75
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E25",
+            "name": "Caribe Cocoa",
+            "nameRu": "",
+            "hex": "#dfb693",
+            "rgb": [
+                223,
+                182,
+                147
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E27",
+            "name": "Milk Chocolate",
+            "nameRu": "",
+            "hex": "#ac866d",
+            "rgb": [
+                172,
+                134,
+                109
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E29",
+            "name": "Burnt Umber",
+            "nameRu": "",
+            "hex": "#903f0a",
+            "rgb": [
+                144,
+                63,
+                10
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E30",
+            "name": "Bisque",
+            "nameRu": "",
+            "hex": "#f7efcf",
+            "rgb": [
+                247,
+                239,
+                207
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E31",
+            "name": "Brick Beige",
+            "nameRu": "",
+            "hex": "#f6ecd7",
+            "rgb": [
+                246,
+                236,
+                215
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E33",
+            "name": "Sand",
+            "nameRu": "",
+            "hex": "#f6dcbd",
+            "rgb": [
+                246,
+                220,
+                189
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E34",
+            "name": "Toast",
+            "nameRu": "",
+            "hex": "#f5d7b3",
+            "rgb": [
+                245,
+                215,
+                179
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E35",
+            "name": "Chamois",
+            "nameRu": "",
+            "hex": "#eed2b2",
+            "rgb": [
+                238,
+                210,
+                178
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E37",
+            "name": "Sepia",
+            "nameRu": "",
+            "hex": "#d9a566",
+            "rgb": [
+                217,
+                165,
+                102
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E39",
+            "name": "Leather",
+            "nameRu": "",
+            "hex": "#d27d33",
+            "rgb": [
+                210,
+                125,
+                51
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E40",
+            "name": "Brick White",
+            "nameRu": "",
+            "hex": "#f7f0e5",
+            "rgb": [
+                247,
+                240,
+                229
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E41",
+            "name": "Pearl White",
+            "nameRu": "",
+            "hex": "#fff4e8",
+            "rgb": [
+                255,
+                244,
+                232
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E42",
+            "name": "Sand White",
+            "nameRu": "",
+            "hex": "#f2e8d3",
+            "rgb": [
+                242,
+                232,
+                211
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E43",
+            "name": "Dull Ivory",
+            "nameRu": "",
+            "hex": "#f0e6cb",
+            "rgb": [
+                240,
+                230,
+                203
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E44",
+            "name": "Clay",
+            "nameRu": "",
+            "hex": "#d4c9b6",
+            "rgb": [
+                212,
+                201,
+                182
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E47",
+            "name": "Dark Brown",
+            "nameRu": "",
+            "hex": "#9a826c",
+            "rgb": [
+                154,
+                130,
+                108
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E49",
+            "name": "Dark Bark",
+            "nameRu": "",
+            "hex": "#7a5d45",
+            "rgb": [
+                122,
+                93,
+                69
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E50",
+            "name": "Egg Shell",
+            "nameRu": "",
+            "hex": "#f7f0f1",
+            "rgb": [
+                247,
+                240,
+                241
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E51",
+            "name": "Milky White",
+            "nameRu": "",
+            "hex": "#fff1de",
+            "rgb": [
+                255,
+                241,
+                222
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E53",
+            "name": "Raw Silk",
+            "nameRu": "",
+            "hex": "#f6eccc",
+            "rgb": [
+                246,
+                236,
+                204
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E55",
+            "name": "Light Camel",
+            "nameRu": "",
+            "hex": "#f5e6c4",
+            "rgb": [
+                245,
+                230,
+                196
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E57",
+            "name": "Light Walnut",
+            "nameRu": "",
+            "hex": "#c29a6a",
+            "rgb": [
+                194,
+                154,
+                106
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E59",
+            "name": "Walnut",
+            "nameRu": "",
+            "hex": "#ad9076",
+            "rgb": [
+                173,
+                144,
+                118
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E70",
+            "name": "Ash Rose",
+            "nameRu": "",
+            "hex": "#f1e9e2",
+            "rgb": [
+                241,
+                233,
+                226
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E71",
+            "name": "Champagne",
+            "nameRu": "",
+            "hex": "#ebe1da",
+            "rgb": [
+                235,
+                225,
+                218
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E74",
+            "name": "Cocoa Brown",
+            "nameRu": "",
+            "hex": "#b5998c",
+            "rgb": [
+                181,
+                153,
+                140
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E77",
+            "name": "Maroon",
+            "nameRu": "",
+            "hex": "#947157",
+            "rgb": [
+                148,
+                113,
+                87
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E79",
+            "name": "Cashew",
+            "nameRu": "",
+            "hex": "#52382d",
+            "rgb": [
+                82,
+                56,
+                45
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E81",
+            "name": "Ivory",
+            "nameRu": "",
+            "hex": "#dccd98",
+            "rgb": [
+                220,
+                205,
+                152
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E84",
+            "name": "Khaki",
+            "nameRu": "",
+            "hex": "#b4955f",
+            "rgb": [
+                180,
+                149,
+                95
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E87",
+            "name": "Fig",
+            "nameRu": "",
+            "hex": "#5b4d38",
+            "rgb": [
+                91,
+                77,
+                56
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E89",
+            "name": "Pecan",
+            "nameRu": "",
+            "hex": "#7b746a",
+            "rgb": [
+                123,
+                116,
+                106
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E93",
+            "name": "Tea Rose",
+            "nameRu": "",
+            "hex": "#fedbc2",
+            "rgb": [
+                254,
+                219,
+                194
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E95",
+            "name": "Tea Orange",
+            "nameRu": "",
+            "hex": "#fec788",
+            "rgb": [
+                254,
+                199,
+                136
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E97",
+            "name": "Deep Orange",
+            "nameRu": "",
+            "hex": "#f3a962",
+            "rgb": [
+                243,
+                169,
+                98
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "E99",
+            "name": "Baked Clay",
+            "nameRu": "",
+            "hex": "#c06508",
+            "rgb": [
+                192,
+                101,
+                8
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-00",
+            "name": "Cool Gray No.00",
+            "nameRu": "",
+            "hex": "#f1f4f6",
+            "rgb": [
+                241,
+                244,
+                246
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-0",
+            "name": "Cool Gray No.0",
+            "nameRu": "",
+            "hex": "#edf2f4",
+            "rgb": [
+                237,
+                242,
+                244
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-1",
+            "name": "Cool Gray No.1",
+            "nameRu": "",
+            "hex": "#e4eaed",
+            "rgb": [
+                228,
+                234,
+                237
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-2",
+            "name": "Cool Gray No.2",
+            "nameRu": "",
+            "hex": "#d9e0e4",
+            "rgb": [
+                217,
+                224,
+                228
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-3",
+            "name": "Cool Gray No.3",
+            "nameRu": "",
+            "hex": "#d0d5da",
+            "rgb": [
+                208,
+                213,
+                218
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-4",
+            "name": "Cool Gray No.4",
+            "nameRu": "",
+            "hex": "#b9c1c7",
+            "rgb": [
+                185,
+                193,
+                199
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-5",
+            "name": "Cool Gray No.5",
+            "nameRu": "",
+            "hex": "#a4aeb2",
+            "rgb": [
+                164,
+                174,
+                178
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-6",
+            "name": "Cool Gray No.6",
+            "nameRu": "",
+            "hex": "#939ba1",
+            "rgb": [
+                147,
+                155,
+                161
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-7",
+            "name": "Cool Gray No.7",
+            "nameRu": "",
+            "hex": "#777f83",
+            "rgb": [
+                119,
+                127,
+                131
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-8",
+            "name": "Cool Gray No.8",
+            "nameRu": "",
+            "hex": "#63696d",
+            "rgb": [
+                99,
+                105,
+                109
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-9",
+            "name": "Cool Gray No.9",
+            "nameRu": "",
+            "hex": "#535150",
+            "rgb": [
+                83,
+                81,
+                80
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "C-10",
+            "name": "Cool Gray No.10",
+            "nameRu": "",
+            "hex": "#1f1e1e",
+            "rgb": [
+                31,
+                30,
+                30
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-0",
+            "name": "Neutral Gray No.0",
+            "nameRu": "",
+            "hex": "#f2f2f2",
+            "rgb": [
+                242,
+                242,
+                242
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-1",
+            "name": "Neutral Gray No.1",
+            "nameRu": "",
+            "hex": "#ebebeb",
+            "rgb": [
+                235,
+                235,
+                235
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-2",
+            "name": "Neutral Gray No.2",
+            "nameRu": "",
+            "hex": "#e3e3e3",
+            "rgb": [
+                227,
+                227,
+                227
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-3",
+            "name": "Neutral Gray No.3",
+            "nameRu": "",
+            "hex": "#dcdcdc",
+            "rgb": [
+                220,
+                220,
+                220
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-4",
+            "name": "Neutral Gray No.4",
+            "nameRu": "",
+            "hex": "#c9c9c9",
+            "rgb": [
+                201,
+                201,
+                201
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-5",
+            "name": "Neutral Gray No.5",
+            "nameRu": "",
+            "hex": "#b7b6b6",
+            "rgb": [
+                183,
+                182,
+                182
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-6",
+            "name": "Neutral Gray No.6",
+            "nameRu": "",
+            "hex": "#a4a4a4",
+            "rgb": [
+                164,
+                164,
+                164
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-7",
+            "name": "Neutral Gray No.7",
+            "nameRu": "",
+            "hex": "#858485",
+            "rgb": [
+                133,
+                132,
+                133
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-8",
+            "name": "Neutral Gray No.8",
+            "nameRu": "",
+            "hex": "#6f6e6e",
+            "rgb": [
+                111,
+                110,
+                110
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-9",
+            "name": "Neutral Gray No.9",
+            "nameRu": "",
+            "hex": "#535150",
+            "rgb": [
+                83,
+                81,
+                80
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "N-10",
+            "name": "Neutral Gray No.10",
+            "nameRu": "",
+            "hex": "#1f1e1e",
+            "rgb": [
+                31,
+                30,
+                30
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-0",
+            "name": "Toner Gray No.0",
+            "nameRu": "",
+            "hex": "#f2f2f2",
+            "rgb": [
+                242,
+                242,
+                242
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-1",
+            "name": "Toner Gray No.1",
+            "nameRu": "",
+            "hex": "#f0f0ee",
+            "rgb": [
+                240,
+                240,
+                238
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-2",
+            "name": "Toner Gray No.2",
+            "nameRu": "",
+            "hex": "#e9e9e6",
+            "rgb": [
+                233,
+                233,
+                230
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-3",
+            "name": "Toner Gray No.3",
+            "nameRu": "",
+            "hex": "#dddcd7",
+            "rgb": [
+                221,
+                220,
+                215
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-4",
+            "name": "Toner Gray No.4",
+            "nameRu": "",
+            "hex": "#cac8c4",
+            "rgb": [
+                202,
+                200,
+                196
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-5",
+            "name": "Toner Gray No.5",
+            "nameRu": "",
+            "hex": "#b8b5b0",
+            "rgb": [
+                184,
+                181,
+                176
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-6",
+            "name": "Toner Gray No.6",
+            "nameRu": "",
+            "hex": "#a4a29e",
+            "rgb": [
+                164,
+                162,
+                158
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-7",
+            "name": "Toner Gray No.7",
+            "nameRu": "",
+            "hex": "#858380",
+            "rgb": [
+                133,
+                131,
+                128
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-8",
+            "name": "Toner Gray No.8",
+            "nameRu": "",
+            "hex": "#6f6d6a",
+            "rgb": [
+                111,
+                109,
+                106
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-9",
+            "name": "Toner Gray No.9",
+            "nameRu": "",
+            "hex": "#53504d",
+            "rgb": [
+                83,
+                80,
+                77
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "T-10",
+            "name": "Toner Gray No.10",
+            "nameRu": "",
+            "hex": "#1f1e1e",
+            "rgb": [
+                31,
+                30,
+                30
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-00",
+            "name": "Warm Gray No.00",
+            "nameRu": "",
+            "hex": "#f7f7f1",
+            "rgb": [
+                247,
+                247,
+                241
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-0",
+            "name": "Warm Gray No.0",
+            "nameRu": "",
+            "hex": "#f7f6f0",
+            "rgb": [
+                247,
+                246,
+                240
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-1",
+            "name": "Warm Gray No.1",
+            "nameRu": "",
+            "hex": "#eeede7",
+            "rgb": [
+                238,
+                237,
+                231
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-2",
+            "name": "Warm Gray No.2",
+            "nameRu": "",
+            "hex": "#eeede9",
+            "rgb": [
+                238,
+                237,
+                233
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-3",
+            "name": "Warm Gray No.3",
+            "nameRu": "",
+            "hex": "#dddcd5",
+            "rgb": [
+                221,
+                220,
+                213
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-4",
+            "name": "Warm Gray No.4",
+            "nameRu": "",
+            "hex": "#cac9c2",
+            "rgb": [
+                202,
+                201,
+                194
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-5",
+            "name": "Warm Gray No.5",
+            "nameRu": "",
+            "hex": "#b8b6b0",
+            "rgb": [
+                184,
+                182,
+                176
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-6",
+            "name": "Warm Gray No.6",
+            "nameRu": "",
+            "hex": "#a4a39c",
+            "rgb": [
+                164,
+                163,
+                156
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-7",
+            "name": "Warm Gray No.7",
+            "nameRu": "",
+            "hex": "#86847f",
+            "rgb": [
+                134,
+                132,
+                127
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-8",
+            "name": "Warm Gray No.8",
+            "nameRu": "",
+            "hex": "#6f6e69",
+            "rgb": [
+                111,
+                110,
+                105
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-9",
+            "name": "Warm Gray No.9",
+            "nameRu": "",
+            "hex": "#53504c",
+            "rgb": [
+                83,
+                80,
+                76
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "W-10",
+            "name": "Warm Gray No.10",
+            "nameRu": "",
+            "hex": "#1f1e1d",
+            "rgb": [
+                31,
+                30,
+                29
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "0",
+            "name": "Colorless Blender",
+            "nameRu": "",
+            "hex": "#ffffff",
+            "rgb": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "100",
+            "name": "Black",
+            "nameRu": "",
+            "hex": "#010101",
+            "rgb": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "110",
+            "name": "Special Black",
+            "nameRu": "",
+            "hex": "#010101",
+            "rgb": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FRV1",
+            "name": "Fluorescent Pink",
+            "nameRu": "",
+            "hex": "#f9b0cb",
+            "rgb": [
+                249,
+                176,
+                203
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FYR1",
+            "name": "Fluorescent Orange",
+            "nameRu": "",
+            "hex": "#ffd7a4",
+            "rgb": [
+                255,
+                215,
+                164
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FY1",
+            "name": "Fluorescent Yellow Orange",
+            "nameRu": "",
+            "hex": "#fff9a0",
+            "rgb": [
+                255,
+                249,
+                160
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FYG1",
+            "name": "Fluorescent Yellow",
+            "nameRu": "",
+            "hex": "#dce4aa",
+            "rgb": [
+                220,
+                228,
+                170
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FV2",
+            "name": "Fluorescent Dull Violet",
+            "nameRu": "",
+            "hex": "#917fb3",
+            "rgb": [
+                145,
+                127,
+                179
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FYG2",
+            "name": "Fluorescent Dull Yellow Green",
+            "nameRu": "",
+            "hex": "#afce15",
+            "rgb": [
+                175,
+                206,
+                21
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FBG2",
+            "name": "Fluorescent Dull Blue Green",
+            "nameRu": "",
+            "hex": "#80cde7",
+            "rgb": [
+                128,
+                205,
+                231
+            ]
+        },
+        {
+            "brand": "Copic",
+            "code": "FB2",
+            "name": "Fluorescent Dull Blue",
+            "nameRu": "",
+            "hex": "#0b93cd",
+            "rgb": [
+                11,
+                147,
+                205
+            ]
+        }
+    ]
+}

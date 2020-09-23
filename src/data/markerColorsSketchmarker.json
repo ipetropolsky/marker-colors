@@ -1,0 +1,4672 @@
+{
+    "sketchmarker": [
+        {
+            "brand": "Sketchmarker",
+            "code": "B11",
+            "name": "Blue Caribbean",
+            "nameRu": "Карибский синий",
+            "hex": "#09a5cb",
+            "rgb": [
+                9,
+                165,
+                203
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B12",
+            "name": "Aqua",
+            "nameRu": "Вода",
+            "hex": "#53d2eb",
+            "rgb": [
+                83,
+                210,
+                235
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B13",
+            "name": "Clear Aqua",
+            "nameRu": "Прозрачная вода",
+            "hex": "#82d6ec",
+            "rgb": [
+                130,
+                214,
+                236
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B14",
+            "name": "Bermuda Teal",
+            "nameRu": "Бермудская бирюза",
+            "hex": "#b4edf6",
+            "rgb": [
+                180,
+                237,
+                246
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B15",
+            "name": "Venice",
+            "nameRu": "Венеция",
+            "hex": "#f7fbfc",
+            "rgb": [
+                247,
+                251,
+                252
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B22",
+            "name": "Frosted Jade",
+            "nameRu": "Морозный нефрит",
+            "hex": "#71abae",
+            "rgb": [
+                113,
+                171,
+                174
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B25",
+            "name": "Glacier Blue",
+            "nameRu": "Голубой ледник",
+            "hex": "#ecf7f6",
+            "rgb": [
+                236,
+                247,
+                246
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B50",
+            "name": "Blue Storm",
+            "nameRu": "Синий шторм",
+            "hex": "#254259",
+            "rgb": [
+                37,
+                66,
+                89
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B70",
+            "name": "Summer Blue",
+            "nameRu": "Летний синий",
+            "hex": "#165ba1",
+            "rgb": [
+                22,
+                91,
+                161
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B72",
+            "name": "Light Blue",
+            "nameRu": "Голубой",
+            "hex": "#4abbf5",
+            "rgb": [
+                74,
+                187,
+                245
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B75",
+            "name": "Blue Shadow",
+            "nameRu": "Синяя тень",
+            "hex": "#e8f7f8",
+            "rgb": [
+                232,
+                247,
+                248
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B80",
+            "name": "Wave Blue",
+            "nameRu": "Морская волна",
+            "hex": "#303851",
+            "rgb": [
+                48,
+                56,
+                81
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B82",
+            "name": "Glaucous",
+            "nameRu": "Серовато-голубой",
+            "hex": "#8697cd",
+            "rgb": [
+                134,
+                151,
+                205
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B90",
+            "name": "Dark Blue",
+            "nameRu": "Тёмный синий",
+            "hex": "#334180",
+            "rgb": [
+                51,
+                65,
+                128
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B100",
+            "name": "Royal Blue",
+            "nameRu": "Королевский синий",
+            "hex": "#243a8b",
+            "rgb": [
+                36,
+                58,
+                139
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B101",
+            "name": "Blue",
+            "nameRu": "Синий",
+            "hex": "#2c53bb",
+            "rgb": [
+                44,
+                83,
+                187
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B110",
+            "name": "Deep Blue",
+            "nameRu": "Глубокий синий",
+            "hex": "#3b3f6b",
+            "rgb": [
+                59,
+                63,
+                107
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B115",
+            "name": "Pale Iceberg",
+            "nameRu": "Бледный айсберг",
+            "hex": "#edf1fa",
+            "rgb": [
+                237,
+                241,
+                250
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B120",
+            "name": "Midnight Blue",
+            "nameRu": "Полночный синий",
+            "hex": "#34354d",
+            "rgb": [
+                52,
+                53,
+                77
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B122",
+            "name": "Horizon Blue",
+            "nameRu": "Синий горизонт",
+            "hex": "#7671a7",
+            "rgb": [
+                118,
+                113,
+                167
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B125",
+            "name": "Princes Sofia",
+            "nameRu": "Принцеса София",
+            "hex": "#edeef8",
+            "rgb": [
+                237,
+                238,
+                248
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG10",
+            "name": "Invisible Green",
+            "nameRu": "",
+            "hex": "#4c514d",
+            "rgb": [
+                76,
+                81,
+                77
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG11",
+            "name": "Khaki",
+            "nameRu": "Хаки",
+            "hex": "#767561",
+            "rgb": [
+                118,
+                117,
+                97
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG12",
+            "name": "Sage",
+            "nameRu": "Шалфей",
+            "hex": "#92917c",
+            "rgb": [
+                146,
+                145,
+                124
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG13",
+            "name": "Sandstone",
+            "nameRu": "Песчаник",
+            "hex": "#d4cfb1",
+            "rgb": [
+                212,
+                207,
+                177
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG14",
+            "name": "Fossil",
+            "nameRu": "Окаменелость",
+            "hex": "#e4e2d7",
+            "rgb": [
+                228,
+                226,
+                215
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG15",
+            "name": "White Sand",
+            "nameRu": "Белый песок",
+            "hex": "#e9e6e1",
+            "rgb": [
+                233,
+                230,
+                225
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG21",
+            "name": "Grab Green",
+            "nameRu": "Зеленый грейфер",
+            "hex": "#535b43",
+            "rgb": [
+                83,
+                91,
+                67
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG22",
+            "name": "Mizzle",
+            "nameRu": "Изморось",
+            "hex": "#818a6f",
+            "rgb": [
+                129,
+                138,
+                111
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG23",
+            "name": "Pale Olive",
+            "nameRu": "Бледно оливковый",
+            "hex": "#c7d0a4",
+            "rgb": [
+                199,
+                208,
+                164
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG32",
+            "name": "Winter Spruce",
+            "nameRu": "Зимняя ель",
+            "hex": "#798884",
+            "rgb": [
+                121,
+                136,
+                132
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG33",
+            "name": "Pale Dawn Gray",
+            "nameRu": "Бледно-серый рассвет",
+            "hex": "#adb7ae",
+            "rgb": [
+                173,
+                183,
+                174
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG34",
+            "name": "Dust",
+            "nameRu": "Грязь",
+            "hex": "#d2dbd8",
+            "rgb": [
+                210,
+                219,
+                216
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG40",
+            "name": "Brunswick Green",
+            "nameRu": "",
+            "hex": "#254248",
+            "rgb": [
+                37,
+                66,
+                72
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG41",
+            "name": "Sea Storm",
+            "nameRu": "Морской шторм",
+            "hex": "#537777",
+            "rgb": [
+                83,
+                119,
+                119
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG42",
+            "name": "Slate Green",
+            "nameRu": "Зеленый сланец",
+            "hex": "#84a296",
+            "rgb": [
+                132,
+                162,
+                150
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG54",
+            "name": "Marble",
+            "nameRu": "Мрамор",
+            "hex": "#e1eef3",
+            "rgb": [
+                225,
+                238,
+                243
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG61",
+            "name": "Galapagos Green",
+            "nameRu": "Галапагосский зеленый",
+            "hex": "#186e76",
+            "rgb": [
+                24,
+                110,
+                118
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG62",
+            "name": "Myrtle Green",
+            "nameRu": "Зеленый мирт",
+            "hex": "#6597a0",
+            "rgb": [
+                101,
+                151,
+                160
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG84",
+            "name": "Silver Fox",
+            "nameRu": "Черно-бурая лисица",
+            "hex": "#d2c5c1",
+            "rgb": [
+                210,
+                197,
+                193
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG90",
+            "name": "Smoke",
+            "nameRu": "Дым",
+            "hex": "#4e3c38",
+            "rgb": [
+                78,
+                60,
+                56
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG91",
+            "name": "Graphite",
+            "nameRu": "Графит",
+            "hex": "#6c5c56",
+            "rgb": [
+                108,
+                92,
+                86
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG92",
+            "name": "Gray Tint",
+            "nameRu": "Серый насыщенный",
+            "hex": "#9a817a",
+            "rgb": [
+                154,
+                129,
+                122
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BL",
+            "name": "BL - Blender",
+            "nameRu": "Блендер",
+            "hex": "#ffffff",
+            "rgb": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR10",
+            "name": "Brown",
+            "nameRu": "Коричневый",
+            "hex": "#835539",
+            "rgb": [
+                131,
+                85,
+                57
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR12",
+            "name": "Ginger",
+            "nameRu": "Имбирь",
+            "hex": "#de9c7a",
+            "rgb": [
+                222,
+                156,
+                122
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR22",
+            "name": "Light Mahogany",
+            "nameRu": "Светлый коричневато-красный",
+            "hex": "#ae5d4b",
+            "rgb": [
+                174,
+                93,
+                75
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR24",
+            "name": "Flesh Colour",
+            "nameRu": "Телесный цвет",
+            "hex": "#ffcba6",
+            "rgb": [
+                255,
+                203,
+                166
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR30",
+            "name": "Bordeaux",
+            "nameRu": "Бордо",
+            "hex": "#5c3939",
+            "rgb": [
+                92,
+                57,
+                57
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR32",
+            "name": "Rosy Brown",
+            "nameRu": "Розово-коричневый",
+            "hex": "#af7e6f",
+            "rgb": [
+                175,
+                126,
+                111
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR35",
+            "name": "Linen",
+            "nameRu": "Льняное полотно",
+            "hex": "#f9eee8",
+            "rgb": [
+                249,
+                238,
+                232
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR42",
+            "name": "Umber",
+            "nameRu": "Умбра",
+            "hex": "#977576",
+            "rgb": [
+                151,
+                117,
+                118
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR43",
+            "name": "Ash",
+            "nameRu": "Ясень",
+            "hex": "#bfa49b",
+            "rgb": [
+                191,
+                164,
+                155
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR50",
+            "name": "Dark Brown",
+            "nameRu": "Темно коричневый",
+            "hex": "#56413c",
+            "rgb": [
+                86,
+                65,
+                60
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR60",
+            "name": "Mid Brown",
+            "nameRu": "Средний коричневый",
+            "hex": "#624939",
+            "rgb": [
+                98,
+                73,
+                57
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR62",
+            "name": "Mushroom",
+            "nameRu": "Гриб",
+            "hex": "#bf9870",
+            "rgb": [
+                191,
+                152,
+                112
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR64",
+            "name": "Lion",
+            "nameRu": "Лев",
+            "hex": "#feebbb",
+            "rgb": [
+                254,
+                235,
+                187
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR65",
+            "name": "Pebble",
+            "nameRu": "Коричневая Галька",
+            "hex": "#f1e9d7",
+            "rgb": [
+                241,
+                233,
+                215
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR71",
+            "name": "Sienna",
+            "nameRu": "Сиена",
+            "hex": "#a17742",
+            "rgb": [
+                161,
+                119,
+                66
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR72",
+            "name": "Beige",
+            "nameRu": "Бежевый",
+            "hex": "#bb8d59",
+            "rgb": [
+                187,
+                141,
+                89
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR75",
+            "name": "Maple",
+            "nameRu": "Клён",
+            "hex": "#efebd5",
+            "rgb": [
+                239,
+                235,
+                213
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR81",
+            "name": "Earth Yellow",
+            "nameRu": "Почва",
+            "hex": "#887157",
+            "rgb": [
+                136,
+                113,
+                87
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR82",
+            "name": "Brick Beige",
+            "nameRu": "Бежевый кирпич",
+            "hex": "#ab9173",
+            "rgb": [
+                171,
+                145,
+                115
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR85",
+            "name": "Cosmic Latte",
+            "nameRu": "Космическое латте",
+            "hex": "#f4f2df",
+            "rgb": [
+                244,
+                242,
+                223
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR90",
+            "name": "Antique Hickory",
+            "nameRu": "Античный Хикори",
+            "hex": "#53463f",
+            "rgb": [
+                83,
+                70,
+                63
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR91",
+            "name": "Bronze",
+            "nameRu": "Бронзовый",
+            "hex": "#755e48",
+            "rgb": [
+                117,
+                94,
+                72
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR93",
+            "name": "Tortilla",
+            "nameRu": "Маисовая лепешка",
+            "hex": "#c8b384",
+            "rgb": [
+                200,
+                179,
+                132
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG1",
+            "name": "Cool gray 1",
+            "nameRu": "Прохладный серый 1",
+            "hex": "#40495b",
+            "rgb": [
+                64,
+                73,
+                91
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG5",
+            "name": "Cool Gray 5",
+            "nameRu": "Прохладный серый 5",
+            "hex": "#a6b8c3",
+            "rgb": [
+                166,
+                184,
+                195
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG8",
+            "name": "Cool Gray 8",
+            "nameRu": "Прохладный серый 8",
+            "hex": "#ced5dd",
+            "rgb": [
+                206,
+                213,
+                221
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG9",
+            "name": "Cool gray 9",
+            "nameRu": "Прохладный серый 9",
+            "hex": "#eceeef",
+            "rgb": [
+                236,
+                238,
+                239
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "FL1",
+            "name": "Fluorescent Yellow",
+            "nameRu": "Желтый флуоресц.",
+            "hex": "#f5ee56",
+            "rgb": [
+                245,
+                238,
+                86
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "FL2",
+            "name": "Fluorescent Orange",
+            "nameRu": "Оранжевый флуоре",
+            "hex": "#ed6c13",
+            "rgb": [
+                237,
+                108,
+                19
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "FL3",
+            "name": "Fluorescent Pink",
+            "nameRu": "Флуорисцентный розовый",
+            "hex": "#ff6bc1",
+            "rgb": [
+                255,
+                107,
+                193
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "FL5",
+            "name": "Fluorescent Blue",
+            "nameRu": "Флуорисцентный синий",
+            "hex": "#67f0ff",
+            "rgb": [
+                103,
+                240,
+                255
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G11",
+            "name": "Yellow Green",
+            "nameRu": "Желто зеленый",
+            "hex": "#6a8537",
+            "rgb": [
+                106,
+                133,
+                55
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G13",
+            "name": "Pear",
+            "nameRu": "Груша",
+            "hex": "#d8d902",
+            "rgb": [
+                216,
+                217,
+                2
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G15",
+            "name": "Lime Punch",
+            "nameRu": "Лаймовый пунш",
+            "hex": "#edf6d4",
+            "rgb": [
+                237,
+                246,
+                212
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G30",
+            "name": "Olive Green",
+            "nameRu": "Оливковый зеленый",
+            "hex": "#58652f",
+            "rgb": [
+                88,
+                101,
+                47
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G31",
+            "name": "Apple Green",
+            "nameRu": "Зеленое яблоко",
+            "hex": "#7fa83f",
+            "rgb": [
+                127,
+                168,
+                63
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G32",
+            "name": "Chartreuse",
+            "nameRu": "Зеленовато-желтый",
+            "hex": "#accf27",
+            "rgb": [
+                172,
+                207,
+                39
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G45",
+            "name": "Pistachio",
+            "nameRu": "Фисташковый",
+            "hex": "#f5f7d2",
+            "rgb": [
+                245,
+                247,
+                210
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G62",
+            "name": "Grass",
+            "nameRu": "Трава",
+            "hex": "#a2e34a",
+            "rgb": [
+                162,
+                227,
+                74
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G71",
+            "name": "May Green",
+            "nameRu": "Майский зеленый",
+            "hex": "#499d44",
+            "rgb": [
+                73,
+                157,
+                68
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G72",
+            "name": "Lime",
+            "nameRu": "Зеленый лайм",
+            "hex": "#79d649",
+            "rgb": [
+                121,
+                214,
+                73
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G73",
+            "name": "Celadon",
+            "nameRu": "Светлый серо-зелёный",
+            "hex": "#c8fa8b",
+            "rgb": [
+                200,
+                250,
+                139
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G80",
+            "name": "Evergreen",
+            "nameRu": "Вечнозеленый",
+            "hex": "#306730",
+            "rgb": [
+                48,
+                103,
+                48
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G81",
+            "name": "Nile Green",
+            "nameRu": "Зеленый Нил",
+            "hex": "#4d7f5d",
+            "rgb": [
+                77,
+                127,
+                93
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G93",
+            "name": "Nyanza",
+            "nameRu": "Ньянза",
+            "hex": "#baf7a5",
+            "rgb": [
+                186,
+                247,
+                165
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G100",
+            "name": "Green",
+            "nameRu": "Зеленый",
+            "hex": "#1a6d4e",
+            "rgb": [
+                26,
+                109,
+                78
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G101",
+            "name": "Emerald Green",
+            "nameRu": "Зеленый изумрудный",
+            "hex": "#289f6b",
+            "rgb": [
+                40,
+                159,
+                107
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G104",
+            "name": "Pastel Green",
+            "nameRu": "Пастельный зелёный",
+            "hex": "#b7efb8",
+            "rgb": [
+                183,
+                239,
+                184
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G111",
+            "name": "Viridian",
+            "nameRu": "Голубовато зеленый",
+            "hex": "#5ea27e",
+            "rgb": [
+                94,
+                162,
+                126
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G112",
+            "name": "Spruce Green",
+            "nameRu": "Зеленая ель",
+            "hex": "#87ca93",
+            "rgb": [
+                135,
+                202,
+                147
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G113",
+            "name": "Pale Green",
+            "nameRu": "Бледно зеленый",
+            "hex": "#bfdcc2",
+            "rgb": [
+                191,
+                220,
+                194
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G122",
+            "name": "Lush Green",
+            "nameRu": "Сочный зеленый",
+            "hex": "#219e71",
+            "rgb": [
+                33,
+                158,
+                113
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G124",
+            "name": "Green Shadow",
+            "nameRu": "Зеленый полумрак",
+            "hex": "#c3f2d7",
+            "rgb": [
+                195,
+                242,
+                215
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G130",
+            "name": "Teal",
+            "nameRu": "Зеленовато-голубой",
+            "hex": "#608b81",
+            "rgb": [
+                96,
+                139,
+                129
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G131",
+            "name": "Ocean Green",
+            "nameRu": "Зеленый океан",
+            "hex": "#75afac",
+            "rgb": [
+                117,
+                175,
+                172
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G134",
+            "name": "Liberty",
+            "nameRu": "",
+            "hex": "#c3e5df",
+            "rgb": [
+                195,
+                229,
+                223
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G135",
+            "name": "Sea Mist",
+            "nameRu": "Морская дымка",
+            "hex": "#f2fbf2",
+            "rgb": [
+                242,
+                251,
+                242
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G142",
+            "name": "Green Verditer",
+            "nameRu": "Зеленый Вердитер",
+            "hex": "#4ba89d",
+            "rgb": [
+                75,
+                168,
+                157
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G143",
+            "name": "Mint",
+            "nameRu": "Мята",
+            "hex": "#4dc79e",
+            "rgb": [
+                77,
+                199,
+                158
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G152",
+            "name": "Turquoise Green",
+            "nameRu": "Бирюзово-зеленый",
+            "hex": "#27aba0",
+            "rgb": [
+                39,
+                171,
+                160
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G163",
+            "name": "Pale Turquoise",
+            "nameRu": "Бледно бирюзовый",
+            "hex": "#7cbfbe",
+            "rgb": [
+                124,
+                191,
+                190
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G165",
+            "name": "Pale Mint",
+            "nameRu": "Бледная мята",
+            "hex": "#e7faf6",
+            "rgb": [
+                231,
+                250,
+                246
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG1",
+            "name": "Gray Green 1",
+            "nameRu": "Серо-зелёный 1",
+            "hex": "#30322c",
+            "rgb": [
+                48,
+                50,
+                44
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG2",
+            "name": "Gray Green 2",
+            "nameRu": "Серо-зелёный 2",
+            "hex": "#4b4b3e",
+            "rgb": [
+                75,
+                75,
+                62
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG3",
+            "name": "Gray Green 3",
+            "nameRu": "Серо зелёный 3",
+            "hex": "#6e6a54",
+            "rgb": [
+                110,
+                106,
+                84
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG4",
+            "name": "Gray Green 4",
+            "nameRu": "Серо зелёный 4",
+            "hex": "#9f9f76",
+            "rgb": [
+                159,
+                159,
+                118
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG5",
+            "name": "Gray Green 5",
+            "nameRu": "Серо зелёный 5",
+            "hex": "#bdbfa7",
+            "rgb": [
+                189,
+                191,
+                167
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG6",
+            "name": "Gray Green 6",
+            "nameRu": "Серо-зелёный 6",
+            "hex": "#cdcab6",
+            "rgb": [
+                205,
+                202,
+                182
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG7",
+            "name": "Gray Green 7",
+            "nameRu": "Серо-зелёный 7",
+            "hex": "#d6d5c5",
+            "rgb": [
+                214,
+                213,
+                197
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG8",
+            "name": "Gray Green 8",
+            "nameRu": "Серо-зелёный 8",
+            "hex": "#edede6",
+            "rgb": [
+                237,
+                237,
+                230
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "GG9",
+            "name": "Gray Green 9",
+            "nameRu": "Серо-зелёный 9",
+            "hex": "#f1f1ec",
+            "rgb": [
+                241,
+                241,
+                236
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG1",
+            "name": "Neutral Gray 1",
+            "nameRu": "Нейтральный серый 1",
+            "hex": "#303032",
+            "rgb": [
+                48,
+                48,
+                50
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG2",
+            "name": "Neutral Gray 2",
+            "nameRu": "Нейтральный серый 2",
+            "hex": "#4a504f",
+            "rgb": [
+                74,
+                80,
+                79
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG3",
+            "name": "Neutral Gray 3",
+            "nameRu": "Нейтральный серый 3",
+            "hex": "#696e6c",
+            "rgb": [
+                105,
+                110,
+                108
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG4",
+            "name": "Neutral Gray 4",
+            "nameRu": "Нейтральный серый 4",
+            "hex": "#b8b0ae",
+            "rgb": [
+                184,
+                176,
+                174
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG5",
+            "name": "Neutral Gray 5",
+            "nameRu": "Нейтральный серый 5",
+            "hex": "#9fa396",
+            "rgb": [
+                159,
+                163,
+                150
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG6",
+            "name": "Neutral Gray 6",
+            "nameRu": "Нейтральный серый 6",
+            "hex": "#adb6ad",
+            "rgb": [
+                173,
+                182,
+                173
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG8",
+            "name": "Neutral Gray 8",
+            "nameRu": "Нейтральный серый 8",
+            "hex": "#d6d9d6",
+            "rgb": [
+                214,
+                217,
+                214
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG9",
+            "name": "Neutral Gray 9",
+            "nameRu": "Нейтральный серый 9",
+            "hex": "#ebebea",
+            "rgb": [
+                235,
+                235,
+                234
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O20",
+            "name": "Rust",
+            "nameRu": "Ржавчина",
+            "hex": "#964d38",
+            "rgb": [
+                150,
+                77,
+                56
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O21",
+            "name": "Orange Red",
+            "nameRu": "Оранжево-красный",
+            "hex": "#c85935",
+            "rgb": [
+                200,
+                89,
+                53
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O24",
+            "name": "Tea Rose",
+            "nameRu": "Чайная Роза",
+            "hex": "#fea274",
+            "rgb": [
+                254,
+                162,
+                116
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O25",
+            "name": "Rose Champagne",
+            "nameRu": "Розовое шампанское",
+            "hex": "#fee2ca",
+            "rgb": [
+                254,
+                226,
+                202
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O32",
+            "name": "Chrome Orange",
+            "nameRu": "Оранжево желтый",
+            "hex": "#ff5524",
+            "rgb": [
+                255,
+                85,
+                36
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O33",
+            "name": "Amber",
+            "nameRu": "Янтарный",
+            "hex": "#ff8b49",
+            "rgb": [
+                255,
+                139,
+                73
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O41",
+            "name": "Orange",
+            "nameRu": "Оранжевый",
+            "hex": "#fd5929",
+            "rgb": [
+                253,
+                89,
+                41
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O42",
+            "name": "Tawny",
+            "nameRu": "Рыжевато коричневый",
+            "hex": "#f87621",
+            "rgb": [
+                248,
+                118,
+                33
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O65",
+            "name": "Silk",
+            "nameRu": "Шёлк",
+            "hex": "#fbebce",
+            "rgb": [
+                251,
+                235,
+                206
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O71",
+            "name": "Copper",
+            "nameRu": "Медный",
+            "hex": "#c05e3b",
+            "rgb": [
+                192,
+                94,
+                59
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O74",
+            "name": "Satin",
+            "nameRu": "Сатин",
+            "hex": "#ffc99f",
+            "rgb": [
+                255,
+                201,
+                159
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O81",
+            "name": "Gingerbread",
+            "nameRu": "Имбирный пряник",
+            "hex": "#ac733b",
+            "rgb": [
+                172,
+                115,
+                59
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O82",
+            "name": "Dijon Mustard",
+            "nameRu": "Дижонская горчица",
+            "hex": "#d69039",
+            "rgb": [
+                214,
+                144,
+                57
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R10",
+            "name": "Red Wood",
+            "nameRu": "Красное дерево",
+            "hex": "#5a333b",
+            "rgb": [
+                90,
+                51,
+                59
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R11",
+            "name": "Shale",
+            "nameRu": "Сланец",
+            "hex": "#8c4a57",
+            "rgb": [
+                140,
+                74,
+                87
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R13",
+            "name": "Rosebud",
+            "nameRu": "Бутон розы",
+            "hex": "#cf7992",
+            "rgb": [
+                207,
+                121,
+                146
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R20",
+            "name": "Cherry",
+            "nameRu": "Вишня",
+            "hex": "#83354c",
+            "rgb": [
+                131,
+                53,
+                76
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R23",
+            "name": "Salmon Pink",
+            "nameRu": "Розовый лососевый",
+            "hex": "#ff7ea4",
+            "rgb": [
+                255,
+                126,
+                164
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R24",
+            "name": "Baby Pink",
+            "nameRu": "Детский розовый",
+            "hex": "#ffd5e6",
+            "rgb": [
+                255,
+                213,
+                230
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R34",
+            "name": "Ice Pearl",
+            "nameRu": "Ледяная жемчужина",
+            "hex": "#ffc2d1",
+            "rgb": [
+                255,
+                194,
+                209
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R35",
+            "name": "Silver Pink",
+            "nameRu": "Серебристо розовый",
+            "hex": "#fdecf2",
+            "rgb": [
+                253,
+                236,
+                242
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R40",
+            "name": "Crimson",
+            "nameRu": "Малиновый",
+            "hex": "#b92049",
+            "rgb": [
+                185,
+                32,
+                73
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R54",
+            "name": "Pink Snow",
+            "nameRu": "Розовый снег",
+            "hex": "#ffe8ed",
+            "rgb": [
+                255,
+                232,
+                237
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R55",
+            "name": "Cotton candy",
+            "nameRu": "Сахарная вата",
+            "hex": "#fdf7f4",
+            "rgb": [
+                253,
+                247,
+                244
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R61",
+            "name": "Geranium Red",
+            "nameRu": "Красная герань",
+            "hex": "#a52136",
+            "rgb": [
+                165,
+                33,
+                54
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R62",
+            "name": "Lipstick red",
+            "nameRu": "Красная помада",
+            "hex": "#cd010e",
+            "rgb": [
+                205,
+                1,
+                14
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R63",
+            "name": "Indian Red",
+            "nameRu": "Индийский красный",
+            "hex": "#fb6973",
+            "rgb": [
+                251,
+                105,
+                115
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R64",
+            "name": "Piggy Pink",
+            "nameRu": "Поросячий розовый",
+            "hex": "#ffc4c6",
+            "rgb": [
+                255,
+                196,
+                198
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R71",
+            "name": "Cardinal Red",
+            "nameRu": "Красный кардинал",
+            "hex": "#cf3854",
+            "rgb": [
+                207,
+                56,
+                84
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R75",
+            "name": "Chalk",
+            "nameRu": "Мел",
+            "hex": "#f7eeee",
+            "rgb": [
+                247,
+                238,
+                238
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R81",
+            "name": "Firebrick",
+            "nameRu": "Кирпич",
+            "hex": "#b76f61",
+            "rgb": [
+                183,
+                111,
+                97
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R84",
+            "name": "Lace",
+            "nameRu": "Кружева",
+            "hex": "#e4c1b5",
+            "rgb": [
+                228,
+                193,
+                181
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R100",
+            "name": "Red Sweater",
+            "nameRu": "Красный свитер",
+            "hex": "#9e3444",
+            "rgb": [
+                158,
+                52,
+                68
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R101",
+            "name": "Ketchup",
+            "nameRu": "Кетчуп",
+            "hex": "#c03041",
+            "rgb": [
+                192,
+                48,
+                65
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R103",
+            "name": "New York Pink",
+            "nameRu": "Нью Йорк Пинк",
+            "hex": "#ff7381",
+            "rgb": [
+                255,
+                115,
+                129
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R104",
+            "name": "Ballet Slipper",
+            "nameRu": "Пуанты",
+            "hex": "#ffcad8",
+            "rgb": [
+                255,
+                202,
+                216
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R115",
+            "name": "Daisy",
+            "nameRu": "Маргаритка",
+            "hex": "#fee9d6",
+            "rgb": [
+                254,
+                233,
+                214
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R122",
+            "name": "Vermilion",
+            "nameRu": "Ярко красный",
+            "hex": "#ec3532",
+            "rgb": [
+                236,
+                53,
+                50
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SB",
+            "name": "Simple Black",
+            "nameRu": "Простой черный",
+            "hex": "#101013",
+            "rgb": [
+                16,
+                16,
+                19
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG1",
+            "name": "Simple Gray 1",
+            "nameRu": "Простой серый 1",
+            "hex": "#2b2c2e",
+            "rgb": [
+                43,
+                44,
+                46
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG2",
+            "name": "Simple Gray 2",
+            "nameRu": "Простой серый 2",
+            "hex": "#3f4646",
+            "rgb": [
+                63,
+                70,
+                70
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG3",
+            "name": "Simple Gray 3",
+            "nameRu": "Простой серый 3",
+            "hex": "#616f75",
+            "rgb": [
+                97,
+                111,
+                117
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG7",
+            "name": "Simple Gray 7",
+            "nameRu": "Простой серый 7",
+            "hex": "#c9cdc9",
+            "rgb": [
+                201,
+                205,
+                201
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG8",
+            "name": "Simple Gray 8",
+            "nameRu": "Простой серый 8",
+            "hex": "#d9dfde",
+            "rgb": [
+                217,
+                223,
+                222
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG9",
+            "name": "Simple Gray 9",
+            "nameRu": "Простой серый 9",
+            "hex": "#e4e6e6",
+            "rgb": [
+                228,
+                230,
+                230
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG1",
+            "name": "Toner Gray 1",
+            "nameRu": "Тонированный серый 1",
+            "hex": "#292b2a",
+            "rgb": [
+                41,
+                43,
+                42
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG2",
+            "name": "Toner Gray 2",
+            "nameRu": "Тонированный серый 2",
+            "hex": "#363435",
+            "rgb": [
+                54,
+                52,
+                53
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG3",
+            "name": "Toner Gray 3",
+            "nameRu": "Тонированный серый 3",
+            "hex": "#535154",
+            "rgb": [
+                83,
+                81,
+                84
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG4",
+            "name": "Toner Gray 4",
+            "nameRu": "Тонированный серый 4",
+            "hex": "#525051",
+            "rgb": [
+                82,
+                80,
+                81
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG5",
+            "name": "Toner Gray 5",
+            "nameRu": "Тонированный серый 5",
+            "hex": "#807d7e",
+            "rgb": [
+                128,
+                125,
+                126
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG8",
+            "name": "Toner Gray 8",
+            "nameRu": "Тонированный серый 8",
+            "hex": "#ddd9d5",
+            "rgb": [
+                221,
+                217,
+                213
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG9",
+            "name": "Toner Gray 9",
+            "nameRu": "Тонированный серый 9",
+            "hex": "#e7e5e3",
+            "rgb": [
+                231,
+                229,
+                227
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V14",
+            "name": "Sea Lavender",
+            "nameRu": "Сиреневое море",
+            "hex": "#ece8f6",
+            "rgb": [
+                236,
+                232,
+                246
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V21",
+            "name": "Deep Lilac",
+            "nameRu": "Глубокий сиреневый",
+            "hex": "#796eab",
+            "rgb": [
+                121,
+                110,
+                171
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V41",
+            "name": "Iris",
+            "nameRu": "Ирис",
+            "hex": "#6248ab",
+            "rgb": [
+                98,
+                72,
+                171
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V53",
+            "name": "Lavender",
+            "nameRu": "Лаванда",
+            "hex": "#d79fea",
+            "rgb": [
+                215,
+                159,
+                234
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V55",
+            "name": "Orchid Ice",
+            "nameRu": "Фиолетовый лед",
+            "hex": "#efecf3",
+            "rgb": [
+                239,
+                236,
+                243
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V60",
+            "name": "Plum",
+            "nameRu": "Слива",
+            "hex": "#522e4f",
+            "rgb": [
+                82,
+                46,
+                79
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V71",
+            "name": "Perfect Plum",
+            "nameRu": "Идеальная слива",
+            "hex": "#9632a0",
+            "rgb": [
+                150,
+                50,
+                160
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V80",
+            "name": "Eggplant",
+            "nameRu": "Баклажан",
+            "hex": "#6b4070",
+            "rgb": [
+                107,
+                64,
+                112
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V83",
+            "name": "Light Violet",
+            "nameRu": "Светло фиолетовый",
+            "hex": "#eb97c9",
+            "rgb": [
+                235,
+                151,
+                201
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V94",
+            "name": "Tango Pink",
+            "nameRu": "Бледно розовый",
+            "hex": "#f1d8e1",
+            "rgb": [
+                241,
+                216,
+                225
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V95",
+            "name": "Peony",
+            "nameRu": "Пион",
+            "hex": "#f5edef",
+            "rgb": [
+                245,
+                237,
+                239
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V101",
+            "name": "Iris Purple",
+            "nameRu": "Фиолетовый ирис",
+            "hex": "#be68ad",
+            "rgb": [
+                190,
+                104,
+                173
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V103",
+            "name": "Mauve",
+            "nameRu": "Розовато-лиловый",
+            "hex": "#f897e3",
+            "rgb": [
+                248,
+                151,
+                227
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V104",
+            "name": "Pink Lavender",
+            "nameRu": "Розовая лаванда",
+            "hex": "#f5cbeb",
+            "rgb": [
+                245,
+                203,
+                235
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V105",
+            "name": "Heather",
+            "nameRu": "Вереск",
+            "hex": "#fbebec",
+            "rgb": [
+                251,
+                235,
+                236
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V111",
+            "name": "Steel Pink",
+            "nameRu": "Розовая сталь",
+            "hex": "#c70783",
+            "rgb": [
+                199,
+                7,
+                131
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V112",
+            "name": "Opera Mauve",
+            "nameRu": "Розовато-лиловый",
+            "hex": "#fa50b5",
+            "rgb": [
+                250,
+                80,
+                181
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V114",
+            "name": "Amethyst",
+            "nameRu": "Аметист",
+            "hex": "#fe9eee",
+            "rgb": [
+                254,
+                158,
+                238
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V122",
+            "name": "Orchid",
+            "nameRu": "Орхидея",
+            "hex": "#d24790",
+            "rgb": [
+                210,
+                71,
+                144
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V123",
+            "name": "Frozen Raspberry",
+            "nameRu": "Замороженная малина",
+            "hex": "#f089c5",
+            "rgb": [
+                240,
+                137,
+                197
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V124",
+            "name": "Pink Lace",
+            "nameRu": "Розовые кружева",
+            "hex": "#e9c9dc",
+            "rgb": [
+                233,
+                201,
+                220
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V131",
+            "name": "Vivid Pink",
+            "nameRu": "Яркий розовый",
+            "hex": "#d8196d",
+            "rgb": [
+                216,
+                25,
+                109
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V132",
+            "name": "Magenta",
+            "nameRu": "Пурпурный",
+            "hex": "#f85588",
+            "rgb": [
+                248,
+                85,
+                136
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V134",
+            "name": "Pink",
+            "nameRu": "Розовый",
+            "hex": "#ffbfd0",
+            "rgb": [
+                255,
+                191,
+                208
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "VB",
+            "name": "Violet Black",
+            "nameRu": "Фиолетово черный",
+            "hex": "#0c0119",
+            "rgb": [
+                12,
+                1,
+                25
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG1",
+            "name": "Warm Gray 1",
+            "nameRu": "Теплый серый 1",
+            "hex": "#574c42",
+            "rgb": [
+                87,
+                76,
+                66
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG2",
+            "name": "Warm Gray 2",
+            "nameRu": "Теплый серый 2",
+            "hex": "#6f6356",
+            "rgb": [
+                111,
+                99,
+                86
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG3",
+            "name": "Warm Gray 3",
+            "nameRu": "Теплый серый 3",
+            "hex": "#887e69",
+            "rgb": [
+                136,
+                126,
+                105
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG4",
+            "name": "Warm Gray 4",
+            "nameRu": "Теплый серый 4",
+            "hex": "#9c977f",
+            "rgb": [
+                156,
+                151,
+                127
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG5",
+            "name": "Warm Gray 5",
+            "nameRu": "Теплый серый 5",
+            "hex": "#b4b197",
+            "rgb": [
+                180,
+                177,
+                151
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG6",
+            "name": "Warm Gray 6",
+            "nameRu": "Теплый серый 6",
+            "hex": "#babfac",
+            "rgb": [
+                186,
+                191,
+                172
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG7",
+            "name": "Warm Gray 7",
+            "nameRu": "Теплый серый 7",
+            "hex": "#c8c8bd",
+            "rgb": [
+                200,
+                200,
+                189
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG8",
+            "name": "Warm Gray 8",
+            "nameRu": "Теплый серый 8",
+            "hex": "#e3e0dd",
+            "rgb": [
+                227,
+                224,
+                221
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "WG9",
+            "name": "Warm Gray 9",
+            "nameRu": "Теплый серый 9",
+            "hex": "#ebebe8",
+            "rgb": [
+                235,
+                235,
+                232
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y12",
+            "name": "Gold",
+            "nameRu": "Золото",
+            "hex": "#feac18",
+            "rgb": [
+                254,
+                172,
+                24
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y21",
+            "name": "Bamboo",
+            "nameRu": "Бамбук",
+            "hex": "#a97839",
+            "rgb": [
+                169,
+                120,
+                57
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y33",
+            "name": "Mid Yellow",
+            "nameRu": "Средний желтый",
+            "hex": "#f8da2a",
+            "rgb": [
+                248,
+                218,
+                42
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y42",
+            "name": "Bright Yellow",
+            "nameRu": "Яркий желтый",
+            "hex": "#e4a62b",
+            "rgb": [
+                228,
+                166,
+                43
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y51",
+            "name": "Yellow",
+            "nameRu": "Желтый",
+            "hex": "#fac802",
+            "rgb": [
+                250,
+                200,
+                2
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y54",
+            "name": "Lemon Chiffon",
+            "nameRu": "Лимонный шиифон",
+            "hex": "#efef8d",
+            "rgb": [
+                239,
+                239,
+                141
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y55",
+            "name": "White Yellow",
+            "nameRu": "Бело-жёлтый",
+            "hex": "#fffcdb",
+            "rgb": [
+                255,
+                252,
+                219
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y63",
+            "name": "Narcissus",
+            "nameRu": "Нарцисс",
+            "hex": "#f7ee54",
+            "rgb": [
+                247,
+                238,
+                84
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y65",
+            "name": "Aniseed",
+            "nameRu": "Анис",
+            "hex": "#fafbd8",
+            "rgb": [
+                250,
+                251,
+                216
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y74",
+            "name": "Maize",
+            "nameRu": "Кукуруза",
+            "hex": "#ebe390",
+            "rgb": [
+                235,
+                227,
+                144
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y81",
+            "name": "Ochre",
+            "nameRu": "Охра",
+            "hex": "#8d7739",
+            "rgb": [
+                141,
+                119,
+                57
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y82",
+            "name": "Pale Sepia",
+            "nameRu": "Тусклая сепия",
+            "hex": "#c2a739",
+            "rgb": [
+                194,
+                167,
+                57
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y83",
+            "name": "Ecru",
+            "nameRu": "Экрю",
+            "hex": "#d8bf6e",
+            "rgb": [
+                216,
+                191,
+                110
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y94",
+            "name": "Pale Yellow",
+            "nameRu": "Бледно Желтый",
+            "hex": "#ffffae",
+            "rgb": [
+                255,
+                255,
+                174
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y95",
+            "name": "Vanilla",
+            "nameRu": "Ванильный",
+            "hex": "#fcfde0",
+            "rgb": [
+                252,
+                253,
+                224
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y100",
+            "name": "Green Parka",
+            "nameRu": "Болотный цвет",
+            "hex": "#52472b",
+            "rgb": [
+                82,
+                71,
+                43
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y101",
+            "name": "Dark Goldenrod",
+            "nameRu": "Темный золотистый",
+            "hex": "#9d8346",
+            "rgb": [
+                157,
+                131,
+                70
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y102",
+            "name": "Hazel wood",
+            "nameRu": "Орешник",
+            "hex": "#c0a962",
+            "rgb": [
+                192,
+                169,
+                98
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y103",
+            "name": "Flaxen",
+            "nameRu": "Соломенный",
+            "hex": "#dbcfa1",
+            "rgb": [
+                219,
+                207,
+                161
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y110",
+            "name": "Army Green",
+            "nameRu": "Армейский зелёный",
+            "hex": "#626145",
+            "rgb": [
+                98,
+                97,
+                69
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y111",
+            "name": "Reed",
+            "nameRu": "Камыш",
+            "hex": "#8f8243",
+            "rgb": [
+                143,
+                130,
+                67
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y112",
+            "name": "Sap Green",
+            "nameRu": "Зелёная краска из крушины",
+            "hex": "#bbb47c",
+            "rgb": [
+                187,
+                180,
+                124
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B20",
+            "name": "Profound",
+            "nameRu": "Глубоководный",
+            "hex": "#1b4149",
+            "rgb": [
+                27,
+                65,
+                73
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B23",
+            "name": "Duck Egg",
+            "nameRu": "Утиное яйцо",
+            "hex": "#bfe8f1",
+            "rgb": [
+                191,
+                232,
+                241
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B24",
+            "name": "Baby Blue",
+            "nameRu": "Детский голубой",
+            "hex": "#dcf3f6",
+            "rgb": [
+                220,
+                243,
+                246
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B30",
+            "name": "Aegean",
+            "nameRu": "Эгейское море",
+            "hex": "#296482",
+            "rgb": [
+                41,
+                100,
+                130
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B31",
+            "name": "Blue Laguna",
+            "nameRu": "Синяя Лагуна",
+            "hex": "#2a7bad",
+            "rgb": [
+                42,
+                123,
+                173
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B41",
+            "name": "Persian Green",
+            "nameRu": "Персидский зеленый",
+            "hex": "#0b77b2",
+            "rgb": [
+                11,
+                119,
+                178
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B51",
+            "name": "Blue Fjord",
+            "nameRu": "Синий фьорд",
+            "hex": "#31698c",
+            "rgb": [
+                49,
+                105,
+                140
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B53",
+            "name": "Stonewash",
+            "nameRu": "Пемза",
+            "hex": "#a1c0e6",
+            "rgb": [
+                161,
+                192,
+                230
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B54",
+            "name": "Zenith Blue",
+            "nameRu": "Зенит синий",
+            "hex": "#dfe9f5",
+            "rgb": [
+                223,
+                233,
+                245
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B61",
+            "name": "Denim",
+            "nameRu": "Джинсовый",
+            "hex": "#3f6797",
+            "rgb": [
+                63,
+                103,
+                151
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B63",
+            "name": "Carolina Blue",
+            "nameRu": "Синяя Каролина",
+            "hex": "#aecbf4",
+            "rgb": [
+                174,
+                203,
+                244
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B64",
+            "name": "Steel Blue",
+            "nameRu": "Синяя сталь",
+            "hex": "#ddeaf8",
+            "rgb": [
+                221,
+                234,
+                248
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B71",
+            "name": "Cobalt Blue",
+            "nameRu": "Голубой кобальт",
+            "hex": "#229de3",
+            "rgb": [
+                34,
+                157,
+                227
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B73",
+            "name": "Sky",
+            "nameRu": "Небесный",
+            "hex": "#85d4f7",
+            "rgb": [
+                133,
+                212,
+                247
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B92",
+            "name": "Blue Crystal",
+            "nameRu": "Голубой кристал",
+            "hex": "#8296cd",
+            "rgb": [
+                130,
+                150,
+                205
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B93",
+            "name": "Shadow Mauve",
+            "nameRu": "Сиреневая тень",
+            "hex": "#b5ccf8",
+            "rgb": [
+                181,
+                204,
+                248
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B94",
+            "name": "Haze Blue",
+            "nameRu": "Дымчатый голубой",
+            "hex": "#d6e1f9",
+            "rgb": [
+                214,
+                225,
+                249
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B111",
+            "name": "Lapis",
+            "nameRu": "Лазурит",
+            "hex": "#352888",
+            "rgb": [
+                53,
+                40,
+                136
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B112",
+            "name": "Hydrangea",
+            "nameRu": "Гортензия",
+            "hex": "#3b54ad",
+            "rgb": [
+                59,
+                84,
+                173
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B114",
+            "name": "Sapphire",
+            "nameRu": "Сапфир",
+            "hex": "#cdd3f7",
+            "rgb": [
+                205,
+                211,
+                247
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "B123",
+            "name": "Cornflower",
+            "nameRu": "Василек",
+            "hex": "#ada7d2",
+            "rgb": [
+                173,
+                167,
+                210
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG52",
+            "name": "Dark Cloud",
+            "nameRu": "Темное облако",
+            "hex": "#728e9a",
+            "rgb": [
+                114,
+                142,
+                154
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG71",
+            "name": "Blue Gray",
+            "nameRu": "Сине серый",
+            "hex": "#5d5d79",
+            "rgb": [
+                93,
+                93,
+                121
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG72",
+            "name": "Gray Lilac",
+            "nameRu": "Серовато сиреневый",
+            "hex": "#87759a",
+            "rgb": [
+                135,
+                117,
+                154
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG83",
+            "name": "Arctic Gray",
+            "nameRu": "Арктический серый",
+            "hex": "#c1d8d7",
+            "rgb": [
+                193,
+                216,
+                215
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BG93",
+            "name": "Pale Gray",
+            "nameRu": "Бледный серый",
+            "hex": "#dcc7b5",
+            "rgb": [
+                220,
+                199,
+                181
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR11",
+            "name": "Mustard",
+            "nameRu": "Горчица",
+            "hex": "#b96c46",
+            "rgb": [
+                185,
+                108,
+                70
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR13",
+            "name": "Oatmeal",
+            "nameRu": "Овсянка",
+            "hex": "#e6b390",
+            "rgb": [
+                230,
+                179,
+                144
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR14",
+            "name": "Putty",
+            "nameRu": "Шпатлевка",
+            "hex": "#f5ebdb",
+            "rgb": [
+                245,
+                235,
+                219
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR15",
+            "name": "Ivory Cream",
+            "nameRu": "Кремовый",
+            "hex": "#f9f2e7",
+            "rgb": [
+                249,
+                242,
+                231
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR20",
+            "name": "Chocolate",
+            "nameRu": "Шоколад",
+            "hex": "#543c35",
+            "rgb": [
+                84,
+                60,
+                53
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR21",
+            "name": "Garnet",
+            "nameRu": "Гранат",
+            "hex": "#ae574f",
+            "rgb": [
+                174,
+                87,
+                79
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR31",
+            "name": "Brown Henna",
+            "nameRu": "Коричневая хна",
+            "hex": "#8e4142",
+            "rgb": [
+                142,
+                65,
+                66
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR34",
+            "name": "Ivory",
+            "nameRu": "Слоновая кость",
+            "hex": "#ffecdf",
+            "rgb": [
+                255,
+                236,
+                223
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR40",
+            "name": "Vandyke Brown",
+            "nameRu": "Вандайк коричный",
+            "hex": "#5a4643",
+            "rgb": [
+                90,
+                70,
+                67
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR51",
+            "name": "Burnt Umber",
+            "nameRu": "Жженая умбра",
+            "hex": "#806755",
+            "rgb": [
+                128,
+                103,
+                85
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR52",
+            "name": "Beaver",
+            "nameRu": "Бобер",
+            "hex": "#ac7f59",
+            "rgb": [
+                172,
+                127,
+                89
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR61",
+            "name": "Pecan",
+            "nameRu": "Орех Пекан",
+            "hex": "#9d6d41",
+            "rgb": [
+                157,
+                109,
+                65
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR63",
+            "name": "Sahara Beige",
+            "nameRu": "Сахара",
+            "hex": "#e9c690",
+            "rgb": [
+                233,
+                198,
+                144
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR70",
+            "name": "Chestnut",
+            "nameRu": "Каштан",
+            "hex": "#835f3e",
+            "rgb": [
+                131,
+                95,
+                62
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR73",
+            "name": "Larch",
+            "nameRu": "Лиственница",
+            "hex": "#d2b17f",
+            "rgb": [
+                210,
+                177,
+                127
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR74",
+            "name": "Light Ivy",
+            "nameRu": "Плющ светлый",
+            "hex": "#e7d4a0",
+            "rgb": [
+                231,
+                212,
+                160
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR80",
+            "name": "Brunette",
+            "nameRu": "Брюнетка",
+            "hex": "#634b40",
+            "rgb": [
+                99,
+                75,
+                64
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR83",
+            "name": "Tan",
+            "nameRu": "Смуглый",
+            "hex": "#e1cfa6",
+            "rgb": [
+                225,
+                207,
+                166
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR84",
+            "name": "Latte",
+            "nameRu": "Латте",
+            "hex": "#f5e5c1",
+            "rgb": [
+                245,
+                229,
+                193
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "BR92",
+            "name": "Medium Oak",
+            "nameRu": "Дуб",
+            "hex": "#8f7951",
+            "rgb": [
+                143,
+                121,
+                81
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG2",
+            "name": "Cool gray 2",
+            "nameRu": "Прохладный серый 2",
+            "hex": "#52627b",
+            "rgb": [
+                82,
+                98,
+                123
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG3",
+            "name": "Cool Gray 3",
+            "nameRu": "Прохладный серый 3",
+            "hex": "#63768c",
+            "rgb": [
+                99,
+                118,
+                140
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG4",
+            "name": "Cool gray 4",
+            "nameRu": "Прохладный серый 4",
+            "hex": "#56657b",
+            "rgb": [
+                86,
+                101,
+                123
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG6",
+            "name": "Cool Gray 6",
+            "nameRu": "Прохладный серый 6",
+            "hex": "#b5c2cd",
+            "rgb": [
+                181,
+                194,
+                205
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "CG7",
+            "name": "Cool Gray 7",
+            "nameRu": "Прохладный серый 7",
+            "hex": "#c9d2db",
+            "rgb": [
+                201,
+                210,
+                219
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "E",
+            "name": "BL - Blender",
+            "nameRu": "Блендер",
+            "hex": "#ffffff",
+            "rgb": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "FL4",
+            "name": "Fluorescent Green",
+            "nameRu": "Флуорисцентный зеленый",
+            "hex": "#8fff4d",
+            "rgb": [
+                143,
+                255,
+                77
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G10",
+            "name": "Crocodile",
+            "nameRu": "Крокодил",
+            "hex": "#64643e",
+            "rgb": [
+                100,
+                100,
+                62
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G12",
+            "name": "Acid Green",
+            "nameRu": "Ярко зелёный",
+            "hex": "#9fb11a",
+            "rgb": [
+                159,
+                177,
+                26
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G22",
+            "name": "Chrome Green",
+            "nameRu": "Зелёный хром",
+            "hex": "#b9c33e",
+            "rgb": [
+                185,
+                195,
+                62
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G33",
+            "name": "Meadow Green",
+            "nameRu": "Зеленый луг",
+            "hex": "#cbe54d",
+            "rgb": [
+                203,
+                229,
+                77
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G34",
+            "name": "Daiquiri",
+            "nameRu": "Дайкири",
+            "hex": "#e6ef84",
+            "rgb": [
+                230,
+                239,
+                132
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G41",
+            "name": "Moss",
+            "nameRu": "Мох",
+            "hex": "#7b8c5f",
+            "rgb": [
+                123,
+                140,
+                95
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G43",
+            "name": "Celery",
+            "nameRu": "Сельдерей",
+            "hex": "#c5d170",
+            "rgb": [
+                197,
+                209,
+                112
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G44",
+            "name": "Willow green",
+            "nameRu": "Ива зеленая",
+            "hex": "#cceb7d",
+            "rgb": [
+                204,
+                235,
+                125
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G51",
+            "name": "Jade",
+            "nameRu": "Нефрит",
+            "hex": "#65803c",
+            "rgb": [
+                101,
+                128,
+                60
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G52",
+            "name": "Herb Green",
+            "nameRu": "Зеленая трава",
+            "hex": "#9cb978",
+            "rgb": [
+                156,
+                185,
+                120
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G53",
+            "name": "Mantis",
+            "nameRu": "Богомол",
+            "hex": "#b6cf98",
+            "rgb": [
+                182,
+                207,
+                152
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G61",
+            "name": "Palm Green",
+            "nameRu": "Зеленая пальма",
+            "hex": "#307821",
+            "rgb": [
+                48,
+                120,
+                33
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G64",
+            "name": "Light Green",
+            "nameRu": "Светло зеленый",
+            "hex": "#d8f1a8",
+            "rgb": [
+                216,
+                241,
+                168
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G83",
+            "name": "Turtle Green",
+            "nameRu": "Зеленая черепаха",
+            "hex": "#a1c2a0",
+            "rgb": [
+                161,
+                194,
+                160
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G91",
+            "name": "Fern Green",
+            "nameRu": "Зеленый папоротник",
+            "hex": "#3f9147",
+            "rgb": [
+                63,
+                145,
+                71
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G92",
+            "name": "Leaf Green",
+            "nameRu": "Зеленый лист",
+            "hex": "#6bb877",
+            "rgb": [
+                107,
+                184,
+                119
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G103",
+            "name": "Green Bottle",
+            "nameRu": "Зеленая бутылка",
+            "hex": "#6edc7f",
+            "rgb": [
+                110,
+                220,
+                127
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G110",
+            "name": "Forest Green",
+            "nameRu": "Зеленый лес",
+            "hex": "#4d7a60",
+            "rgb": [
+                77,
+                122,
+                96
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G120",
+            "name": "Dark Green",
+            "nameRu": "Темный зеленый",
+            "hex": "#276453",
+            "rgb": [
+                39,
+                100,
+                83
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G123",
+            "name": "Seafoam",
+            "nameRu": "Морская пена",
+            "hex": "#66d8af",
+            "rgb": [
+                102,
+                216,
+                175
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G140",
+            "name": "Marine Green",
+            "nameRu": "Морской зеленый",
+            "hex": "#006559",
+            "rgb": [
+                0,
+                101,
+                89
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G150",
+            "name": "Blue Green",
+            "nameRu": "Синевато-зеленый",
+            "hex": "#046c6b",
+            "rgb": [
+                4,
+                108,
+                107
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G153",
+            "name": "Arctic Blue",
+            "nameRu": "Арктический голубой",
+            "hex": "#63c1b2",
+            "rgb": [
+                99,
+                193,
+                178
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G161",
+            "name": "Reef",
+            "nameRu": "Риф",
+            "hex": "#399dad",
+            "rgb": [
+                57,
+                157,
+                173
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "G164",
+            "name": "Florida Aqua",
+            "nameRu": "Флоридская вода",
+            "hex": "#84e0e5",
+            "rgb": [
+                132,
+                224,
+                229
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "NG7",
+            "name": "Neutral Gray 7",
+            "nameRu": "Нейтральный серый 7",
+            "hex": "#bbbbb9",
+            "rgb": [
+                187,
+                187,
+                185
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O11",
+            "name": "Persimmon",
+            "nameRu": "Хурма",
+            "hex": "#ff5943",
+            "rgb": [
+                255,
+                89,
+                67
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O13",
+            "name": "Flamingo",
+            "nameRu": "Фламинго",
+            "hex": "#ff9a7e",
+            "rgb": [
+                255,
+                154,
+                126
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O14",
+            "name": "Pastel Pink",
+            "nameRu": "Пастельный розовый",
+            "hex": "#fed8cb",
+            "rgb": [
+                254,
+                216,
+                203
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O15",
+            "name": "Powder Pink",
+            "nameRu": "Розовая пудра",
+            "hex": "#ffe9dc",
+            "rgb": [
+                255,
+                233,
+                220
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O22",
+            "name": "Scarlet Red",
+            "nameRu": "Алый",
+            "hex": "#dc432e",
+            "rgb": [
+                220,
+                67,
+                46
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O23",
+            "name": "Coral",
+            "nameRu": "Коралловый",
+            "hex": "#ff7d48",
+            "rgb": [
+                255,
+                125,
+                72
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O34",
+            "name": "Marigold",
+            "nameRu": "Ноготки",
+            "hex": "#ffbe79",
+            "rgb": [
+                255,
+                190,
+                121
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O43",
+            "name": "Honey",
+            "nameRu": "Мед",
+            "hex": "#ffad4a",
+            "rgb": [
+                255,
+                173,
+                74
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O44",
+            "name": "Mango",
+            "nameRu": "Манго",
+            "hex": "#ffcf88",
+            "rgb": [
+                255,
+                207,
+                136
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O50",
+            "name": "Fox",
+            "nameRu": "Лиса",
+            "hex": "#9d4e33",
+            "rgb": [
+                157,
+                78,
+                51
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O51",
+            "name": "Pumpkin",
+            "nameRu": "Тыква",
+            "hex": "#d95b28",
+            "rgb": [
+                217,
+                91,
+                40
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O53",
+            "name": "Sandy Brown",
+            "nameRu": "Песок коричневый",
+            "hex": "#ffa950",
+            "rgb": [
+                255,
+                169,
+                80
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O60",
+            "name": "Fulvous",
+            "nameRu": "Бурый",
+            "hex": "#89543a",
+            "rgb": [
+                137,
+                84,
+                58
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O63",
+            "name": "Apricot",
+            "nameRu": "Абрикос",
+            "hex": "#fca14e",
+            "rgb": [
+                252,
+                161,
+                78
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O73",
+            "name": "Sunset",
+            "nameRu": "Закат",
+            "hex": "#f9af6b",
+            "rgb": [
+                249,
+                175,
+                107
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O83",
+            "name": "Naples Yellow",
+            "nameRu": "Желтый Неаполь",
+            "hex": "#f6b129",
+            "rgb": [
+                246,
+                177,
+                41
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O84",
+            "name": "Saffron",
+            "nameRu": "Шафран",
+            "hex": "#f9c34b",
+            "rgb": [
+                249,
+                195,
+                75
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "O85",
+            "name": "Nude",
+            "nameRu": "Обнаженный",
+            "hex": "#fedab6",
+            "rgb": [
+                254,
+                218,
+                182
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R14",
+            "name": "Plum Frost",
+            "nameRu": "Морозная слива",
+            "hex": "#f0a9b9",
+            "rgb": [
+                240,
+                169,
+                185
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R21",
+            "name": "Deep Magenta",
+            "nameRu": "Глубокий Пурпурный",
+            "hex": "#c4376d",
+            "rgb": [
+                196,
+                55,
+                109
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R30",
+            "name": "Wine Red",
+            "nameRu": "Красное вино",
+            "hex": "#9d3852",
+            "rgb": [
+                157,
+                56,
+                82
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R32",
+            "name": "Deep Pink",
+            "nameRu": "Глубокий Розовый",
+            "hex": "#c35d84",
+            "rgb": [
+                195,
+                93,
+                132
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R33",
+            "name": "Charm Pink",
+            "nameRu": "Очаравательный розовый",
+            "hex": "#e5749f",
+            "rgb": [
+                229,
+                116,
+                159
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R41",
+            "name": "Amaranth",
+            "nameRu": "Пурпурный цвет",
+            "hex": "#d1234e",
+            "rgb": [
+                209,
+                35,
+                78
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R42",
+            "name": "Cyclamen",
+            "nameRu": "Цикламен",
+            "hex": "#f65267",
+            "rgb": [
+                246,
+                82,
+                103
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R43",
+            "name": "Sorbet",
+            "nameRu": "Шербет",
+            "hex": "#ff8da7",
+            "rgb": [
+                255,
+                141,
+                167
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R51",
+            "name": "Faded rose",
+            "nameRu": "Увядшая роза",
+            "hex": "#a4334c",
+            "rgb": [
+                164,
+                51,
+                76
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R52",
+            "name": "Pale Rose",
+            "nameRu": "Бледно розовый",
+            "hex": "#cf8381",
+            "rgb": [
+                207,
+                131,
+                129
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R53",
+            "name": "English Rose",
+            "nameRu": "Английская роза",
+            "hex": "#fcbdc2",
+            "rgb": [
+                252,
+                189,
+                194
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R60",
+            "name": "Maroon",
+            "nameRu": "Темно-бордовый",
+            "hex": "#86313e",
+            "rgb": [
+                134,
+                49,
+                62
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R73",
+            "name": "Coral Pink",
+            "nameRu": "Розовый корал",
+            "hex": "#fda4a5",
+            "rgb": [
+                253,
+                164,
+                165
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R74",
+            "name": "Powder",
+            "nameRu": "Пудра",
+            "hex": "#fdd6da",
+            "rgb": [
+                253,
+                214,
+                218
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R83",
+            "name": "Dusky Rose",
+            "nameRu": "Тёмная роза",
+            "hex": "#e5aaa3",
+            "rgb": [
+                229,
+                170,
+                163
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R90",
+            "name": "Deep Red",
+            "nameRu": "Глубокий красный",
+            "hex": "#8c343f",
+            "rgb": [
+                140,
+                52,
+                63
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R91",
+            "name": "Rouge",
+            "nameRu": "Румяна",
+            "hex": "#b84543",
+            "rgb": [
+                184,
+                69,
+                67
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R92",
+            "name": "Blush",
+            "nameRu": "Румянец",
+            "hex": "#ed8581",
+            "rgb": [
+                237,
+                133,
+                129
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R93",
+            "name": "Rose",
+            "nameRu": "Роза",
+            "hex": "#f7b3b9",
+            "rgb": [
+                247,
+                179,
+                185
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R110",
+            "name": "Bloody Red",
+            "nameRu": "Кровавый красный",
+            "hex": "#b02232",
+            "rgb": [
+                176,
+                34,
+                50
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R111",
+            "name": "Red",
+            "nameRu": "Красный",
+            "hex": "#d02d33",
+            "rgb": [
+                208,
+                45,
+                51
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R112",
+            "name": "Mandarin",
+            "nameRu": "Мандариновый",
+            "hex": "#ff6543",
+            "rgb": [
+                255,
+                101,
+                67
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R113",
+            "name": "Candy Apple Red",
+            "nameRu": "Красное яблоко в карамели",
+            "hex": "#ffa085",
+            "rgb": [
+                255,
+                160,
+                133
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "R114",
+            "name": "Peach",
+            "nameRu": "Персик",
+            "hex": "#ffc7ba",
+            "rgb": [
+                255,
+                199,
+                186
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG4",
+            "name": "Simple Gray 4",
+            "nameRu": "Простой серый 4",
+            "hex": "#76848a",
+            "rgb": [
+                118,
+                132,
+                138
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG5",
+            "name": "Simple Gray 5",
+            "nameRu": "Простой серый 5",
+            "hex": "#a4abaa",
+            "rgb": [
+                164,
+                171,
+                170
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "SG6",
+            "name": "Simple Gray 6",
+            "nameRu": "Простой серый 6",
+            "hex": "#9fa6a5",
+            "rgb": [
+                159,
+                166,
+                165
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG6",
+            "name": "Toner Gray 6",
+            "nameRu": "Тонированный серый 6",
+            "hex": "#a39b9a",
+            "rgb": [
+                163,
+                155,
+                154
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "TG7",
+            "name": "Toner Gray 7",
+            "nameRu": "Тонированный серый 7",
+            "hex": "#b8aea6",
+            "rgb": [
+                184,
+                174,
+                166
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V11",
+            "name": "Indigo",
+            "nameRu": "Индиго",
+            "hex": "#41459d",
+            "rgb": [
+                65,
+                69,
+                157
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V12",
+            "name": "Blueberry",
+            "nameRu": "Голубика",
+            "hex": "#6b5eaf",
+            "rgb": [
+                107,
+                94,
+                175
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V20",
+            "name": "Night Sky",
+            "nameRu": "Ночное небо",
+            "hex": "#555177",
+            "rgb": [
+                85,
+                81,
+                119
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V23",
+            "name": "Ophelia Violet",
+            "nameRu": "",
+            "hex": "#c9c1f2",
+            "rgb": [
+                201,
+                193,
+                242
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V24",
+            "name": "Lilac",
+            "nameRu": "Сиреневый",
+            "hex": "#e0d9f4",
+            "rgb": [
+                224,
+                217,
+                244
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V31",
+            "name": "Crocus",
+            "nameRu": "Крокус",
+            "hex": "#6a68ba",
+            "rgb": [
+                106,
+                104,
+                186
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V43",
+            "name": "Jacaranda",
+            "nameRu": "Джакаранда",
+            "hex": "#b09ddb",
+            "rgb": [
+                176,
+                157,
+                219
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V51",
+            "name": "Purple Velvet",
+            "nameRu": "Фиолетовый бархат",
+            "hex": "#6f3ca4",
+            "rgb": [
+                111,
+                60,
+                164
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V54",
+            "name": "Periwinkle",
+            "nameRu": "Барвинок",
+            "hex": "#e2d9ec",
+            "rgb": [
+                226,
+                217,
+                236
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V61",
+            "name": "Violet",
+            "nameRu": "Фиолетовый",
+            "hex": "#6f3b81",
+            "rgb": [
+                111,
+                59,
+                129
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V62",
+            "name": "Purple sage",
+            "nameRu": "Бордовый шалфей",
+            "hex": "#ba76c0",
+            "rgb": [
+                186,
+                118,
+                192
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V70",
+            "name": "Deep Violet",
+            "nameRu": "Глубокий фиолетовый",
+            "hex": "#5f2f65",
+            "rgb": [
+                95,
+                47,
+                101
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V73",
+            "name": "Opal Purple",
+            "nameRu": "Фиолетовый опал",
+            "hex": "#d989ec",
+            "rgb": [
+                217,
+                137,
+                236
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V81",
+            "name": "Thistle",
+            "nameRu": "Чертополох",
+            "hex": "#9c6387",
+            "rgb": [
+                156,
+                99,
+                135
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V90",
+            "name": "Mineral Violet",
+            "nameRu": "Фиолетовый минерал",
+            "hex": "#8c6a7a",
+            "rgb": [
+                140,
+                106,
+                122
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V91",
+            "name": "Sad Violet",
+            "nameRu": "Тусклый фиолетовый",
+            "hex": "#a6808f",
+            "rgb": [
+                166,
+                128,
+                143
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "V92",
+            "name": "Figs",
+            "nameRu": "Инжир",
+            "hex": "#dfacc0",
+            "rgb": [
+                223,
+                172,
+                192
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "XB",
+            "name": "Black",
+            "nameRu": "Черный",
+            "hex": "#000000",
+            "rgb": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y13",
+            "name": "Cheese",
+            "nameRu": "Сыр",
+            "hex": "#fcc63f",
+            "rgb": [
+                252,
+                198,
+                63
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y14",
+            "name": "Butter",
+            "nameRu": "Масло",
+            "hex": "#f2e79b",
+            "rgb": [
+                242,
+                231,
+                155
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y22",
+            "name": "Terra",
+            "nameRu": "Земля",
+            "hex": "#be872a",
+            "rgb": [
+                190,
+                135,
+                42
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y23",
+            "name": "Buff",
+            "nameRu": "Кожа буйвола",
+            "hex": "#f3d34c",
+            "rgb": [
+                243,
+                211,
+                76
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y24",
+            "name": "Almond",
+            "nameRu": "Миндальный",
+            "hex": "#f2e893",
+            "rgb": [
+                242,
+                232,
+                147
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y43",
+            "name": "Eggshell",
+            "nameRu": "Яичная скорлупа",
+            "hex": "#f0ca45",
+            "rgb": [
+                240,
+                202,
+                69
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y44",
+            "name": "Cream",
+            "nameRu": "Кремовый",
+            "hex": "#fff6b1",
+            "rgb": [
+                255,
+                246,
+                177
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y52",
+            "name": "Sun",
+            "nameRu": "Солнце",
+            "hex": "#fae105",
+            "rgb": [
+                250,
+                225,
+                5
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y53",
+            "name": "Sunflower",
+            "nameRu": "Подсолнух",
+            "hex": "#f8ea6f",
+            "rgb": [
+                248,
+                234,
+                111
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y62",
+            "name": "Lemon",
+            "nameRu": "Лимон",
+            "hex": "#fff32d",
+            "rgb": [
+                255,
+                243,
+                45
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y64",
+            "name": "Soft Lime",
+            "nameRu": "Мягкий лайм",
+            "hex": "#f3f29f",
+            "rgb": [
+                243,
+                242,
+                159
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y73",
+            "name": "Goldenrod",
+            "nameRu": "Золотистый",
+            "hex": "#deb737",
+            "rgb": [
+                222,
+                183,
+                55
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y75",
+            "name": "Champagne",
+            "nameRu": "Шампань",
+            "hex": "#f7f4ce",
+            "rgb": [
+                247,
+                244,
+                206
+            ]
+        },
+        {
+            "brand": "Sketchmarker",
+            "code": "Y93",
+            "name": "Citron fruit",
+            "nameRu": "Цитрус",
+            "hex": "#f9ff86",
+            "rgb": [
+                249,
+                255,
+                134
+            ]
+        }
+    ]
+}

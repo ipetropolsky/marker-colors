@@ -1,0 +1,5764 @@
+{
+    "finecolour": [
+        {
+            "brand": "Finecolour",
+            "code": "BV321",
+            "name": "Pale Lavander",
+            "nameRu": "",
+            "hex": "#e5e7f4",
+            "rgb": [
+                229,
+                231,
+                244
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV322",
+            "name": "Prune",
+            "nameRu": "",
+            "hex": "#cbc8e3",
+            "rgb": [
+                203,
+                200,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV194",
+            "name": "Hydrangea Blue",
+            "nameRu": "Синяя гортензия",
+            "hex": "#b4bcda",
+            "rgb": [
+                180,
+                188,
+                218
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV110",
+            "name": "Blue Berry",
+            "nameRu": "Черника",
+            "hex": "#6167ac",
+            "rgb": [
+                97,
+                103,
+                172
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV318",
+            "name": "Wisteria",
+            "nameRu": "",
+            "hex": "#f1eef7",
+            "rgb": [
+                241,
+                238,
+                247
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV319",
+            "name": "Ash Lavander",
+            "nameRu": "",
+            "hex": "#e8e2f0",
+            "rgb": [
+                232,
+                226,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV320",
+            "name": "Soft Violet",
+            "nameRu": "",
+            "hex": "#cabfdd",
+            "rgb": [
+                202,
+                191,
+                221
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV108",
+            "name": "Pale Blackberry",
+            "nameRu": "",
+            "hex": "#c2b3c8",
+            "rgb": [
+                194,
+                179,
+                200
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV113",
+            "name": "Deep Lilac",
+            "nameRu": "Сиреневый глубокий",
+            "hex": "#9c99c4",
+            "rgb": [
+                156,
+                153,
+                196
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV315",
+            "name": "Pale Thistle",
+            "nameRu": "",
+            "hex": "#f3f0f8",
+            "rgb": [
+                243,
+                240,
+                248
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV316",
+            "name": "Iridescent Mauve",
+            "nameRu": "",
+            "hex": "#ebe5ef",
+            "rgb": [
+                235,
+                229,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV317",
+            "name": "Mauve Shadow",
+            "nameRu": "",
+            "hex": "#e3daeb",
+            "rgb": [
+                227,
+                218,
+                235
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV109",
+            "name": "Viola",
+            "nameRu": "Пурпурный",
+            "hex": "#e0dbee",
+            "rgb": [
+                224,
+                219,
+                238
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV192",
+            "name": "Soft Lilac",
+            "nameRu": "Мягкий сиреневый",
+            "hex": "#d3bee0",
+            "rgb": [
+                211,
+                190,
+                224
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV195",
+            "name": "Bold Violet",
+            "nameRu": "Насыщенный фиолетовый",
+            "hex": "#947cba",
+            "rgb": [
+                148,
+                124,
+                186
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV197",
+            "name": "Mauve",
+            "nameRu": "Розовато лиловый",
+            "hex": "#d5bcdb",
+            "rgb": [
+                213,
+                188,
+                219
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BV193",
+            "name": "Dark Lilac",
+            "nameRu": "Темный сиреневый",
+            "hex": "#906cae",
+            "rgb": [
+                144,
+                108,
+                174
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V330",
+            "name": "Health",
+            "nameRu": "",
+            "hex": "#f7e5ef",
+            "rgb": [
+                247,
+                229,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V331",
+            "name": "Pale Lilac",
+            "nameRu": "",
+            "hex": "#f4d3e4",
+            "rgb": [
+                244,
+                211,
+                228
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V119",
+            "name": "Violet Light",
+            "nameRu": "Светлый фиолетовый",
+            "hex": "#c597c4",
+            "rgb": [
+                197,
+                151,
+                196
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V122",
+            "name": "Amethyst",
+            "nameRu": "",
+            "hex": "#af88bd",
+            "rgb": [
+                175,
+                136,
+                189
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V121",
+            "name": "Violet Dark",
+            "nameRu": "Темный фиолетовый",
+            "hex": "#8d6192",
+            "rgb": [
+                141,
+                97,
+                146
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V123",
+            "name": "Deep Purple",
+            "nameRu": "Темно фиолетовый",
+            "hex": "#652c71",
+            "rgb": [
+                101,
+                44,
+                113
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V328",
+            "name": "Rose Quartz",
+            "nameRu": "",
+            "hex": "#fdf7f9",
+            "rgb": [
+                253,
+                247,
+                249
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V329",
+            "name": "Pale Health",
+            "nameRu": "",
+            "hex": "#fdf2f8",
+            "rgb": [
+                253,
+                242,
+                248
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V206",
+            "name": "Begonia",
+            "nameRu": "Бегония",
+            "hex": "#efc7df",
+            "rgb": [
+                239,
+                199,
+                223
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V203",
+            "name": "Mallow",
+            "nameRu": "Мальва",
+            "hex": "#ebc8e0",
+            "rgb": [
+                235,
+                200,
+                224
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V118",
+            "name": "Lavender",
+            "nameRu": "",
+            "hex": "#cc8ebe",
+            "rgb": [
+                204,
+                142,
+                190
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V116",
+            "name": "Violet",
+            "nameRu": "Фиолетовый",
+            "hex": "#99699d",
+            "rgb": [
+                153,
+                105,
+                157
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V117",
+            "name": "Deep Violet",
+            "nameRu": "Фиолетовый глубокий",
+            "hex": "#864b92",
+            "rgb": [
+                134,
+                75,
+                146
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V332",
+            "name": "Pale Grape",
+            "nameRu": "",
+            "hex": "#f7edf5",
+            "rgb": [
+                247,
+                237,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V333",
+            "name": "Early Grape",
+            "nameRu": "",
+            "hex": "#eed9e8",
+            "rgb": [
+                238,
+                217,
+                232
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V334",
+            "name": "Light Grape",
+            "nameRu": "",
+            "hex": "#d9baca",
+            "rgb": [
+                217,
+                186,
+                202
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V125",
+            "name": "Sad Violet",
+            "nameRu": "Тусклый фиолетовый",
+            "hex": "#cebdc7",
+            "rgb": [
+                206,
+                189,
+                199
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V126",
+            "name": "Old Grape",
+            "nameRu": "Виноградный темный",
+            "hex": "#b789ae",
+            "rgb": [
+                183,
+                137,
+                174
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V127",
+            "name": "Aubergine",
+            "nameRu": "Баклажан",
+            "hex": "#724566",
+            "rgb": [
+                114,
+                69,
+                102
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V335",
+            "name": "Smoky Purple",
+            "nameRu": "",
+            "hex": "#f4d8e6",
+            "rgb": [
+                244,
+                216,
+                230
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V336",
+            "name": "Baby Blossoms",
+            "nameRu": "",
+            "hex": "#dcb2c5",
+            "rgb": [
+                220,
+                178,
+                197
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V199",
+            "name": "Pale Mauve",
+            "nameRu": "Бледно лиловый",
+            "hex": "#bf9abb",
+            "rgb": [
+                191,
+                154,
+                187
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V120",
+            "name": "Lilac",
+            "nameRu": "",
+            "hex": "#daa9ce",
+            "rgb": [
+                218,
+                169,
+                206
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "V198",
+            "name": "Bold Mauve",
+            "nameRu": "Насыщенный лиловый",
+            "hex": "#ac55a4",
+            "rgb": [
+                172,
+                85,
+                164
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV200",
+            "name": "Soft Pink",
+            "nameRu": "Мягкий розовый",
+            "hex": "#f9c0d9",
+            "rgb": [
+                249,
+                192,
+                217
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV201",
+            "name": "Cerise",
+            "nameRu": "Светло вишневый",
+            "hex": "#d981b3",
+            "rgb": [
+                217,
+                129,
+                179
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV202",
+            "name": "Hot Pink",
+            "nameRu": "Ярко розовый",
+            "hex": "#d157a0",
+            "rgb": [
+                209,
+                87,
+                160
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV337",
+            "name": "Evening Primrose",
+            "nameRu": "",
+            "hex": "#fbf9fc",
+            "rgb": [
+                251,
+                249,
+                252
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV338",
+            "name": "Pale Purple",
+            "nameRu": "",
+            "hex": "#fbf6fa",
+            "rgb": [
+                251,
+                246,
+                250
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV339",
+            "name": "Water Lily",
+            "nameRu": "",
+            "hex": "#f9eff7",
+            "rgb": [
+                249,
+                239,
+                247
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV340",
+            "name": "Cotton Candy",
+            "nameRu": "",
+            "hex": "#f6e7f2",
+            "rgb": [
+                246,
+                231,
+                242
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV341",
+            "name": "Pink Carnation",
+            "nameRu": "",
+            "hex": "#f3dbe9",
+            "rgb": [
+                243,
+                219,
+                233
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV342",
+            "name": "Hollyhock",
+            "nameRu": "",
+            "hex": "#e7b1d1",
+            "rgb": [
+                231,
+                177,
+                209
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV204",
+            "name": "Raspberry",
+            "nameRu": "Малиновый",
+            "hex": "#e581b7",
+            "rgb": [
+                229,
+                129,
+                183
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV343",
+            "name": "Sugared Almond Pink",
+            "nameRu": "",
+            "hex": "#fae4f0",
+            "rgb": [
+                250,
+                228,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV216",
+            "name": "Pink",
+            "nameRu": "Нежный розовый",
+            "hex": "#f9c4ce",
+            "rgb": [
+                249,
+                196,
+                206
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV211",
+            "name": "Sweet Pink",
+            "nameRu": "Нежный розовый",
+            "hex": "#f7b0c6",
+            "rgb": [
+                247,
+                176,
+                198
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV212",
+            "name": "Shock Pink",
+            "nameRu": "Прозрачный розовый",
+            "hex": "#ef87b5",
+            "rgb": [
+                239,
+                135,
+                181
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV138",
+            "name": "Fuchsia",
+            "nameRu": "",
+            "hex": "#e771ab",
+            "rgb": [
+                231,
+                113,
+                171
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV136",
+            "name": "Red Violet",
+            "nameRu": "Красный фиолетовый",
+            "hex": "#dd4d92",
+            "rgb": [
+                221,
+                77,
+                146
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV139",
+            "name": "Deep Crimson",
+            "nameRu": "Глубокий малиновый",
+            "hex": "#e03d7e",
+            "rgb": [
+                224,
+                61,
+                126
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV205",
+            "name": "Peony",
+            "nameRu": "Пион",
+            "hex": "#c74478",
+            "rgb": [
+                199,
+                68,
+                120
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV344",
+            "name": "Rose Pink",
+            "nameRu": "",
+            "hex": "#f3e0ec",
+            "rgb": [
+                243,
+                224,
+                236
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV345",
+            "name": "Rose Mist",
+            "nameRu": "",
+            "hex": "#eec6de",
+            "rgb": [
+                238,
+                198,
+                222
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV346",
+            "name": "Dark Pink",
+            "nameRu": "",
+            "hex": "#ebb9d4",
+            "rgb": [
+                235,
+                185,
+                212
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV207",
+            "name": "Garnet",
+            "nameRu": "Гранат",
+            "hex": "#c37091",
+            "rgb": [
+                195,
+                112,
+                145
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV208",
+            "name": "Cardinal",
+            "nameRu": "Ярко красный",
+            "hex": "#b3426e",
+            "rgb": [
+                179,
+                66,
+                110
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV128",
+            "name": "Pink Haze",
+            "nameRu": "",
+            "hex": "#f8e7ef",
+            "rgb": [
+                248,
+                231,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV129",
+            "name": "Shadow Pink",
+            "nameRu": "",
+            "hex": "#f6cede",
+            "rgb": [
+                246,
+                206,
+                222
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV131",
+            "name": "Lipstick Natural",
+            "nameRu": "Телесный",
+            "hex": "#fabbc4",
+            "rgb": [
+                250,
+                187,
+                196
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV141",
+            "name": "Currant",
+            "nameRu": "",
+            "hex": "#c87994",
+            "rgb": [
+                200,
+                121,
+                148
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV135",
+            "name": "Grape",
+            "nameRu": "Виноград",
+            "hex": "#a16575",
+            "rgb": [
+                161,
+                101,
+                117
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV152",
+            "name": "Argyle Purple",
+            "nameRu": "Аргиль фиолетовый",
+            "hex": "#7c2d4a",
+            "rgb": [
+                124,
+                45,
+                74
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV363",
+            "name": "Pale Pink",
+            "nameRu": "",
+            "hex": "#f9e9ea",
+            "rgb": [
+                249,
+                233,
+                234
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV209",
+            "name": "Dusky Rose",
+            "nameRu": "Темная роза",
+            "hex": "#eed4cf",
+            "rgb": [
+                238,
+                212,
+                207
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV149",
+            "name": "Old Rose",
+            "nameRu": "Старая роза",
+            "hex": "#ae6f73",
+            "rgb": [
+                174,
+                111,
+                115
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV150",
+            "name": "Red Burnt Umber",
+            "nameRu": "Красный гнилой",
+            "hex": "#864549",
+            "rgb": [
+                134,
+                69,
+                73
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV130",
+            "name": "Rosy Brown",
+            "nameRu": "Коричнево розовый",
+            "hex": "#da9391",
+            "rgb": [
+                218,
+                147,
+                145
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "RV151",
+            "name": "Reddish Umber",
+            "nameRu": "",
+            "hex": "#a75755",
+            "rgb": [
+                167,
+                87,
+                85
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R377",
+            "name": "Pink Beryl",
+            "nameRu": "",
+            "hex": "#fef8f8",
+            "rgb": [
+                254,
+                248,
+                248
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R378",
+            "name": "Cherry White",
+            "nameRu": "",
+            "hex": "#fef2f2",
+            "rgb": [
+                254,
+                242,
+                242
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R379",
+            "name": "Pinkish Vanilla",
+            "nameRu": "",
+            "hex": "#fde8e3",
+            "rgb": [
+                253,
+                232,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R380",
+            "name": "Light Tea Rose",
+            "nameRu": "",
+            "hex": "#fcd7d1",
+            "rgb": [
+                252,
+                215,
+                209
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R143",
+            "name": "Spinel Pink",
+            "nameRu": "Шпинель розовая",
+            "hex": "#feb8c2",
+            "rgb": [
+                254,
+                184,
+                194
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R175",
+            "name": "Reddish Brass",
+            "nameRu": "Красноватая латунь",
+            "hex": "#db8884",
+            "rgb": [
+                219,
+                136,
+                132
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R144",
+            "name": "Light Mahogany",
+            "nameRu": "Светлое красное дерево",
+            "hex": "#df8a91",
+            "rgb": [
+                223,
+                138,
+                145
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R148",
+            "name": "Dark Red",
+            "nameRu": "Темно красный",
+            "hex": "#8f3841",
+            "rgb": [
+                143,
+                56,
+                65
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R381",
+            "name": "Salmon Pink",
+            "nameRu": "",
+            "hex": "#fcdad9",
+            "rgb": [
+                252,
+                218,
+                217
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R147",
+            "name": "Matt Rose",
+            "nameRu": "",
+            "hex": "#fdb9ba",
+            "rgb": [
+                253,
+                185,
+                186
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R145",
+            "name": "Carmine",
+            "nameRu": "",
+            "hex": "#e87c96",
+            "rgb": [
+                232,
+                124,
+                150
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R210",
+            "name": "Garnet",
+            "nameRu": "Гранат",
+            "hex": "#c75473",
+            "rgb": [
+                199,
+                84,
+                115
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R142",
+            "name": "Maroon",
+            "nameRu": "Темно бордовый",
+            "hex": "#933653",
+            "rgb": [
+                147,
+                54,
+                83
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R347",
+            "name": "Light Pink",
+            "nameRu": "",
+            "hex": "#fee4ef",
+            "rgb": [
+                254,
+                228,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R348",
+            "name": "Pure Pink",
+            "nameRu": "",
+            "hex": "#fbcbdb",
+            "rgb": [
+                251,
+                203,
+                219
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R349",
+            "name": "Begonia Pink",
+            "nameRu": "",
+            "hex": "#f192b4",
+            "rgb": [
+                241,
+                146,
+                180
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R350",
+            "name": "Crimson",
+            "nameRu": "",
+            "hex": "#e53e74",
+            "rgb": [
+                229,
+                62,
+                116
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R351",
+            "name": "Rouge Nutmeg",
+            "nameRu": "",
+            "hex": "#ffecf2",
+            "rgb": [
+                255,
+                236,
+                242
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R352",
+            "name": "Pink Rose",
+            "nameRu": "",
+            "hex": "#fddfe9",
+            "rgb": [
+                253,
+                223,
+                233
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R353",
+            "name": "Bougainvillea",
+            "nameRu": "",
+            "hex": "#f7b7c8",
+            "rgb": [
+                247,
+                183,
+                200
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R354",
+            "name": "Coral",
+            "nameRu": "",
+            "hex": "#f37090",
+            "rgb": [
+                243,
+                112,
+                144
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R355",
+            "name": "Lipstick Red",
+            "nameRu": "",
+            "hex": "#e24e70",
+            "rgb": [
+                226,
+                78,
+                112
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R140",
+            "name": "Bloody Red",
+            "nameRu": "Кровавый красный",
+            "hex": "#ec1e32",
+            "rgb": [
+                236,
+                30,
+                50
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R368",
+            "name": "Pale Cherry Pink",
+            "nameRu": "",
+            "hex": "#fff0f5",
+            "rgb": [
+                255,
+                240,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R356",
+            "name": "Blush",
+            "nameRu": "",
+            "hex": "#fbe2e5",
+            "rgb": [
+                251,
+                226,
+                229
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R357",
+            "name": "Peach",
+            "nameRu": "",
+            "hex": "#fad0d1",
+            "rgb": [
+                250,
+                208,
+                209
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R358",
+            "name": "Light Pawn",
+            "nameRu": "",
+            "hex": "#fbb4ba",
+            "rgb": [
+                251,
+                180,
+                186
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R359",
+            "name": "Light Rouge",
+            "nameRu": "",
+            "hex": "#f29da0",
+            "rgb": [
+                242,
+                157,
+                160
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R382",
+            "name": "Prawn",
+            "nameRu": "",
+            "hex": "#f48991",
+            "rgb": [
+                244,
+                137,
+                145
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R137",
+            "name": "Strong Red",
+            "nameRu": "Насыщенный красный",
+            "hex": "#f4647f",
+            "rgb": [
+                244,
+                100,
+                127
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R146",
+            "name": "Deep Red",
+            "nameRu": "Глубокий красный цвет",
+            "hex": "#d12a48",
+            "rgb": [
+                209,
+                42,
+                72
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R360",
+            "name": "Pinkish White",
+            "nameRu": "",
+            "hex": "#fff4f8",
+            "rgb": [
+                255,
+                244,
+                248
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R361",
+            "name": "Rose Salmon",
+            "nameRu": "",
+            "hex": "#fac9c4",
+            "rgb": [
+                250,
+                201,
+                196
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R404",
+            "name": "Salmon Red",
+            "nameRu": "",
+            "hex": "#f2716c",
+            "rgb": [
+                242,
+                113,
+                108
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R215",
+            "name": "Vermilion",
+            "nameRu": "Алый",
+            "hex": "#f23732",
+            "rgb": [
+                242,
+                55,
+                50
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R373",
+            "name": "Floral White",
+            "nameRu": "",
+            "hex": "#fff7f5",
+            "rgb": [
+                255,
+                247,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R374",
+            "name": "Pale Fruit Pink",
+            "nameRu": "",
+            "hex": "#fdf2f0",
+            "rgb": [
+                253,
+                242,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R375",
+            "name": "Pink Flamingo",
+            "nameRu": "",
+            "hex": "#fce1d8",
+            "rgb": [
+                252,
+                225,
+                216
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R376",
+            "name": "Fruit Pink",
+            "nameRu": "",
+            "hex": "#fcd2c4",
+            "rgb": [
+                252,
+                210,
+                196
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R153",
+            "name": "Mid Red Brown",
+            "nameRu": "",
+            "hex": "#e8826c",
+            "rgb": [
+                232,
+                130,
+                108
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R155",
+            "name": "Red Brown",
+            "nameRu": "",
+            "hex": "#d4635f",
+            "rgb": [
+                212,
+                99,
+                95
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "R405",
+            "name": "Redwood",
+            "nameRu": "",
+            "hex": "#b75e40",
+            "rgb": [
+                183,
+                94,
+                64
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E413",
+            "name": "Egg Shell",
+            "nameRu": "",
+            "hex": "#fff7f5",
+            "rgb": [
+                255,
+                247,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E414",
+            "name": "Milky White",
+            "nameRu": "",
+            "hex": "#fff0e9",
+            "rgb": [
+                255,
+                240,
+                233
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E172",
+            "name": "Barley Beige",
+            "nameRu": "Ячмень",
+            "hex": "#fee1d3",
+            "rgb": [
+                254,
+                225,
+                211
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E173",
+            "name": "Light Sultan",
+            "nameRu": "Легкий загар",
+            "hex": "#fad7c3",
+            "rgb": [
+                250,
+                215,
+                195
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E174",
+            "name": "Dark Sultan",
+            "nameRu": "Темный загар",
+            "hex": "#f2b7a5",
+            "rgb": [
+                242,
+                183,
+                165
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E410",
+            "name": "Caribe Cocoa",
+            "nameRu": "",
+            "hex": "#bc927c",
+            "rgb": [
+                188,
+                146,
+                124
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E411",
+            "name": "Africano",
+            "nameRu": "",
+            "hex": "#a56c59",
+            "rgb": [
+                165,
+                108,
+                89
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E412",
+            "name": "Burnt Umber",
+            "nameRu": "",
+            "hex": "#714336",
+            "rgb": [
+                113,
+                67,
+                54
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E124",
+            "name": "Ash Rose",
+            "nameRu": "Ясень",
+            "hex": "#e5d9dd",
+            "rgb": [
+                229,
+                217,
+                221
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E435",
+            "name": "Champagne",
+            "nameRu": "",
+            "hex": "#e5d3d1",
+            "rgb": [
+                229,
+                211,
+                209
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E436",
+            "name": "Cocoa Brown",
+            "nameRu": "",
+            "hex": "#caaead",
+            "rgb": [
+                202,
+                174,
+                173
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E132",
+            "name": "Umber",
+            "nameRu": "Умбра",
+            "hex": "#a2807e",
+            "rgb": [
+                162,
+                128,
+                126
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E133",
+            "name": "Cashew",
+            "nameRu": "Кешью",
+            "hex": "#8c5c5a",
+            "rgb": [
+                140,
+                92,
+                90
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E134",
+            "name": "Dark Purple",
+            "nameRu": "Темно фиолетовый",
+            "hex": "#3f1b27",
+            "rgb": [
+                63,
+                27,
+                39
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E424",
+            "name": "Brick White",
+            "nameRu": "",
+            "hex": "#ffffff",
+            "rgb": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E425",
+            "name": "Pearl White",
+            "nameRu": "",
+            "hex": "#fbf2ed",
+            "rgb": [
+                251,
+                242,
+                237
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E426",
+            "name": "Sand White",
+            "nameRu": "",
+            "hex": "#f6e5d5",
+            "rgb": [
+                246,
+                229,
+                213
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E427",
+            "name": "Dull Ivory",
+            "nameRu": "",
+            "hex": "#ecd8bd",
+            "rgb": [
+                236,
+                216,
+                189
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E171",
+            "name": "Coffee",
+            "nameRu": "Кофейный",
+            "hex": "#9d7a66",
+            "rgb": [
+                157,
+                122,
+                102
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E437",
+            "name": "Dark Brown",
+            "nameRu": "",
+            "hex": "#966753",
+            "rgb": [
+                150,
+                103,
+                83
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E438",
+            "name": "Dark Bark",
+            "nameRu": "",
+            "hex": "#44281d",
+            "rgb": [
+                68,
+                40,
+                29
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E248",
+            "name": "Lionet Gold",
+            "nameRu": "Золото льва",
+            "hex": "#e2d2b8",
+            "rgb": [
+                226,
+                210,
+                184
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E428",
+            "name": "Clay",
+            "nameRu": "",
+            "hex": "#cdae91",
+            "rgb": [
+                205,
+                174,
+                145
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E12",
+            "name": "Light Coffee",
+            "nameRu": "Кофе с молоком",
+            "hex": "#b9977e",
+            "rgb": [
+                185,
+                151,
+                126
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E429",
+            "name": "Coffee Brown",
+            "nameRu": "",
+            "hex": "#58412f",
+            "rgb": [
+                88,
+                65,
+                47
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E430",
+            "name": "Ivory",
+            "nameRu": "",
+            "hex": "#f8f4e9",
+            "rgb": [
+                248,
+                244,
+                233
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E246",
+            "name": "Brick Beige",
+            "nameRu": "Кирпичный бежевый",
+            "hex": "#f2e2c9",
+            "rgb": [
+                242,
+                226,
+                201
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E431",
+            "name": "Khaki",
+            "nameRu": "",
+            "hex": "#e5d1b6",
+            "rgb": [
+                229,
+                209,
+                182
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E170",
+            "name": "Dark Brick Beige",
+            "nameRu": "Темно кирпичный бежевый",
+            "hex": "#dbbda1",
+            "rgb": [
+                219,
+                189,
+                161
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E247",
+            "name": "Deep Beige",
+            "nameRu": "Глубокий бежевый",
+            "hex": "#d1aa81",
+            "rgb": [
+                209,
+                170,
+                129
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E432",
+            "name": "Fig",
+            "nameRu": "",
+            "hex": "#a08b6e",
+            "rgb": [
+                160,
+                139,
+                110
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E433",
+            "name": "Pecan",
+            "nameRu": "",
+            "hex": "#665239",
+            "rgb": [
+                102,
+                82,
+                57
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E434",
+            "name": "Monterey Brown",
+            "nameRu": "",
+            "hex": "#4d4135",
+            "rgb": [
+                77,
+                65,
+                53
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E415",
+            "name": "Raw Silk",
+            "nameRu": "",
+            "hex": "#f6ece0",
+            "rgb": [
+                246,
+                236,
+                224
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E416",
+            "name": "Light Camel",
+            "nameRu": "",
+            "hex": "#efddc7",
+            "rgb": [
+                239,
+                221,
+                199
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E20",
+            "name": "Chamois",
+            "nameRu": "Коричнево желтый",
+            "hex": "#e5bc9e",
+            "rgb": [
+                229,
+                188,
+                158
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E419",
+            "name": "Baked Clay",
+            "nameRu": "",
+            "hex": "#d28f64",
+            "rgb": [
+                210,
+                143,
+                100
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E164",
+            "name": "Caramel Brown",
+            "nameRu": "Коричневый верблюд",
+            "hex": "#c28254",
+            "rgb": [
+                194,
+                130,
+                84
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E180",
+            "name": "Mid Sienna",
+            "nameRu": "Середина сиенны",
+            "hex": "#c38556",
+            "rgb": [
+                195,
+                133,
+                86
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E417",
+            "name": "Light Walnut",
+            "nameRu": "",
+            "hex": "#c48562",
+            "rgb": [
+                196,
+                133,
+                98
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E169",
+            "name": "Walnut",
+            "nameRu": "Грецкий орех",
+            "hex": "#977255",
+            "rgb": [
+                151,
+                114,
+                85
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E406",
+            "name": "Bisque",
+            "nameRu": "",
+            "hex": "#fef7f1",
+            "rgb": [
+                254,
+                247,
+                241
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E407",
+            "name": "Baby Skin Pink",
+            "nameRu": "",
+            "hex": "#ffefe2",
+            "rgb": [
+                255,
+                239,
+                226
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E162",
+            "name": "Sand Beige",
+            "nameRu": "Песочно бежевый",
+            "hex": "#fee0c8",
+            "rgb": [
+                254,
+                224,
+                200
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E408",
+            "name": "Sand",
+            "nameRu": "",
+            "hex": "#f1d5bd",
+            "rgb": [
+                241,
+                213,
+                189
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E409",
+            "name": "Hazelnut",
+            "nameRu": "",
+            "hex": "#e3bea4",
+            "rgb": [
+                227,
+                190,
+                164
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E168",
+            "name": "Wood Brown",
+            "nameRu": "Древесно коричневый",
+            "hex": "#d59d84",
+            "rgb": [
+                213,
+                157,
+                132
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E420",
+            "name": "Leather",
+            "nameRu": "",
+            "hex": "#c27959",
+            "rgb": [
+                194,
+                121,
+                89
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E165",
+            "name": "Fulvous",
+            "nameRu": "Рыжеватый",
+            "hex": "#b25d40",
+            "rgb": [
+                178,
+                93,
+                64
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "E166",
+            "name": "Orange Brown",
+            "nameRu": "Оранжево коричневый",
+            "hex": "#8d452d",
+            "rgb": [
+                141,
+                69,
+                45
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR395",
+            "name": "Mellow Peach",
+            "nameRu": "",
+            "hex": "#fee6d9",
+            "rgb": [
+                254,
+                230,
+                217
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR167",
+            "name": "Rose Beige",
+            "nameRu": "Розово бежевый",
+            "hex": "#fed2b9",
+            "rgb": [
+                254,
+                210,
+                185
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR217",
+            "name": "Orange Pink",
+            "nameRu": "Медовый",
+            "hex": "#fed3a8",
+            "rgb": [
+                254,
+                211,
+                168
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR220",
+            "name": "Honey",
+            "nameRu": "Абрикос",
+            "hex": "#fbd2b6",
+            "rgb": [
+                251,
+                210,
+                182
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR219",
+            "name": "Apricot",
+            "nameRu": "Песчаный коричневый",
+            "hex": "#fcc19f",
+            "rgb": [
+                252,
+                193,
+                159
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR179",
+            "name": "Sandy Brown",
+            "nameRu": "Тосканский коричневый",
+            "hex": "#faae7a",
+            "rgb": [
+                250,
+                174,
+                122
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR418",
+            "name": "Tuscan Orange",
+            "nameRu": "",
+            "hex": "#e1914c",
+            "rgb": [
+                225,
+                145,
+                76
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR421",
+            "name": "Yellow Amber",
+            "nameRu": "",
+            "hex": "#c4691a",
+            "rgb": [
+                196,
+                105,
+                26
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR400",
+            "name": "Yellowish Shade",
+            "nameRu": "",
+            "hex": "#ffeddf",
+            "rgb": [
+                255,
+                237,
+                223
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR401",
+            "name": "Loquat",
+            "nameRu": "",
+            "hex": "#ffcaa8",
+            "rgb": [
+                255,
+                202,
+                168
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR402",
+            "name": "Pumpkin Yellow",
+            "nameRu": "",
+            "hex": "#fda178",
+            "rgb": [
+                253,
+                161,
+                120
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR176",
+            "name": "Deep Orange",
+            "nameRu": "Медь",
+            "hex": "#f7885b",
+            "rgb": [
+                247,
+                136,
+                91
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR163",
+            "name": "Copper",
+            "nameRu": "Ржавый красный",
+            "hex": "#df865e",
+            "rgb": [
+                223,
+                134,
+                94
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR161",
+            "name": "Rusty Red",
+            "nameRu": "Хлопковый жемчуг",
+            "hex": "#dd663e",
+            "rgb": [
+                221,
+                102,
+                62
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR369",
+            "name": "Cotton Pearl",
+            "nameRu": "",
+            "hex": "#feede6",
+            "rgb": [
+                254,
+                237,
+                230
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR370",
+            "name": "Peach Pull",
+            "nameRu": "",
+            "hex": "#fbded0",
+            "rgb": [
+                251,
+                222,
+                208
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR371",
+            "name": "Light Orange",
+            "nameRu": "",
+            "hex": "#f7bfb0",
+            "rgb": [
+                247,
+                191,
+                176
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR213",
+            "name": "Apple Red",
+            "nameRu": "Красное яблоко",
+            "hex": "#f7a897",
+            "rgb": [
+                247,
+                168,
+                151
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR214",
+            "name": "Mandarin Orange",
+            "nameRu": "Красновато оранжевый",
+            "hex": "#f7755b",
+            "rgb": [
+                247,
+                117,
+                91
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR154",
+            "name": "Orange Red",
+            "nameRu": "Желто розоватовая кожа",
+            "hex": "#f3594d",
+            "rgb": [
+                243,
+                89,
+                77
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR362",
+            "name": "Yellowish Skin Pink",
+            "nameRu": "",
+            "hex": "#fde1d6",
+            "rgb": [
+                253,
+                225,
+                214
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR372",
+            "name": "Salmon",
+            "nameRu": "",
+            "hex": "#fbb996",
+            "rgb": [
+                251,
+                185,
+                150
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR403",
+            "name": "Sanguine",
+            "nameRu": "",
+            "hex": "#f47c59",
+            "rgb": [
+                244,
+                124,
+                89
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR156",
+            "name": "Chinese Orange",
+            "nameRu": "Бледный шифон",
+            "hex": "#f35937",
+            "rgb": [
+                243,
+                89,
+                55
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR364",
+            "name": "Pale Chiffron",
+            "nameRu": "",
+            "hex": "#fff6f4",
+            "rgb": [
+                255,
+                246,
+                244
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR365",
+            "name": "Silk",
+            "nameRu": "",
+            "hex": "#fff1ee",
+            "rgb": [
+                255,
+                241,
+                238
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR366",
+            "name": "Powder Pink",
+            "nameRu": "",
+            "hex": "#fee8dd",
+            "rgb": [
+                254,
+                232,
+                221
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR367",
+            "name": "Flesh Pink",
+            "nameRu": "",
+            "hex": "#ffd3c6",
+            "rgb": [
+                255,
+                211,
+                198
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR218",
+            "name": "Tea Rose",
+            "nameRu": "Средний оранжевый",
+            "hex": "#fdc1a9",
+            "rgb": [
+                253,
+                193,
+                169
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR158",
+            "name": "Mid Orange",
+            "nameRu": "Оранжевый кадмий",
+            "hex": "#f38e62",
+            "rgb": [
+                243,
+                142,
+                98
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR159",
+            "name": "Cadmium Orange",
+            "nameRu": "Оранжевый",
+            "hex": "#f37a4f",
+            "rgb": [
+                243,
+                122,
+                79
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR160",
+            "name": "Orange",
+            "nameRu": "Светло красновато желтый",
+            "hex": "#f26432",
+            "rgb": [
+                242,
+                100,
+                50
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR397",
+            "name": "Light Reddish Yellow",
+            "nameRu": "",
+            "hex": "#ffe4c9",
+            "rgb": [
+                255,
+                228,
+                201
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR398",
+            "name": "Honey Orange",
+            "nameRu": "",
+            "hex": "#fec693",
+            "rgb": [
+                254,
+                198,
+                147
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR399",
+            "name": "Chrome Orange",
+            "nameRu": "",
+            "hex": "#f69f5c",
+            "rgb": [
+                246,
+                159,
+                92
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR178",
+            "name": "Pumpkin",
+            "nameRu": "Желтоватый бежевый",
+            "hex": "#f77736",
+            "rgb": [
+                247,
+                119,
+                54
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR396",
+            "name": "Yellowish Beige",
+            "nameRu": "",
+            "hex": "#ffe4cc",
+            "rgb": [
+                255,
+                228,
+                204
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR157",
+            "name": "Yellow Ochre",
+            "nameRu": "Бледная сепия",
+            "hex": "#ffcc95",
+            "rgb": [
+                255,
+                204,
+                149
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR177",
+            "name": "Pale Sepia",
+            "nameRu": "Серебристо желтый",
+            "hex": "#fab979",
+            "rgb": [
+                250,
+                185,
+                121
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR393",
+            "name": "Mid Golden Yellow",
+            "nameRu": "",
+            "hex": "#ffde97",
+            "rgb": [
+                255,
+                222,
+                151
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YR394",
+            "name": "Golden Yellow",
+            "nameRu": "",
+            "hex": "#ffd372",
+            "rgb": [
+                255,
+                211,
+                114
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y391",
+            "name": "Buttercup Yellow",
+            "nameRu": "",
+            "hex": "#faeac6",
+            "rgb": [
+                250,
+                234,
+                198
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y392",
+            "name": "Mustard",
+            "nameRu": "",
+            "hex": "#f8d68e",
+            "rgb": [
+                248,
+                214,
+                142
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y181",
+            "name": "Dark Yellow",
+            "nameRu": "",
+            "hex": "#d89137",
+            "rgb": [
+                216,
+                145,
+                55
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y422",
+            "name": "Shallow Orange Cafe",
+            "nameRu": "",
+            "hex": "#cc7b2c",
+            "rgb": [
+                204,
+                123,
+                44
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y423",
+            "name": "Teak Color",
+            "nameRu": "",
+            "hex": "#a36212",
+            "rgb": [
+                163,
+                98,
+                18
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y387",
+            "name": "Primrose",
+            "nameRu": "",
+            "hex": "#fdfef0",
+            "rgb": [
+                253,
+                254,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y388",
+            "name": "Soft Lime",
+            "nameRu": "",
+            "hex": "#fcfae1",
+            "rgb": [
+                252,
+                250,
+                225
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y223",
+            "name": "Pale Yellow",
+            "nameRu": "Бледно желтый",
+            "hex": "#f8f7bf",
+            "rgb": [
+                248,
+                247,
+                191
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y224",
+            "name": "Lemon Yellow",
+            "nameRu": "Лимон",
+            "hex": "#faf599",
+            "rgb": [
+                250,
+                245,
+                153
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y389",
+            "name": "Cadmium Yellow",
+            "nameRu": "",
+            "hex": "#feea87",
+            "rgb": [
+                254,
+                234,
+                135
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y225",
+            "name": "Acid Yellow",
+            "nameRu": "Кислотный желтый",
+            "hex": "#fbec5f",
+            "rgb": [
+                251,
+                236,
+                95
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y226",
+            "name": "Canary",
+            "nameRu": "Канарейка",
+            "hex": "#fed001",
+            "rgb": [
+                254,
+                208,
+                1
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y390",
+            "name": "Cream",
+            "nameRu": "",
+            "hex": "#faf5d8",
+            "rgb": [
+                250,
+                245,
+                216
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y1",
+            "name": "Buttercup",
+            "nameRu": "Лютик",
+            "hex": "#f6ecc8",
+            "rgb": [
+                246,
+                236,
+                200
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y2",
+            "name": "Maize",
+            "nameRu": "Цвет кукурузы",
+            "hex": "#f8e6a4",
+            "rgb": [
+                248,
+                230,
+                164
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y3",
+            "name": "Mid Yellow",
+            "nameRu": "Желтый",
+            "hex": "#fee394",
+            "rgb": [
+                254,
+                227,
+                148
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y4",
+            "name": "Napoli Yellow",
+            "nameRu": "Желтый Наполи",
+            "hex": "#eec259",
+            "rgb": [
+                238,
+                194,
+                89
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y5",
+            "name": "Deep Yellow",
+            "nameRu": "Темный желтый",
+            "hex": "#dfa730",
+            "rgb": [
+                223,
+                167,
+                48
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y440",
+            "name": "Vanilla",
+            "nameRu": "",
+            "hex": "#f7f1db",
+            "rgb": [
+                247,
+                241,
+                219
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y6",
+            "name": "Deep Cream",
+            "nameRu": "Глубокий кремовый",
+            "hex": "#f5e8bc",
+            "rgb": [
+                245,
+                232,
+                188
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y8",
+            "name": "Napless Yellow",
+            "nameRu": "Желтоватый",
+            "hex": "#f4d98a",
+            "rgb": [
+                244,
+                217,
+                138
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y17",
+            "name": "Pale Ochre",
+            "nameRu": "Бледная охра",
+            "hex": "#cfab57",
+            "rgb": [
+                207,
+                171,
+                87
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "Y9",
+            "name": "Olive Gold",
+            "nameRu": "Оливковое золото",
+            "hex": "#c0964c",
+            "rgb": [
+                192,
+                150,
+                76
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG439",
+            "name": "Pale Beige",
+            "nameRu": "",
+            "hex": "#f7f2df",
+            "rgb": [
+                247,
+                242,
+                223
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG441",
+            "name": "Putty",
+            "nameRu": "",
+            "hex": "#e8d8be",
+            "rgb": [
+                232,
+                216,
+                190
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG442",
+            "name": "Grayish Yellow",
+            "nameRu": "",
+            "hex": "#ddd8b2",
+            "rgb": [
+                221,
+                216,
+                178
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG18",
+            "name": "Light Green Gold",
+            "nameRu": "Светло зеленое золото",
+            "hex": "#d3ba82",
+            "rgb": [
+                211,
+                186,
+                130
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG7",
+            "name": "Dark Goldenrod",
+            "nameRu": "Темный золотистый",
+            "hex": "#b8a472",
+            "rgb": [
+                184,
+                164,
+                114
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG19",
+            "name": "Spanish Olive",
+            "nameRu": "",
+            "hex": "#ab9b4e",
+            "rgb": [
+                171,
+                155,
+                78
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG11",
+            "name": "Deep Ochre",
+            "nameRu": "Глубокая охра",
+            "hex": "#88783a",
+            "rgb": [
+                136,
+                120,
+                58
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG10",
+            "name": "Green Parka",
+            "nameRu": "Зеленая парка",
+            "hex": "#6d5a3a",
+            "rgb": [
+                109,
+                90,
+                58
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG455",
+            "name": "Green Gray",
+            "nameRu": "",
+            "hex": "#cacbbb",
+            "rgb": [
+                202,
+                203,
+                187
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG456",
+            "name": "Bush",
+            "nameRu": "",
+            "hex": "#989d86",
+            "rgb": [
+                152,
+                157,
+                134
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG457",
+            "name": "Winter Spruce",
+            "nameRu": "",
+            "hex": "#97a08f",
+            "rgb": [
+                151,
+                160,
+                143
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG446",
+            "name": "Grayish Olive",
+            "nameRu": "",
+            "hex": "#abb68e",
+            "rgb": [
+                171,
+                182,
+                142
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG447",
+            "name": "Verdigris",
+            "nameRu": "",
+            "hex": "#9cab8e",
+            "rgb": [
+                156,
+                171,
+                142
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG49",
+            "name": "Mistletoe",
+            "nameRu": "",
+            "hex": "#90ad8f",
+            "rgb": [
+                144,
+                173,
+                143
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG23",
+            "name": "Pistachio",
+            "nameRu": "Фисташковый",
+            "hex": "#dfe6b2",
+            "rgb": [
+                223,
+                230,
+                178
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG13",
+            "name": "Celery Yellow",
+            "nameRu": "Желтый сельдерей",
+            "hex": "#dfe490",
+            "rgb": [
+                223,
+                228,
+                144
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG14",
+            "name": "Lemon Green",
+            "nameRu": "Лимонный зеленый",
+            "hex": "#f2eb66",
+            "rgb": [
+                242,
+                235,
+                102
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG15",
+            "name": "Yellow Green",
+            "nameRu": "Желтовато зеленый",
+            "hex": "#e1e43d",
+            "rgb": [
+                225,
+                228,
+                61
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG16",
+            "name": "Deep Yellow Green",
+            "nameRu": "Темно желтовато зеленый",
+            "hex": "#bac248",
+            "rgb": [
+                186,
+                194,
+                72
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG383",
+            "name": "Yellow Fluorita",
+            "nameRu": "",
+            "hex": "#fdfdf1",
+            "rgb": [
+                253,
+                253,
+                241
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG384",
+            "name": "Pale Lemon",
+            "nameRu": "",
+            "hex": "#fdfcea",
+            "rgb": [
+                253,
+                252,
+                234
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG385",
+            "name": "Barium Yellow",
+            "nameRu": "",
+            "hex": "#f9f9d7",
+            "rgb": [
+                249,
+                249,
+                215
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG221",
+            "name": "Pale Lemon Yellow",
+            "nameRu": "Бледно желтый лимон",
+            "hex": "#f7f4ad",
+            "rgb": [
+                247,
+                244,
+                173
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG386",
+            "name": "Acacia",
+            "nameRu": "",
+            "hex": "#feee65",
+            "rgb": [
+                254,
+                238,
+                101
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG222",
+            "name": "Yellow",
+            "nameRu": "Желтый",
+            "hex": "#f8ed31",
+            "rgb": [
+                248,
+                237,
+                49
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG33",
+            "name": "Lily White",
+            "nameRu": "",
+            "hex": "#f7faf1",
+            "rgb": [
+                247,
+                250,
+                241
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG34",
+            "name": "Mimosa Yellow",
+            "nameRu": "",
+            "hex": "#f1f6df",
+            "rgb": [
+                241,
+                246,
+                223
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG35",
+            "name": "Green Bice",
+            "nameRu": "",
+            "hex": "#e7efbc",
+            "rgb": [
+                231,
+                239,
+                188
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG36",
+            "name": "Yellowish Green",
+            "nameRu": "",
+            "hex": "#dde9a9",
+            "rgb": [
+                221,
+                233,
+                169
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG24",
+            "name": "Celadon Green",
+            "nameRu": "Серовато зеленый",
+            "hex": "#cbde8d",
+            "rgb": [
+                203,
+                222,
+                141
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG26",
+            "name": "Charteuse",
+            "nameRu": "Шартрез",
+            "hex": "#b0d168",
+            "rgb": [
+                176,
+                209,
+                104
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG31",
+            "name": "Max White",
+            "nameRu": "",
+            "hex": "#f8fbf2",
+            "rgb": [
+                248,
+                251,
+                242
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG32",
+            "name": "Mignonette",
+            "nameRu": "",
+            "hex": "#eef6e9",
+            "rgb": [
+                238,
+                246,
+                233
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG28",
+            "name": "Pressed Leaf",
+            "nameRu": "",
+            "hex": "#eaf3d6",
+            "rgb": [
+                234,
+                243,
+                214
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG29",
+            "name": "Salad",
+            "nameRu": "",
+            "hex": "#cee6aa",
+            "rgb": [
+                206,
+                230,
+                170
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG25",
+            "name": "New Leaf",
+            "nameRu": "",
+            "hex": "#cde199",
+            "rgb": [
+                205,
+                225,
+                153
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG27",
+            "name": "Grass",
+            "nameRu": "Травянистый",
+            "hex": "#a3bb5d",
+            "rgb": [
+                163,
+                187,
+                93
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG30",
+            "name": "Olve Green",
+            "nameRu": "Оливковый",
+            "hex": "#8fab57",
+            "rgb": [
+                143,
+                171,
+                87
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG448",
+            "name": "Pale Cobalt Green",
+            "nameRu": "",
+            "hex": "#e4f2e3",
+            "rgb": [
+                228,
+                242,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG227",
+            "name": "Yellowish Green 2",
+            "nameRu": "Желтовато зеленый",
+            "hex": "#daebc7",
+            "rgb": [
+                218,
+                235,
+                199
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG228",
+            "name": "Acid Green",
+            "nameRu": "Кислотный зеленый",
+            "hex": "#c3e1ad",
+            "rgb": [
+                195,
+                225,
+                173
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG452",
+            "name": "Apple Green",
+            "nameRu": "",
+            "hex": "#b5dbaa",
+            "rgb": [
+                181,
+                219,
+                170
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG453",
+            "name": "Lettuce Green",
+            "nameRu": "",
+            "hex": "#91ce81",
+            "rgb": [
+                145,
+                206,
+                129
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG229",
+            "name": "May Green",
+            "nameRu": "Оттенок зеленого",
+            "hex": "#6dc068",
+            "rgb": [
+                109,
+                192,
+                104
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG454",
+            "name": "Nile Green",
+            "nameRu": "",
+            "hex": "#8fbf8d",
+            "rgb": [
+                143,
+                191,
+                141
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG44",
+            "name": "Palm Green",
+            "nameRu": "Пальмовый зеленый",
+            "hex": "#62bb47",
+            "rgb": [
+                98,
+                187,
+                71
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG443",
+            "name": "Pale Moss",
+            "nameRu": "",
+            "hex": "#ebeee5",
+            "rgb": [
+                235,
+                238,
+                229
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG444",
+            "name": "Lime Green",
+            "nameRu": "",
+            "hex": "#d9e2cd",
+            "rgb": [
+                217,
+                226,
+                205
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG445",
+            "name": "Willow",
+            "nameRu": "",
+            "hex": "#b6cbaa",
+            "rgb": [
+                182,
+                203,
+                170
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG449",
+            "name": "Light Grass Green",
+            "nameRu": "",
+            "hex": "#c2d6b1",
+            "rgb": [
+                194,
+                214,
+                177
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG450",
+            "name": "Grass Green",
+            "nameRu": "",
+            "hex": "#b7d59f",
+            "rgb": [
+                183,
+                213,
+                159
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG451",
+            "name": "Moss",
+            "nameRu": "",
+            "hex": "#9ec189",
+            "rgb": [
+                158,
+                193,
+                137
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG37",
+            "name": "Deep Olive Green",
+            "nameRu": "Глубокий оливково зеленый",
+            "hex": "#6a7c3e",
+            "rgb": [
+                106,
+                124,
+                62
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG22",
+            "name": "Olive",
+            "nameRu": "",
+            "hex": "#8c8e5d",
+            "rgb": [
+                140,
+                142,
+                93
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG21",
+            "name": "Dark Olive",
+            "nameRu": "Темный оливковый",
+            "hex": "#50523a",
+            "rgb": [
+                80,
+                82,
+                58
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G230",
+            "name": "Spectrum Green",
+            "nameRu": "Зеленый спектр",
+            "hex": "#dbefe3",
+            "rgb": [
+                219,
+                239,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G54",
+            "name": "Meadow Green",
+            "nameRu": "",
+            "hex": "#9ed7b7",
+            "rgb": [
+                158,
+                215,
+                183
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G55",
+            "name": "Emerald Green",
+            "nameRu": "",
+            "hex": "#63c386",
+            "rgb": [
+                99,
+                195,
+                134
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G56",
+            "name": "Light Holly Green",
+            "nameRu": "Светло зеленый оттенок",
+            "hex": "#d0ebdc",
+            "rgb": [
+                208,
+                235,
+                220
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G57",
+            "name": "Mid Holly Green",
+            "nameRu": "Серебристый зеленый",
+            "hex": "#97beac",
+            "rgb": [
+                151,
+                190,
+                172
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G58",
+            "name": "Holly Green",
+            "nameRu": "Зеленый холли",
+            "hex": "#448b69",
+            "rgb": [
+                68,
+                139,
+                105
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G59",
+            "name": "Leaf Green",
+            "nameRu": "Зеленый лист",
+            "hex": "#bfe2ce",
+            "rgb": [
+                191,
+                226,
+                206
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G47",
+            "name": "Cobalt Green",
+            "nameRu": "",
+            "hex": "#bad8b4",
+            "rgb": [
+                186,
+                216,
+                180
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G60",
+            "name": "Ocean Green",
+            "nameRu": "Океан зеленый",
+            "hex": "#8dc4a5",
+            "rgb": [
+                141,
+                196,
+                165
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G61",
+            "name": "Pine Tree Green",
+            "nameRu": "Сосново зеленый",
+            "hex": "#64a084",
+            "rgb": [
+                100,
+                160,
+                132
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G231",
+            "name": "Jade",
+            "nameRu": "Нефрит",
+            "hex": "#cae8dc",
+            "rgb": [
+                202,
+                232,
+                220
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G45",
+            "name": "Forest Green",
+            "nameRu": "Зеленый лес",
+            "hex": "#80c9b5",
+            "rgb": [
+                128,
+                201,
+                181
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G46",
+            "name": "Bright Parrot Green",
+            "nameRu": "Зеленый попугай",
+            "hex": "#50bf9e",
+            "rgb": [
+                80,
+                191,
+                158
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G48",
+            "name": "Green",
+            "nameRu": "Зеленый",
+            "hex": "#00956d",
+            "rgb": [
+                0,
+                149,
+                109
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G53",
+            "name": "Green Shadow",
+            "nameRu": "",
+            "hex": "#d6ecdf",
+            "rgb": [
+                214,
+                236,
+                223
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G51",
+            "name": "Spruce Green",
+            "nameRu": "Еловый зеленый",
+            "hex": "#aedbc4",
+            "rgb": [
+                174,
+                219,
+                196
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G52",
+            "name": "Viridian",
+            "nameRu": "Виридийский",
+            "hex": "#51a78c",
+            "rgb": [
+                81,
+                167,
+                140
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G77",
+            "name": "Crystal Opal",
+            "nameRu": "",
+            "hex": "#f5fafd",
+            "rgb": [
+                245,
+                250,
+                253
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G78",
+            "name": "Pale Green",
+            "nameRu": "",
+            "hex": "#f1fbfa",
+            "rgb": [
+                241,
+                251,
+                250
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G79",
+            "name": "Jade Green",
+            "nameRu": "",
+            "hex": "#ebf6fa",
+            "rgb": [
+                235,
+                246,
+                250
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G80",
+            "name": "Horizon Green",
+            "nameRu": "",
+            "hex": "#c3e7e5",
+            "rgb": [
+                195,
+                231,
+                229
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G81",
+            "name": "Malachite",
+            "nameRu": "",
+            "hex": "#6ec6b6",
+            "rgb": [
+                110,
+                198,
+                182
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "G50",
+            "name": "Dark Green",
+            "nameRu": "Темный оттенок зеленого",
+            "hex": "#006658",
+            "rgb": [
+                0,
+                102,
+                88
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG74",
+            "name": "Cool Shadow",
+            "nameRu": "",
+            "hex": "#e5f3f3",
+            "rgb": [
+                229,
+                243,
+                243
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG83",
+            "name": "Moon White",
+            "nameRu": "Белая луна",
+            "hex": "#d3ece6",
+            "rgb": [
+                211,
+                236,
+                230
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG75",
+            "name": "Aqua Mint",
+            "nameRu": "",
+            "hex": "#ceeaeb",
+            "rgb": [
+                206,
+                234,
+                235
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG232",
+            "name": "Mint Green",
+            "nameRu": "Зеленовато мятный",
+            "hex": "#a2dadb",
+            "rgb": [
+                162,
+                218,
+                219
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG76",
+            "name": "Aqua",
+            "nameRu": "",
+            "hex": "#83d2d6",
+            "rgb": [
+                131,
+                210,
+                214
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG73",
+            "name": "Marine Green",
+            "nameRu": "Морской зеленый",
+            "hex": "#01a19f",
+            "rgb": [
+                1,
+                161,
+                159
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG68",
+            "name": "Nile Blue",
+            "nameRu": "Нильский синий",
+            "hex": "#bae1e8",
+            "rgb": [
+                186,
+                225,
+                232
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG69",
+            "name": "Jasper",
+            "nameRu": "Яшма",
+            "hex": "#8fd0d4",
+            "rgb": [
+                143,
+                208,
+                212
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG70",
+            "name": "Teal",
+            "nameRu": "Чирок",
+            "hex": "#72cfd6",
+            "rgb": [
+                114,
+                207,
+                214
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG71",
+            "name": "Duck Blue",
+            "nameRu": "Синяя утка",
+            "hex": "#02a6af",
+            "rgb": [
+                2,
+                166,
+                175
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG100",
+            "name": "Dim Green",
+            "nameRu": "Тусклый зеленый",
+            "hex": "#dcf0ef",
+            "rgb": [
+                220,
+                240,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG82",
+            "name": "Ice Ocean",
+            "nameRu": "",
+            "hex": "#ccdee8",
+            "rgb": [
+                204,
+                222,
+                232
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG84",
+            "name": "Abyss Green",
+            "nameRu": "Зеленая бездна",
+            "hex": "#94c6cd",
+            "rgb": [
+                148,
+                198,
+                205
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG104",
+            "name": "Teal Blue",
+            "nameRu": "",
+            "hex": "#7ab5bd",
+            "rgb": [
+                122,
+                181,
+                189
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG72",
+            "name": "Blue Green",
+            "nameRu": "",
+            "hex": "#32a0ad",
+            "rgb": [
+                50,
+                160,
+                173
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG62",
+            "name": "Slate Green",
+            "nameRu": "Оттенок зеленовато серый",
+            "hex": "#b1c7c4",
+            "rgb": [
+                177,
+                199,
+                196
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG106",
+            "name": "Bronze",
+            "nameRu": "Бронзовый",
+            "hex": "#75aca6",
+            "rgb": [
+                117,
+                172,
+                166
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG105",
+            "name": "Dusty Green",
+            "nameRu": "Пыльный зеленый",
+            "hex": "#96a9ad",
+            "rgb": [
+                150,
+                169,
+                173
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG293",
+            "name": "Snow Green",
+            "nameRu": "",
+            "hex": "#f7fdfd",
+            "rgb": [
+                247,
+                253,
+                253
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG294",
+            "name": "Pale Aqua",
+            "nameRu": "",
+            "hex": "#eff9fb",
+            "rgb": [
+                239,
+                249,
+                251
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG295",
+            "name": "Aqua Blue",
+            "nameRu": "",
+            "hex": "#def1f7",
+            "rgb": [
+                222,
+                241,
+                247
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG296",
+            "name": "New Blue",
+            "nameRu": "",
+            "hex": "#c0e6f1",
+            "rgb": [
+                192,
+                230,
+                241
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG95",
+            "name": "Clear Aqua",
+            "nameRu": "Голубое море",
+            "hex": "#c1e1ec",
+            "rgb": [
+                193,
+                225,
+                236
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG96",
+            "name": "Holiday Blue",
+            "nameRu": "Праздничный синий",
+            "hex": "#98d8e4",
+            "rgb": [
+                152,
+                216,
+                228
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG97",
+            "name": "Deep Holiday Blue",
+            "nameRu": "Глубокий синий",
+            "hex": "#5bccde",
+            "rgb": [
+                91,
+                204,
+                222
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG93",
+            "name": "Ice Mint",
+            "nameRu": "",
+            "hex": "#cdebf3",
+            "rgb": [
+                205,
+                235,
+                243
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG233",
+            "name": "Pale Turquoise",
+            "nameRu": "Бледная бирюза",
+            "hex": "#a9dee6",
+            "rgb": [
+                169,
+                222,
+                230
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG90",
+            "name": "Blue Laguna",
+            "nameRu": "Голубая лагуна",
+            "hex": "#7acfeb",
+            "rgb": [
+                122,
+                207,
+                235
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG91",
+            "name": "Petrol Blue",
+            "nameRu": "Голубой бензин",
+            "hex": "#2dc4e3",
+            "rgb": [
+                45,
+                196,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG92",
+            "name": "Teal Green Dark",
+            "nameRu": "Темно зеленый",
+            "hex": "#018dae",
+            "rgb": [
+                1,
+                141,
+                174
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG102",
+            "name": "Soft Greenish Blue",
+            "nameRu": "",
+            "hex": "#d5edf1",
+            "rgb": [
+                213,
+                237,
+                241
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG101",
+            "name": "Grayish Blue Green",
+            "nameRu": "Серовато синий",
+            "hex": "#b1dce5",
+            "rgb": [
+                177,
+                220,
+                229
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG103",
+            "name": "Dark Teal",
+            "nameRu": "Темный чирок",
+            "hex": "#398aa5",
+            "rgb": [
+                57,
+                138,
+                165
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG107",
+            "name": "Aqua Marine",
+            "nameRu": "Аквамарин",
+            "hex": "#3f6d7c",
+            "rgb": [
+                63,
+                109,
+                124
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B98",
+            "name": "Pale Celestine",
+            "nameRu": "",
+            "hex": "#f0f7ff",
+            "rgb": [
+                240,
+                247,
+                255
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B99",
+            "name": "Frost Blue",
+            "nameRu": "",
+            "hex": "#def2f9",
+            "rgb": [
+                222,
+                242,
+                249
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B234",
+            "name": "Robins Egg Blue",
+            "nameRu": "Бледный сине зеленый",
+            "hex": "#c5e6f5",
+            "rgb": [
+                197,
+                230,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B235",
+            "name": "Azure Blue",
+            "nameRu": "Лазурный",
+            "hex": "#98daf2",
+            "rgb": [
+                152,
+                218,
+                242
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B236",
+            "name": "Process Blue",
+            "nameRu": "Обработанный синий",
+            "hex": "#76d4ee",
+            "rgb": [
+                118,
+                212,
+                238
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B237",
+            "name": "Cyanine Blue",
+            "nameRu": "Голубой цианин",
+            "hex": "#21c3f4",
+            "rgb": [
+                33,
+                195,
+                244
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B238",
+            "name": "Peacock Blue",
+            "nameRu": "Голубой павлин",
+            "hex": "#00a7de",
+            "rgb": [
+                0,
+                167,
+                222
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B94",
+            "name": "Tahitian Blue",
+            "nameRu": "Таитянский синий",
+            "hex": "#009fc6",
+            "rgb": [
+                0,
+                159,
+                198
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B297",
+            "name": "Baby Blue",
+            "nameRu": "",
+            "hex": "#dcecf9",
+            "rgb": [
+                220,
+                236,
+                249
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B298",
+            "name": "Pale Blue",
+            "nameRu": "",
+            "hex": "#badaf3",
+            "rgb": [
+                186,
+                218,
+                243
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B299",
+            "name": "Light Blue",
+            "nameRu": "",
+            "hex": "#76bae7",
+            "rgb": [
+                118,
+                186,
+                231
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B304",
+            "name": "Pale Grayish Blue",
+            "nameRu": "",
+            "hex": "#e2e9ef",
+            "rgb": [
+                226,
+                233,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B305",
+            "name": "Light Crockery Blue",
+            "nameRu": "",
+            "hex": "#c3d4e4",
+            "rgb": [
+                195,
+                212,
+                228
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B306",
+            "name": "Light Grayish Cobalt",
+            "nameRu": "",
+            "hex": "#98adca",
+            "rgb": [
+                152,
+                173,
+                202
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B307",
+            "name": "Night Blue",
+            "nameRu": "",
+            "hex": "#6b88a6",
+            "rgb": [
+                107,
+                136,
+                166
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B308",
+            "name": "Agate",
+            "nameRu": "",
+            "hex": "#476a90",
+            "rgb": [
+                71,
+                106,
+                144
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B300",
+            "name": "Powder Blue",
+            "nameRu": "",
+            "hex": "#e1ebf7",
+            "rgb": [
+                225,
+                235,
+                247
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B302",
+            "name": "Manganese Blue",
+            "nameRu": "",
+            "hex": "#9fbcda",
+            "rgb": [
+                159,
+                188,
+                218
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B303",
+            "name": "Antwerp Blue",
+            "nameRu": "",
+            "hex": "#5e81ab",
+            "rgb": [
+                94,
+                129,
+                171
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B301",
+            "name": "Cloud Blue",
+            "nameRu": "",
+            "hex": "#d4e7f6",
+            "rgb": [
+                212,
+                231,
+                246
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B111",
+            "name": "Phthalo Blue",
+            "nameRu": "Фтало синий",
+            "hex": "#92bee5",
+            "rgb": [
+                146,
+                190,
+                229
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B244",
+            "name": "Wave Blue",
+            "nameRu": "Синяя волна",
+            "hex": "#4c638f",
+            "rgb": [
+                76,
+                99,
+                143
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B239",
+            "name": "Ice Blue",
+            "nameRu": "Сине голубой",
+            "hex": "#d5e8f7",
+            "rgb": [
+                213,
+                232,
+                247
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B240",
+            "name": "Light Sky Blue",
+            "nameRu": "Светло голубой",
+            "hex": "#aad7ee",
+            "rgb": [
+                170,
+                215,
+                238
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B241",
+            "name": "Sky Blue",
+            "nameRu": "Голубое небо",
+            "hex": "#78b5e1",
+            "rgb": [
+                120,
+                181,
+                225
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B242",
+            "name": "Royal Blue",
+            "nameRu": "Королевский синий",
+            "hex": "#4a8ecb",
+            "rgb": [
+                74,
+                142,
+                203
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B243",
+            "name": "Ultramarine",
+            "nameRu": "Ультрамарин",
+            "hex": "#226fbd",
+            "rgb": [
+                34,
+                111,
+                189
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B289",
+            "name": "Pale Blue Gray",
+            "nameRu": "",
+            "hex": "#e6eaf6",
+            "rgb": [
+                230,
+                234,
+                246
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B290",
+            "name": "Light Hydrangea",
+            "nameRu": "",
+            "hex": "#d2d4ed",
+            "rgb": [
+                210,
+                212,
+                237
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B291",
+            "name": "Clematis",
+            "nameRu": "",
+            "hex": "#929ccf",
+            "rgb": [
+                146,
+                156,
+                207
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B292",
+            "name": "Stratospheric Blue",
+            "nameRu": "",
+            "hex": "#4f56a6",
+            "rgb": [
+                79,
+                86,
+                166
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B323",
+            "name": "Bluebell",
+            "nameRu": "",
+            "hex": "#d0d2e9",
+            "rgb": [
+                208,
+                210,
+                233
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B324",
+            "name": "Deep Reddish Blue",
+            "nameRu": "",
+            "hex": "#99a0cc",
+            "rgb": [
+                153,
+                160,
+                204
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B245",
+            "name": "Prussian Blue",
+            "nameRu": "Берлинская лазурь",
+            "hex": "#4d5ea4",
+            "rgb": [
+                77,
+                94,
+                164
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B114",
+            "name": "Deep Blue",
+            "nameRu": "Темно синий",
+            "hex": "#3b4988",
+            "rgb": [
+                59,
+                73,
+                136
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B325",
+            "name": "Dull Lavander",
+            "nameRu": "",
+            "hex": "#e5e8ef",
+            "rgb": [
+                229,
+                232,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B326",
+            "name": "Grayish Lavander",
+            "nameRu": "",
+            "hex": "#c2cadf",
+            "rgb": [
+                194,
+                202,
+                223
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B112",
+            "name": "Grayish Blue",
+            "nameRu": "Серовато синий",
+            "hex": "#a3abc2",
+            "rgb": [
+                163,
+                171,
+                194
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B327",
+            "name": "Eggplant",
+            "nameRu": "",
+            "hex": "#b1b5d0",
+            "rgb": [
+                177,
+                181,
+                208
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B196",
+            "name": "Blue Violet",
+            "nameRu": "Сине фиолетовый",
+            "hex": "#5f6090",
+            "rgb": [
+                95,
+                96,
+                144
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "B115",
+            "name": "Slate",
+            "nameRu": "Пигментированный фиолетовый",
+            "hex": "#2f2852",
+            "rgb": [
+                47,
+                40,
+                82
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG314",
+            "name": "Cool Gray #0",
+            "nameRu": "Резкий серый 0",
+            "hex": "#f8f9fb",
+            "rgb": [
+                248,
+                249,
+                251
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG267",
+            "name": "Cool Gray #1",
+            "nameRu": "Резкий серый 1",
+            "hex": "#f0f4f7",
+            "rgb": [
+                240,
+                244,
+                247
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG268",
+            "name": "Cool Gray #2",
+            "nameRu": "Резкий серый 2",
+            "hex": "#e8ebf0",
+            "rgb": [
+                232,
+                235,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG269",
+            "name": "Cool Gray #3",
+            "nameRu": "Резкий серый 3",
+            "hex": "#d6dde3",
+            "rgb": [
+                214,
+                221,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG270",
+            "name": "Cool Gray #4",
+            "nameRu": "Резкий серый 4",
+            "hex": "#c2cbd2",
+            "rgb": [
+                194,
+                203,
+                210
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG271",
+            "name": "Cool Gray #5",
+            "nameRu": "Резкий серый 5",
+            "hex": "#abb5bf",
+            "rgb": [
+                171,
+                181,
+                191
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG272",
+            "name": "Cool Gray #7",
+            "nameRu": "Резкий серый 7",
+            "hex": "#96a2b0",
+            "rgb": [
+                150,
+                162,
+                176
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG461",
+            "name": "Cool Gray #8",
+            "nameRu": "Резкий серый 8",
+            "hex": "#7f8f9c",
+            "rgb": [
+                127,
+                143,
+                156
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG273",
+            "name": "Cool Gray #9",
+            "nameRu": "Резкий серый 9",
+            "hex": "#6b7b88",
+            "rgb": [
+                107,
+                123,
+                136
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "CG274",
+            "name": "Cool Gray #10",
+            "nameRu": "Резкий серый 10",
+            "hex": "#4f5f6c",
+            "rgb": [
+                79,
+                95,
+                108
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG313",
+            "name": "Neutral Gray #0",
+            "nameRu": "Нейтральный серый 0",
+            "hex": "#f5f5f5",
+            "rgb": [
+                245,
+                245,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG275",
+            "name": "Neutral Gray #1",
+            "nameRu": "Нейтральный серый 1",
+            "hex": "#edeef0",
+            "rgb": [
+                237,
+                238,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG276",
+            "name": "Neutral Gray #2",
+            "nameRu": "Нейтральный серый 2",
+            "hex": "#dedfe3",
+            "rgb": [
+                222,
+                223,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG277",
+            "name": "Neutral Gray #3",
+            "nameRu": "Нейтральный серый 3",
+            "hex": "#c8cbd0",
+            "rgb": [
+                200,
+                203,
+                208
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG278",
+            "name": "Neutral Gray #4",
+            "nameRu": "Нейтральный серый 4",
+            "hex": "#b0b5bb",
+            "rgb": [
+                176,
+                181,
+                187
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG279",
+            "name": "Neutral Gray #5",
+            "nameRu": "Нейтральный серый 5",
+            "hex": "#9fa3ac",
+            "rgb": [
+                159,
+                163,
+                172
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG460",
+            "name": "Neutral Gray #6",
+            "nameRu": "Нейтральный серый 6",
+            "hex": "#868b8f",
+            "rgb": [
+                134,
+                139,
+                143
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG280",
+            "name": "Neutral Gray #7",
+            "nameRu": "Нейтральный серый 7",
+            "hex": "#848b93",
+            "rgb": [
+                132,
+                139,
+                147
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG281",
+            "name": "Neutral Gray #8",
+            "nameRu": "Нейтральный серый 8",
+            "hex": "#60676f",
+            "rgb": [
+                96,
+                103,
+                111
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "NG282",
+            "name": "Neutral Gray #10",
+            "nameRu": "Нейтральный серый 10",
+            "hex": "#42464f",
+            "rgb": [
+                66,
+                70,
+                79
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG312",
+            "name": "Toner Gray #0",
+            "nameRu": "Тонер серый 0",
+            "hex": "#f7f7f5",
+            "rgb": [
+                247,
+                247,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG251",
+            "name": "Toner Gray #1",
+            "nameRu": "Тонер серый 1",
+            "hex": "#f1f1ef",
+            "rgb": [
+                241,
+                241,
+                239
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG252",
+            "name": "Toner Gray #2",
+            "nameRu": "Тонер серый 2",
+            "hex": "#e9e9e7",
+            "rgb": [
+                233,
+                233,
+                231
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG253",
+            "name": "Toner Gray #3",
+            "nameRu": "Тонер серый 3",
+            "hex": "#d8d8d6",
+            "rgb": [
+                216,
+                216,
+                214
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG254",
+            "name": "Toner Gray #4",
+            "nameRu": "Тонер серый 4",
+            "hex": "#c7c8c3",
+            "rgb": [
+                199,
+                200,
+                195
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG255",
+            "name": "Toner Gray #5",
+            "nameRu": "Тонер серый 5",
+            "hex": "#b2b2b0",
+            "rgb": [
+                178,
+                178,
+                176
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG459",
+            "name": "Toner Gray #6",
+            "nameRu": "Тонер серый 6",
+            "hex": "#9e9f9a",
+            "rgb": [
+                158,
+                159,
+                154
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG256",
+            "name": "Toner Gray #7",
+            "nameRu": "Тонер серый 7",
+            "hex": "#8a8b86",
+            "rgb": [
+                138,
+                139,
+                134
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG257",
+            "name": "Toner Gray #8",
+            "nameRu": "Тонер серый 8",
+            "hex": "#6d6e69",
+            "rgb": [
+                109,
+                110,
+                105
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "TG258",
+            "name": "Toner Gray #10",
+            "nameRu": "Тонер серый 10",
+            "hex": "#4c4d48",
+            "rgb": [
+                76,
+                77,
+                72
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG311",
+            "name": "Yellow Gray #0",
+            "nameRu": "Желтовато серый 0",
+            "hex": "#f7f7f5",
+            "rgb": [
+                247,
+                247,
+                245
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG259",
+            "name": "Yellow Gray #1",
+            "nameRu": "Желтовато серый 1",
+            "hex": "#f1f2ed",
+            "rgb": [
+                241,
+                242,
+                237
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG260",
+            "name": "Yellow Gray #2",
+            "nameRu": "Желтовато серый 2",
+            "hex": "#ebebe3",
+            "rgb": [
+                235,
+                235,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG261",
+            "name": "Yellow Gray #3",
+            "nameRu": "Желтовато серый 3",
+            "hex": "#e3e3d7",
+            "rgb": [
+                227,
+                227,
+                215
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG262",
+            "name": "Yellow Gray #4",
+            "nameRu": "Желтовато серый 4",
+            "hex": "#d2d2c6",
+            "rgb": [
+                210,
+                210,
+                198
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG263",
+            "name": "Yellow Gray #5",
+            "nameRu": "Желтовато серый 5",
+            "hex": "#bdbeb0",
+            "rgb": [
+                189,
+                190,
+                176
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG264",
+            "name": "Yellow Gray #6",
+            "nameRu": "Желтовато серый 6",
+            "hex": "#a4a094",
+            "rgb": [
+                164,
+                160,
+                148
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG458",
+            "name": "Yellow Gray #7",
+            "nameRu": "Желтовато серый 7",
+            "hex": "#858273",
+            "rgb": [
+                133,
+                130,
+                115
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG265",
+            "name": "Yellow Gray #8",
+            "nameRu": "Желтовато серый 8",
+            "hex": "#6d695d",
+            "rgb": [
+                109,
+                105,
+                93
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "YG266",
+            "name": "Yellow Gray #10",
+            "nameRu": "Желтовато серый 10",
+            "hex": "#4d473b",
+            "rgb": [
+                77,
+                71,
+                59
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "249",
+            "name": "BCDS Gray #1",
+            "nameRu": "Серый 1",
+            "hex": "#f3f4ee",
+            "rgb": [
+                243,
+                244,
+                238
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "250",
+            "name": "BCDS Gray #2",
+            "nameRu": "Серый 2",
+            "hex": "#eeeee4",
+            "rgb": [
+                238,
+                238,
+                228
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "182",
+            "name": "BCDS Gray #3",
+            "nameRu": "Серый 3",
+            "hex": "#e5e5db",
+            "rgb": [
+                229,
+                229,
+                219
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "183",
+            "name": "BCDS Gray #4",
+            "nameRu": "Серый 4",
+            "hex": "#d8d6c9",
+            "rgb": [
+                216,
+                214,
+                201
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "184",
+            "name": "BCDS Gray #5",
+            "nameRu": "Серый 5",
+            "hex": "#b7b6a2",
+            "rgb": [
+                183,
+                182,
+                162
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "185",
+            "name": "BCDS Gray #6",
+            "nameRu": "Серый 6",
+            "hex": "#9b9a86",
+            "rgb": [
+                155,
+                154,
+                134
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "186",
+            "name": "BCDS Gray #7",
+            "nameRu": "Серый 7",
+            "hex": "#878672",
+            "rgb": [
+                135,
+                134,
+                114
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "187",
+            "name": "BCDS Gray #8",
+            "nameRu": "Серый 8",
+            "hex": "#72715f",
+            "rgb": [
+                114,
+                113,
+                95
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "188",
+            "name": "BCDS Gray #9",
+            "nameRu": "Серый 9",
+            "hex": "#646256",
+            "rgb": [
+                100,
+                98,
+                86
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "189",
+            "name": "BCDS Gray #10",
+            "nameRu": "Серый 10",
+            "hex": "#3f3d30",
+            "rgb": [
+                63,
+                61,
+                48
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG462",
+            "name": "Warm Gray #0",
+            "nameRu": "",
+            "hex": "#f0f0f0",
+            "rgb": [
+                240,
+                240,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG463",
+            "name": "Warm Gray #1",
+            "nameRu": "",
+            "hex": "#ececec",
+            "rgb": [
+                236,
+                236,
+                236
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG464",
+            "name": "Warm Gray #2",
+            "nameRu": "",
+            "hex": "#e4e2e3",
+            "rgb": [
+                228,
+                226,
+                227
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG465",
+            "name": "Warm Gray #3",
+            "nameRu": "",
+            "hex": "#d8d4d3",
+            "rgb": [
+                216,
+                212,
+                211
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG466",
+            "name": "Warm Gray #4",
+            "nameRu": "",
+            "hex": "#cbc8c3",
+            "rgb": [
+                203,
+                200,
+                195
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG467",
+            "name": "Warm Gray #5",
+            "nameRu": "",
+            "hex": "#b8b3af",
+            "rgb": [
+                184,
+                179,
+                175
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG468",
+            "name": "Warm Gray #6",
+            "nameRu": "",
+            "hex": "#9f9c97",
+            "rgb": [
+                159,
+                156,
+                151
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG469",
+            "name": "Warm Gray #8",
+            "nameRu": "",
+            "hex": "#8a807e",
+            "rgb": [
+                138,
+                128,
+                126
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG470",
+            "name": "Warm Gray #9",
+            "nameRu": "",
+            "hex": "#695f5d",
+            "rgb": [
+                105,
+                95,
+                93
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "WG471",
+            "name": "Warm Gray #10",
+            "nameRu": "",
+            "hex": "#4c4240",
+            "rgb": [
+                76,
+                66,
+                64
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "PG43",
+            "name": "Purplish Gray #3",
+            "nameRu": "",
+            "hex": "#f3eff0",
+            "rgb": [
+                243,
+                239,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "PG38",
+            "name": "Purplish Gray #4",
+            "nameRu": "Пурпурно серый 4",
+            "hex": "#e8dde1",
+            "rgb": [
+                232,
+                221,
+                225
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "PG39",
+            "name": "Purplish Gray #5",
+            "nameRu": "Пурпурно серый 5",
+            "hex": "#c9bdc1",
+            "rgb": [
+                201,
+                189,
+                193
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "PG40",
+            "name": "Purplish Gray #6",
+            "nameRu": "Пурпурно серый 6",
+            "hex": "#b5a4aa",
+            "rgb": [
+                181,
+                164,
+                170
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "PG41",
+            "name": "Purplish Gray #7",
+            "nameRu": "Пурпурно серый 7",
+            "hex": "#a29398",
+            "rgb": [
+                162,
+                147,
+                152
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "PG42",
+            "name": "Purplish Gray #8",
+            "nameRu": "Пурпурно серый 8",
+            "hex": "#8a7e82",
+            "rgb": [
+                138,
+                126,
+                130
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG472",
+            "name": "Simple Gray #1",
+            "nameRu": "",
+            "hex": "#ecebf0",
+            "rgb": [
+                236,
+                235,
+                240
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG473",
+            "name": "Simple Gray #2",
+            "nameRu": "",
+            "hex": "#e6e5eb",
+            "rgb": [
+                230,
+                229,
+                235
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG474",
+            "name": "Simple Gray #3",
+            "nameRu": "",
+            "hex": "#dbd9e4",
+            "rgb": [
+                219,
+                217,
+                228
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG475",
+            "name": "Simple Gray #4",
+            "nameRu": "",
+            "hex": "#cfced4",
+            "rgb": [
+                207,
+                206,
+                212
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG476",
+            "name": "Simple Gray #5",
+            "nameRu": "",
+            "hex": "#9c979d",
+            "rgb": [
+                156,
+                151,
+                157
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG477",
+            "name": "Simple Gray #7",
+            "nameRu": "",
+            "hex": "#9c979d",
+            "rgb": [
+                156,
+                151,
+                157
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG478",
+            "name": "Simple Gray #8",
+            "nameRu": "",
+            "hex": "#777278",
+            "rgb": [
+                119,
+                114,
+                120
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "SG479",
+            "name": "Simple Gray #9",
+            "nameRu": "",
+            "hex": "#585357",
+            "rgb": [
+                88,
+                83,
+                87
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG309",
+            "name": "Blue Gray #3",
+            "nameRu": "",
+            "hex": "#e5eff1",
+            "rgb": [
+                229,
+                239,
+                241
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG85",
+            "name": "Blue Gray #4",
+            "nameRu": "Серо синий 4",
+            "hex": "#d9dce1",
+            "rgb": [
+                217,
+                220,
+                225
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG86",
+            "name": "Blue Gray #5",
+            "nameRu": "Серо синий 5",
+            "hex": "#b9cad1",
+            "rgb": [
+                185,
+                202,
+                209
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG87",
+            "name": "Blue Gray #6",
+            "nameRu": "Серо синий 6",
+            "hex": "#86a1aa",
+            "rgb": [
+                134,
+                161,
+                170
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG88",
+            "name": "Blue Gray #7",
+            "nameRu": "Серо синий 7",
+            "hex": "#70848b",
+            "rgb": [
+                112,
+                132,
+                139
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "BG89",
+            "name": "Blue Gray #8",
+            "nameRu": "Серо синий 8",
+            "hex": "#526873",
+            "rgb": [
+                82,
+                104,
+                115
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "GG310",
+            "name": "Green Gray #3",
+            "nameRu": "",
+            "hex": "#e7e9e6",
+            "rgb": [
+                231,
+                233,
+                230
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "GG63",
+            "name": "Green Gray #4",
+            "nameRu": "Серо зеленый 4",
+            "hex": "#d3d8d2",
+            "rgb": [
+                211,
+                216,
+                210
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "GG64",
+            "name": "Green Gray #5",
+            "nameRu": "Серо зеленый 5",
+            "hex": "#babfbb",
+            "rgb": [
+                186,
+                191,
+                187
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "GG65",
+            "name": "Green Gray #6",
+            "nameRu": "Серо зеленый 6",
+            "hex": "#9da3a1",
+            "rgb": [
+                157,
+                163,
+                161
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "GG66",
+            "name": "Green Gray #7",
+            "nameRu": "Серо зеленый 7",
+            "hex": "#757e7d",
+            "rgb": [
+                117,
+                126,
+                125
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "GG67",
+            "name": "Green Gray #8",
+            "nameRu": "Серо зеленый 8",
+            "hex": "#5d6568",
+            "rgb": [
+                93,
+                101,
+                104
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "FY283",
+            "name": "Fluorescent Yellow",
+            "nameRu": "Флуоресцентный желтый",
+            "hex": "#f2ec64",
+            "rgb": [
+                242,
+                236,
+                100
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "FR284",
+            "name": "Fluorescent Pink",
+            "nameRu": "Флуоресцентный розовый",
+            "hex": "#ee89b5",
+            "rgb": [
+                238,
+                137,
+                181
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "FB285",
+            "name": "Fluorescent Blue",
+            "nameRu": "Флуоресцентный синий",
+            "hex": "#1ec4f4",
+            "rgb": [
+                30,
+                196,
+                244
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "FYR286",
+            "name": "Fluorescent Orange",
+            "nameRu": "Флуоресцентный оранжевый",
+            "hex": "#f37221",
+            "rgb": [
+                243,
+                114,
+                33
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "FYG287",
+            "name": "Fluorescent Green",
+            "nameRu": "Флуоресцентный зеленый",
+            "hex": "#77be54",
+            "rgb": [
+                119,
+                190,
+                84
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "FV288",
+            "name": "Fluorescent Violet",
+            "nameRu": "Флуоресцентный фиолетовый",
+            "hex": "#7a7ebd",
+            "rgb": [
+                122,
+                126,
+                189
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "00",
+            "name": "Blender",
+            "nameRu": "Бесцветный блендер",
+            "hex": "#ffffff",
+            "rgb": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "190",
+            "name": "Coal Black",
+            "nameRu": "Угольный черный",
+            "hex": "#32290c",
+            "rgb": [
+                50,
+                41,
+                12
+            ]
+        },
+        {
+            "brand": "Finecolour",
+            "code": "191",
+            "name": "Black",
+            "nameRu": "Черный",
+            "hex": "#231816",
+            "rgb": [
+                35,
+                24,
+                22
+            ]
+        }
+    ]
+}
