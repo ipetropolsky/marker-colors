@@ -19,3 +19,41 @@ code {
 .app-content {
     flex-grow: 1;
 }
+
+.marker {
+    border-radius: 75px;
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+.marker-brand {
+    position: absolute;
+    left: 50%;
+    top: -15px;
+    font-size: 10px;
+    transform: translateX(-50%);
+    white-space: nowrap;
+}
+
+.marker-code {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+}
+
+.marker-name {
+    display: none;
+}
+
+.marker-checked {
+    position: absolute;
+    right: -10px;
+    top: 0;
+}
