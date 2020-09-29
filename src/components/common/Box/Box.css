@@ -1,0 +1,11 @@
+.box {
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.box__title {
+    margin-bottom: var(--spacing2);
+}
