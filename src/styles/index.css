@@ -12,14 +12,6 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
-.app-container {
-    display: flex;
-}
-
-.app-content {
-    flex-grow: 1;
-}
-
 .marker {
     border-radius: 100px;
     width: 100px;

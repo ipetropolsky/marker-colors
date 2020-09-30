@@ -1,187 +1,126 @@
-import React, { useCallback, useState } from 'react';
+import React, { useCallback, useMemo, useState } from 'react';
 
-import MuiButton from '@material-ui/core/Button';
 import MuiGrid from '@material-ui/core/Grid';
-import MuiMenuItem from '@material-ui/core/MenuItem';
-import CheckCircleRoundedIcon from '@material-ui/icons/CheckCircleRounded';
-import { green } from '@material-ui/core/colors';
+import MuiBox from '@material-ui/core/Box';
 
 import Box from '../../components/common/Box';
-import BoxTitle from '../../components/common/Box/Title';
 import Input from '../../components/common/Input';
-import Select from '../../components/common/Select';
-import fuzzySearch from '../../modules/fuzzySearch';
+import MultiSelect from '../../components/common/MultiSelect';
+import { getAllMarkers, filterMarkers, sortMarkersByHex } from '../../modules/markersData';
+import { toggle } from '../../modules/toggle';
+import Marker from '../../components/Marker';
 
-import CopicJSON from '../../data/markerColorsCopic';
-import SketchmarkerJSON from '../../data/markerColorsSketchmarker';
-import FinecolourJSON from '../../data/markerColorsFinecolour';
+import { loadUserData } from '../../userData';
+import { makeStyles } from '@material-ui/core/styles';
 
-import { saveChecked, loadUserData } from '../../userData';
-
-const FILTER_BY_CHECKED = {
-    ALL: 'FILTER_BY_CHECKED_ALL',
-    CHECKED: 'FILTER_BY_CHECKED_CHECKED',
-    UNCHECKED: 'FILTER_BY_CHECKED_UNCHECKED',
-};
-
-const Marker = ({ markerId, brand, hex, rgb, code, name, checked, onClick }) => {
-    const luma = 0.2126 * rgb[0] + 0.7152 * rgb[1] + 0.0722 * rgb[2];
-    const color = luma < 128 ? '#ffffff' : '#000000';
-    return (
-        <div
-            className={`marker ${checked ? 'marker_checked' : ''}`}
-            style={{ backgroundColor: hex }}
-            onClick={() => {
-                onClick(markerId, !checked);
-            }}
-        >
-            <span className="marker-brand">{brand}</span>
-            <span className="marker-title" style={{ color }}>
-                <span className="marker-code">{code}</span>
-                <span className="marker-name">{name}</span>
-            </span>
-            {checked && (
-                <span className="marker-checked">
-                    <CheckCircleRoundedIcon style={{ color: green[500] }} />
-                </span>
-            )}
-        </div>
-    );
-};
-
-const matchBrand = (marker, query) => {
-    return fuzzySearch.match(query, marker.brand);
-};
-
-const matchText = (marker, query) => {
-    return (
-        fuzzySearch.match(query, marker.code) ||
-        fuzzySearch.match(query, marker.name) ||
-        fuzzySearch.match(query, marker.nameRu)
-    );
-};
-
-const matchColor = (marker, query) => {
-    return fuzzySearch.match(query, marker.hex);
-};
+const useStyles = makeStyles((theme) => ({
+    filterButton: {
+        marginLeft: theme.spacing(2),
+    },
+}));
 
 const Page = () => {
-    const copic = CopicJSON.copic;
-    const sketchmarker = SketchmarkerJSON.sketchmarker;
-    const finecolour = FinecolourJSON.finecolour;
-    const markers = copic.concat(sketchmarker).concat(finecolour);
+    const classes = useStyles();
+
+    const markers = sortMarkersByHex(getAllMarkers());
+    const brands = useMemo(() => {
+        const brands = new Set();
+        markers.forEach((marker) => brands.add(marker.brand));
+        const sortedBrands = [...brands];
+        sortedBrands.sort();
+        return sortedBrands;
+    }, [markers]);
 
     const userData = loadUserData();
-    const [checkedMarkers, setCheckedMarkers] = useState(userData.checked);
-    const [filterByBrand, setFilterByBrand] = useState('');
-    const [filterByText, setFilterByText] = useState('');
+    const collections = Object.keys(userData.collections);
+
+    const [filterByBrand, setFilterByBrand] = useState([]);
+    const [filterByCode, setFilterByCode] = useState('');
+    const [filterByName, setFilterByName] = useState('');
     const [filterByColor, setFilterByColor] = useState('');
-    const [filterByChecked, setFilterByChecked] = useState(FILTER_BY_CHECKED.ALL);
+    const [filterByCollection, setFilterByCollection] = useState([]);
 
-    const matchChecked = useCallback(
-        (marker, filterType) => {
-            switch (filterType) {
-                case FILTER_BY_CHECKED.CHECKED:
-                    return checkedMarkers.includes(marker.markerId);
-                case FILTER_BY_CHECKED.UNCHECKED:
-                    return !checkedMarkers.includes(marker.markerId);
-                default:
-                    return true;
-            }
-        },
-        [checkedMarkers]
-    );
-
-    markers.sort((a, b) => parseInt(b.hex.replace('#', ''), 16) - parseInt(a.hex.replace('#', ''), 16));
-    markers.forEach((marker) => {
-        marker.markerId = `${marker.brand}-${marker.code}`;
-    });
-
-    const onClick = (markerId, newChecked) => {
-        const newCheckedMarkers = newChecked
-            ? [...checkedMarkers, markerId]
-            : checkedMarkers.filter((id) => id !== markerId);
-        setCheckedMarkers(newCheckedMarkers);
-        saveChecked(newCheckedMarkers);
+    const toggleFilterByBrand = (name, checked) => {
+        setFilterByBrand(toggle(filterByBrand, name, checked));
     };
 
-    const applyFilterByBrand = (value) => {
-        setFilterByBrand(value);
+    const applyFilterByCode = (value) => {
+        setFilterByCode(value);
     };
 
-    const applyFilterByText = (value) => {
-        setFilterByText(value);
+    const applyFilterByName = (value) => {
+        setFilterByName(value);
     };
 
     const applyFilterByColor = (value) => {
         setFilterByColor(value);
     };
 
-    const applyFilterByChecked = (value) => {
-        console.log(value);
-        setFilterByChecked(value);
+    const toggleFilterByCollection = (name, checked) => {
+        setFilterByCollection(toggle(filterByCollection, name, checked));
     };
 
-    const filteredMarkers = markers.filter((marker) => {
-        return (
-            matchColor(marker, filterByColor) &&
-            matchBrand(marker, filterByBrand) &&
-            matchText(marker, filterByText) &&
-            matchChecked(marker, filterByChecked)
-        );
+    const filteredMarkers = filterMarkers(markers, {
+        color: filterByColor,
+        brand: filterByBrand,
+        code: filterByCode,
+        name: filterByName,
+        collection: filterByCollection.map((name) => userData.collections[name] || []),
     });
+
+    const allBrandsSelected = !filterByBrand.length || filterByBrand.length === brands.length;
 
     return (
         <>
             <MuiGrid container spacing={4}>
                 <MuiGrid item xs={12} md={12} lg={12}>
-                    <BoxTitle>Фильтр</BoxTitle>
                     <Box>
                         <MuiGrid container spacing={3}>
-                            <MuiGrid item xs={12} md={3} lg={3}>
+                            <MuiGrid item xs={6} md={4} lg={4}>
                                 <Input
-                                    value={filterByBrand}
-                                    onChange={({ target }) => applyFilterByBrand(target.value)}
-                                    label="Производитель"
+                                    value={filterByCode}
+                                    onChange={({ target }) => applyFilterByCode(target.value)}
+                                    label="Код"
                                 />
                             </MuiGrid>
-                            <MuiGrid item xs={12} md={3} lg={3}>
+                            <MuiGrid item xs={6} md={4} lg={4}>
                                 <Input
-                                    value={filterByText}
-                                    onChange={({ target }) => applyFilterByText(target.value)}
-                                    label="Код/название"
+                                    value={filterByName}
+                                    onChange={({ target }) => applyFilterByName(target.value)}
+                                    label="Название"
                                 />
                             </MuiGrid>
-                            <MuiGrid item xs={12} md={3} lg={3}>
+                            <MuiGrid item xs={6} md={4} lg={4}>
                                 <Input
                                     value={filterByColor}
                                     onChange={({ target }) => applyFilterByColor(target.value)}
                                     label="Цвет"
                                 />
                             </MuiGrid>
-                            <MuiGrid item xs={12} md={3} lg={3}>
-                                <Select
-                                    value={filterByChecked}
-                                    onChange={({ target }) => applyFilterByChecked(target.value)}
-                                    label="Выбранные"
-                                >
-                                    <MuiMenuItem value={FILTER_BY_CHECKED.ALL}>Все</MuiMenuItem>
-                                    <MuiMenuItem value={FILTER_BY_CHECKED.CHECKED}>Только выбранные</MuiMenuItem>
-                                    <MuiMenuItem value={FILTER_BY_CHECKED.UNCHECKED}>Кроме выбранных</MuiMenuItem>
-                                </Select>
+                            <MuiGrid item xs={6} sm={6} md={12} lg={12}>
+                                <MuiBox style={{ display: 'inline-block', marginRight: 10, marginBottom: 10 }}>
+                                    <MultiSelect
+                                        title={`Производители ${!allBrandsSelected ? `(${filterByBrand.length})` : ''}`}
+                                        items={brands.map((id) => ({ id, text: id }))}
+                                        checked={filterByBrand}
+                                        toggle={toggleFilterByBrand}
+                                        className={classes.filterButton}
+                                    />
+                                </MuiBox>
+                                <MultiSelect
+                                    title={`В коллекциях ${
+                                        filterByCollection.length ? `(${filterByCollection.length})` : ''
+                                    }`}
+                                    items={collections.map((id) => ({ id, text: id }))}
+                                    checked={filterByCollection}
+                                    toggle={toggleFilterByCollection}
+                                />
                             </MuiGrid>
                         </MuiGrid>
                     </Box>
 
                     {filteredMarkers.map((marker) => {
-                        return (
-                            <Marker
-                                key={marker.markerId}
-                                {...marker}
-                                onClick={onClick}
-                                checked={checkedMarkers.includes(marker.markerId)}
-                            />
-                        );
+                        return <Marker key={marker.markerId} {...marker} />;
                     })}
                 </MuiGrid>
             </MuiGrid>
