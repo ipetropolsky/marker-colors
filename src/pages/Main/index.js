@@ -6,7 +6,7 @@ import MuiBox from '@material-ui/core/Box';
 import Box from '../../components/common/Box';
 import Input from '../../components/common/Input';
 import MultiSelect from '../../components/common/MultiSelect';
-import { getAllMarkers, filterMarkers, sortMarkersByHex } from '../../modules/markersData';
+import { getMarkers, filterMarkers, sortMarkersByHex } from '../../modules/markersData';
 import { toggle } from '../../modules/toggle';
 import Marker from '../../components/Marker';
 
@@ -22,14 +22,10 @@ const useStyles = makeStyles((theme) => ({
 const Page = () => {
     const classes = useStyles();
 
-    const markers = sortMarkersByHex(getAllMarkers());
-    const brands = useMemo(() => {
-        const brands = new Set();
-        markers.forEach((marker) => brands.add(marker.brand));
-        const sortedBrands = [...brands];
-        sortedBrands.sort();
-        return sortedBrands;
-    }, [markers]);
+    const { allMarkers, markersByBrand } = getMarkers();
+    const markers = sortMarkersByHex(allMarkers);
+    const brands = Object.keys(markersByBrand);
+    brands.sort();
 
     const userData = loadUserData();
     const collections = Object.keys(userData.collections);

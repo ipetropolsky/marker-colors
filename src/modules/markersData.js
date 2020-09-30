@@ -1,18 +1,31 @@
+import memoize from 'memoize-one';
+
 import CopicJSON from '../data/markerColorsCopic';
 import SketchmarkerJSON from '../data/markerColorsSketchmarker';
 import FinecolourJSON from '../data/markerColorsFinecolour';
 import fuzzySearch from './fuzzySearch';
 
-export const getAllMarkers = () => {
+export const getMarkers = memoize(() => {
     const copic = CopicJSON.copic;
     const sketchmarker = SketchmarkerJSON.sketchmarker;
     const finecolour = FinecolourJSON.finecolour;
-    const markers = copic.concat(sketchmarker).concat(finecolour);
-    markers.forEach((marker) => {
+    const result = {
+        markersById: {},
+        markersByCode: {},
+        markersByBrand: {
+            copic,
+            sketchmarker,
+            finecolour,
+        },
+        allMarkers: copic.concat(sketchmarker).concat(finecolour),
+    };
+    result.allMarkers.forEach((marker) => {
         marker.markerId = `${marker.brand}-${marker.code}`;
+        result.markersById[marker.markerId] = marker;
+        result.markersByCode[marker.code] = marker;
     });
-    return markers;
-};
+    return result;
+});
 
 export const sortMarkersByHex = (markers) => {
     return [...markers].sort((a, b) => parseInt(b.hex.replace('#', ''), 16) - parseInt(a.hex.replace('#', ''), 16));
@@ -43,7 +56,7 @@ export const filterMarkers = (
     filter = { color: null, brand: null, code: null, name: null, collection: [] }
 ) => {
     const allFilterCollections = (filter.collection || []).reduce(
-        (collection, result) => result.concat(collection),
+        (result, collection) => result.concat(collection),
         []
     );
     return markers.filter(
@@ -54,4 +67,12 @@ export const filterMarkers = (
             matchName(marker, filter.name) &&
             matchCollection(marker, allFilterCollections)
     );
+};
+
+export const getMarkersByCollection = (markersById = { markersById: [] }, collections = {}) => {
+    const names = Object.keys(collections);
+    return names.reduce((result, name) => {
+        result[name] = collections[name].map((markerId) => markersById[markerId]);
+        return result;
+    }, {});
 };

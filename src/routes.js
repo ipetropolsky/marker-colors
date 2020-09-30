@@ -8,13 +8,13 @@ import CollectionsPage from './pages/Collections';
 const routes = [
     {
         path: '/',
-        component: MainPage(),
+        component: MainPage,
         title: 'Маркеры',
         menuIcon: <BrushIcon />,
     },
     {
         path: '/collections',
-        component: CollectionsPage(),
+        component: CollectionsPage,
         title: 'Коллекции',
         menuIcon: <BookmarksIcon />,
     },
